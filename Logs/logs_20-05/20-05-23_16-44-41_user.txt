@@ -1,0 +1,28 @@
+[20-05-23 16:44:41.042] added connection index=0 127.0.0.1.
+[20-05-23 16:44:43.759] 76561198084012853 "zehio" attempting to join.
+[20-05-23 16:44:43.760] 76561198084012853 "zehio" allowed to join.
+[20-05-23 16:44:52.328] 76561198084012853 "zehio" attempting to join used queue.
+[20-05-23 16:44:58.594] player zehio loading time was: 6001 ms.
+[20-05-23 16:44:59.657] 76561198084012853 "zehio" fully connected (10141,9492,0).
+[20-05-23 16:45:35.987] added connection index=1 29.249.155.64.
+[20-05-23 16:45:38.572] 76561198362912133 "Danowookie" attempting to join.
+[20-05-23 16:45:38.572] 76561198362912133 "Danowookie" allowed to join.
+[20-05-23 16:45:42.366] 76561198362912133 "Danowookie" attempting to join used queue.
+[20-05-23 16:46:33.953] user zehio died at (10133,9526,0) (non pvp).
+[20-05-23 16:46:58.011] 76561198362912133 "Danowookie" removed connection index=1.
+[20-05-23 16:47:59.958] added connection index=1 227.198.50.73.
+[20-05-23 16:48:02.667] 76561198362912133 "Danowookie" attempting to join.
+[20-05-23 16:48:02.667] 76561198362912133 "Danowookie" allowed to join.
+[20-05-23 16:48:06.589] 76561198362912133 "Danowookie" attempting to join used queue.
+[20-05-23 16:48:15.631] player Danowookie loading time was: 8787 ms.
+[20-05-23 16:48:30.060] 76561198362912133 "Danowookie" fully connected (10137,9491,0).
+[20-05-23 16:49:45.233] user Danowookie died at (10140,9508,0) (non pvp).
+[20-05-23 16:50:54.577] 76561198084012853 "zehio" disconnected player (10133,9526,0).
+[20-05-23 16:50:56.832] 76561198084012853 "zehio" fully connected (10944,9374,0).
+[20-05-23 16:51:39.456] 76561198362912133 "Danowookie" disconnected player (10140,9508,0).
+[20-05-23 16:51:41.714] 76561198362912133 "Danowookie" fully connected (10872,9489,0).
+[20-05-23 17:02:28.560] user Danowookie died at (10950,9376,0) (non pvp).
+[20-05-23 17:04:39.253] 76561198362912133 "Danowookie" disconnected player (10950,9376,0).
+[20-05-23 17:04:41.733] 76561198362912133 "Danowookie" fully connected (10919,10132,0).
+[20-05-23 17:17:12.072] 76561198084012853 "zehio" removed connection index=0.
+[20-05-23 17:17:12.084] 76561198084012853 "zehio" disconnected player (10945,9371,0).

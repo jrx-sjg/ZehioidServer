@@ -1,0 +1,33 @@
+[28-05-23 23:19:06.580] added connection index=0 212.225.225.101.
+[28-05-23 23:19:08.565] 76561198843937901 "AetherKiller" attempting to join.
+[28-05-23 23:19:08.566] 76561198843937901 "AetherKiller" allowed to join.
+[28-05-23 23:19:32.641] 76561198843937901 "AetherKiller" attempting to join used queue.
+[28-05-23 23:19:59.466] added connection index=1 79.116.20.171.
+[28-05-23 23:20:01.409] 76561198084012853 "zehio" attempting to join.
+[28-05-23 23:20:01.410] 76561198084012853 "zehio" allowed to join.
+[28-05-23 23:20:03.675] player AetherKiller loading time was: 27973 ms.
+[28-05-23 23:20:07.586] 76561198843937901 "AetherKiller" fully connected (8138,11747,1).
+[28-05-23 23:20:15.075] 76561198084012853 "zehio" attempting to join used queue.
+[28-05-23 23:20:25.631] player zehio loading time was: 10127 ms.
+[28-05-23 23:20:27.509] 76561198084012853 "zehio" fully connected (8152,11730,0).
+[28-05-23 23:42:48.728] 76561198843937901 "AetherKiller" removed connection index=0.
+[28-05-23 23:42:48.744] 76561198843937901 "AetherKiller" disconnected player (8153,11729,0).
+[28-05-23 23:43:17.244] added connection index=0 212.225.225.101.
+[28-05-23 23:43:19.285] 76561198149193682 "susmu" attempting to join.
+[28-05-23 23:43:19.289] 76561198149193682 "susmu" was added.
+[28-05-23 23:43:19.289] 76561198149193682 "susmu" allowed to join.
+[28-05-23 23:45:15.240] added connection index=2 212.225.225.101.
+[28-05-23 23:45:17.402] 76561198843937901 "AetherKiller" attempting to join.
+[28-05-23 23:45:17.403] 76561198843937901 "AetherKiller" allowed to join.
+[28-05-23 23:45:43.970] 76561198843937901 "AetherKiller" attempting to join used queue.
+[28-05-23 23:46:37.302] 76561198149193682 "susmu" attempting to join used queue.
+[28-05-23 23:47:09.795] player AetherKiller loading time was: 82992 ms.
+[28-05-23 23:47:13.175] 76561198843937901 "AetherKiller" fully connected (8153,11729,0).
+[28-05-23 23:47:13.590] player susmu loading time was: 34886 ms.
+[28-05-23 23:47:17.112] 76561198149193682 "susmu" fully connected (8208,11600,0).
+[28-05-23 23:56:20.637] 76561198149193682 "susmu" removed connection index=0.
+[28-05-23 23:56:20.657] 76561198149193682 "susmu" disconnected player (8137,11741,1).
+[28-05-23 23:57:23.832] 76561198843937901 "AetherKiller" removed connection index=2.
+[28-05-23 23:57:23.848] 76561198843937901 "AetherKiller" disconnected player (8143,11730,0).
+[28-05-23 23:57:24.403] 76561198084012853 "zehio" removed connection index=1.
+[28-05-23 23:57:24.419] 76561198084012853 "zehio" disconnected player (8133,11744,1).

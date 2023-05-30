@@ -1,0 +1,14 @@
+[27-05-23 18:54:36.434][INFO] user "zehio" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[27-05-23 18:59:09.376][INFO] user "Danowookie" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[27-05-23 19:08:21.228][INFO] user "AetherKiller" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[27-05-23 19:11:38.070][INFO] user "AetherKiller" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[27-05-23 19:12:25.774][INFO] user "AetherKiller" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[27-05-23 19:26:10.518][INFO] user "agachate y conoselo" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[27-05-23 20:03:13.989][INFO] user "Danowookie" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[27-05-23 20:04:14.420][INFO] user "Danowookie" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[27-05-23 20:08:19.190][INFO] user "AetherKiller" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[27-05-23 20:08:58.264][INFO] user "AetherKiller" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[27-05-23 20:16:40.988][INFO] user "agachate y conoselo" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[27-05-23 20:22:16.964][INFO] user "AetherKiller" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[27-05-23 20:23:17.107][INFO] user "AetherKiller" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[27-05-23 22:04:48.000][INFO] user "zehio" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

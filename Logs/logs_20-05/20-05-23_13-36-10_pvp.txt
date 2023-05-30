@@ -1,0 +1,27 @@
+[20-05-23 13:36:10.346][INFO] user "zehio" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-05-23 13:39:52.281][INFO] user "Danowookie" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-05-23 13:41:34.857][INFO] user "zehio" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-05-23 13:42:39.132][INFO] user "zehio" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-05-23 13:46:49.929][INFO] user "zehio" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-05-23 13:48:35.547][INFO] user "zehio" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-05-23 13:49:27.400] user "zehio" (10916,10133,0) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-05-23 13:49:27.400] user "zehio" (10916,10133,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[20-05-23 13:49:31.978] user "zehio" (10916,10133,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[20-05-23 13:49:31.978] user "zehio" (10916,10133,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[20-05-23 14:02:30.868] user "zehio" (11198,10511,0) enabled safety enabled=true last=false cooldown=0.0 toggle=0.0.
+[20-05-23 14:02:30.868] user "zehio" (11198,10511,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[20-05-23 14:02:40.847] user "zehio" (11198,10511,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[20-05-23 14:02:40.847] user "zehio" (11198,10511,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[20-05-23 14:08:46.388] user "zehio" (11286,10770,0) enabled safety enabled=true last=false cooldown=0.0 toggle=0.0.
+[20-05-23 14:08:46.388] user "zehio" (11286,10770,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[20-05-23 14:09:00.059] user "zehio" (11293,10783,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[20-05-23 14:09:00.059] user "zehio" (11293,10783,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[20-05-23 14:11:29.199][INFO] user "zehio" clear safety enabled=true last=false cooldown=0.0 toggle=0.0.
+[20-05-23 14:12:12.966][INFO] user "zehio" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-05-23 14:15:39.770][INFO] user "Danowookie" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-05-23 14:16:16.328][INFO] user "zehio" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-05-23 14:18:13.984][INFO] user "zehio" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-05-23 14:24:23.228][INFO] user "zehio" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-05-23 14:26:44.657][INFO] user "zehio" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-05-23 14:27:31.439][INFO] user "Danowookie" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-05-23 14:51:45.585][INFO] user "zehio" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

@@ -1,0 +1,11 @@
+[29-05-23 20:38:40.424] [76561198084012853][zehio][8134,11745,1][Login][Hours Survived: 149].
+[29-05-23 20:38:40.424] [76561198084012853][zehio][8134,11745,1][Cooking=1, Fitness=4, Strength=5, Blunt=1, Axe=1, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=2, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=2, PlantScavenging=3, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 149].
+[29-05-23 20:42:15.533] [76561198843937901][AetherKiller][8069,11736,0][Login][Hours Survived: 307].
+[29-05-23 20:42:15.534] [76561198843937901][AetherKiller][8069,11736,0][Cooking=3, Fitness=4, Strength=6, Blunt=0, Axe=3, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=3, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=1, PlantScavenging=1, Doctor=1, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 307].
+[29-05-23 21:07:52.257] [76561198084012853][zehio][8129,11750,1][Level Changed][Cooking][2][Hours Survived: 160].
+[29-05-23 21:08:44.981] [76561198843937901][AetherKiller][8137,11740,1][Login][Hours Survived: 316].
+[29-05-23 21:08:44.981] [76561198843937901][AetherKiller][8137,11740,1][Cooking=3, Fitness=4, Strength=6, Blunt=0, Axe=3, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=3, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=1, PlantScavenging=1, Doctor=1, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 316].
+[29-05-23 21:26:51.008] [76561198843937901][AetherKiller][8055,11751,0][Level Changed][Woodwork][4][Hours Survived: 335].
+[29-05-23 22:00:11.269] [76561198084012853][zehio][8129,11743,1][Login][Hours Survived: 197].
+[29-05-23 22:00:11.269] [76561198084012853][zehio][8129,11743,1][Cooking=2, Fitness=4, Strength=5, Blunt=1, Axe=1, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=2, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=2, PlantScavenging=3, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 197].
+[30-05-23 00:05:35.403] [76561198084012853][zehio][8160,11758,0][Level Changed][Maintenance][1][Hours Survived: 277].

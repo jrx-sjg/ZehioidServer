@@ -1,0 +1,19 @@
+[21-05-23 00:30:41.648] added connection index=0 127.0.0.1.
+[21-05-23 00:30:44.239] 76561198084012853 "zehio" attempting to join.
+[21-05-23 00:30:44.239] 76561198084012853 "zehio" allowed to join.
+[21-05-23 00:30:53.611] 76561198084012853 "zehio" attempting to join used queue.
+[21-05-23 00:30:59.915] player zehio loading time was: 6037 ms.
+[21-05-23 00:31:01.211] 76561198084012853 "zehio" fully connected (10913,9403,1).
+[21-05-23 00:31:36.341] added connection index=1 202.204.47.195.
+[21-05-23 00:31:38.962] 76561198362912133 "Danowookie" attempting to join.
+[21-05-23 00:31:38.962] 76561198362912133 "Danowookie" allowed to join.
+[21-05-23 00:31:43.063] 76561198362912133 "Danowookie" attempting to join used queue.
+[21-05-23 00:31:49.434] player Danowookie loading time was: 6146 ms.
+[21-05-23 00:31:59.183] 76561198362912133 "Danowookie" fully connected (10913,9403,1).
+[21-05-23 00:32:00.607] user zehio died at (10914,9404,1) (non pvp).
+[21-05-23 00:36:30.851] 76561198084012853 "zehio" disconnected player (10914,9404,1).
+[21-05-23 00:36:32.999] 76561198084012853 "zehio" fully connected (10919,10132,0).
+[21-05-23 01:52:49.094] user Danowookie died at (10990,9395,0) (non pvp).
+[21-05-23 01:53:26.079] user zehio died at (10959,9401,0) (non pvp).
+[21-05-23 01:53:40.742] 76561198084012853 "zehio" removed connection index=0.
+[21-05-23 01:53:40.755] 76561198084012853 "zehio" disconnected player (10959,9401,0).

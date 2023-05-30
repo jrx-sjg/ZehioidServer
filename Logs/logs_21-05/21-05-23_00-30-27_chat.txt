@@ -1,0 +1,54 @@
+[21-05-23 00:30:27.830][info] Start chat server initialization....
+[21-05-23 00:30:27.834][info] General chat has id = 0.
+[21-05-23 00:30:27.834][info] Say chat has id = 1.
+[21-05-23 00:30:27.834][info] Shout chat has id = 2.
+[21-05-23 00:30:27.835][info] Radio chat has id = 3.
+[21-05-23 00:30:27.835][info] Admin chat has id = 4.
+[21-05-23 00:30:27.835][info] Server chat has id = 5.
+[21-05-23 00:30:27.835][info] Chat server successfully initialized.
+[21-05-23 00:31:01.203][info] Player with id = '0' tries to connect.
+[21-05-23 00:31:01.203][info] Adding player '0' to chat server.
+[21-05-23 00:31:01.204][info] Player joined to default chats.
+[21-05-23 00:31:01.205][info] Player zehio(0) joined to chat server successfully.
+[21-05-23 00:31:59.182][info] Player with id = '4' tries to connect.
+[21-05-23 00:31:59.182][info] Adding player '4' to chat server.
+[21-05-23 00:31:59.182][info] Player joined to default chats.
+[21-05-23 00:31:59.182][info] Player Danowookie(4) joined to chat server successfully.
+[21-05-23 00:32:00.606][info] Player 0 disconnecting....
+[21-05-23 00:32:00.606][info] Disconnecting player 0 finished.
+[21-05-23 00:36:30.851][info] Player 0 disconnecting....
+[21-05-23 00:36:30.851][info] Disconnecting player 0 finished.
+[21-05-23 00:36:30.852][info] Player with id = '0' tries to connect.
+[21-05-23 00:36:30.852][info] Adding player '0' to chat server.
+[21-05-23 00:36:30.852][error] Player or connection is not found on server!.
+[21-05-23 00:36:30.852][error] player = null.
+[21-05-23 00:36:32.998][info] Player with id = '0' tries to connect.
+[21-05-23 00:36:32.998][info] Adding player '0' to chat server.
+[21-05-23 00:36:32.998][info] Player joined to default chats.
+[21-05-23 00:36:32.998][info] Player zehio(0) joined to chat server successfully.
+[21-05-23 00:52:09.971][info] Got message:ChatMessage{chat=Local, author='zehio', text='psst psst'}.
+[21-05-23 00:52:09.971][info] Message ChatMessage{chat=Local, author='zehio', text='psst psst'} sent to chat (id = 2) members.
+[21-05-23 00:53:32.633][info] Got message:ChatMessage{chat=Local, author='zehio', text='psssst'}.
+[21-05-23 00:53:32.633][info] Message ChatMessage{chat=Local, author='zehio', text='psssst'} sent to chat (id = 2) members.
+[21-05-23 01:18:14.613][info] Got message:ChatMessage{chat=Local, author='zehio', text='psst psst'}.
+[21-05-23 01:18:14.613][info] Message ChatMessage{chat=Local, author='zehio', text='psst psst'} sent to chat (id = 2) members.
+[21-05-23 01:18:51.162][info] Got message:ChatMessage{chat=Local, author='zehio', text='psssst'}.
+[21-05-23 01:18:51.162][info] Message ChatMessage{chat=Local, author='zehio', text='psssst'} sent to chat (id = 2) members.
+[21-05-23 01:18:53.233][info] Got message:ChatMessage{chat=Local, author='zehio', text='psst psst'}.
+[21-05-23 01:18:53.233][info] Message ChatMessage{chat=Local, author='zehio', text='psst psst'} sent to chat (id = 2) members.
+[21-05-23 01:18:56.213][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡HEY!'}.
+[21-05-23 01:18:56.213][info] Message ChatMessage{chat=Local, author='zehio', text='¡HEY!'} sent to chat (id = 2) members.
+[21-05-23 01:28:52.380][info] Got message:ChatMessage{chat=Local, author='zehio', text='psst psst'}.
+[21-05-23 01:28:52.380][info] Message ChatMessage{chat=Local, author='zehio', text='psst psst'} sent to chat (id = 2) members.
+[21-05-23 01:50:56.451][info] Got message:ChatMessage{chat=Local, author='zehio', text='psssst'}.
+[21-05-23 01:50:56.451][info] Message ChatMessage{chat=Local, author='zehio', text='psssst'} sent to chat (id = 2) members.
+[21-05-23 01:51:01.150][info] Got message:ChatMessage{chat=Local, author='zehio', text='psst psst'}.
+[21-05-23 01:51:01.150][info] Message ChatMessage{chat=Local, author='zehio', text='psst psst'} sent to chat (id = 2) members.
+[21-05-23 01:52:49.093][info] Player 4 disconnecting....
+[21-05-23 01:52:49.093][info] Disconnecting player 4 finished.
+[21-05-23 01:53:26.078][info] Player 0 disconnecting....
+[21-05-23 01:53:26.078][info] Disconnecting player 0 finished.
+[21-05-23 01:53:40.754][info] Player 0 disconnecting....
+[21-05-23 01:53:40.755][info] Disconnecting player 0 finished.
+[21-05-23 01:53:40.755][info] Player 0 disconnecting....
+[21-05-23 01:53:40.755][info] Disconnecting player 0 finished.

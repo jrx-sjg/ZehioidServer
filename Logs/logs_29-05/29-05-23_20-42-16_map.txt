@@ -1,0 +1,45 @@
+[29-05-23 20:42:16.435] 76561198084012853 "zehio" removed IsoObject (furniture_tables_high_01_33) at 8140,11732,1.
+[29-05-23 20:42:16.436] 76561198084012853 "zehio" removed IsoObject (furniture_tables_high_01_32) at 8140,11733,1.
+[29-05-23 20:42:59.558] 76561198843937901 "AetherKiller" removed IsoObject (location_business_office_generic_01_40) at 8070,11738,0.
+[29-05-23 20:43:16.515] 76561198843937901 "AetherKiller" removed IsoObject (location_business_office_generic_01_41) at 8070,11737,0.
+[29-05-23 20:44:00.536] 76561198843937901 "AetherKiller" removed IsoObject (location_business_office_generic_01_40) at 8070,11735,0.
+[29-05-23 20:44:17.239] 76561198843937901 "AetherKiller" removed IsoObject (location_business_office_generic_01_41) at 8070,11734,0.
+[29-05-23 20:44:39.745] 76561198084012853 "zehio" added Thumpable (furniture_tables_high_01_34) at 8141.0,11730.0,1.0.
+[29-05-23 20:44:39.746] 76561198084012853 "zehio" added Thumpable (furniture_tables_high_01_35) at 8142.0,11730.0,1.0.
+[29-05-23 20:45:01.590] 76561198843937901 "AetherKiller" removed IsoObject (location_business_office_generic_01_47) at 8072,11730,0.
+[29-05-23 20:45:18.770] 76561198843937901 "AetherKiller" removed IsoObject (location_business_office_generic_01_46) at 8072,11731,0.
+[29-05-23 20:45:54.171] 76561198843937901 "AetherKiller" removed IsoObject (location_business_office_generic_01_42) at 8072,11733,0.
+[29-05-23 20:46:13.698] 76561198843937901 "AetherKiller" removed IsoObject (location_business_office_generic_01_43) at 8073,11733,0.
+[29-05-23 20:47:14.368] 76561198843937901 "AetherKiller" removed IsoObject (location_business_office_generic_01_42) at 8075,11733,0.
+[29-05-23 21:02:35.804] 76561198843937901 "AetherKiller" removed IsoObject (furniture_tables_low_01_17) at 8137,11742,1.
+[29-05-23 21:03:16.134] 76561198843937901 "AetherKiller" removed IsoObject (furniture_tables_low_01_17) at 8139,11742,1.
+[29-05-23 21:04:21.433] 76561198843937901 "AetherKiller" removed IsoObject (furniture_tables_low_01_17) at 8141,11742,1.
+[29-05-23 21:15:13.140] 76561198843937901 "AetherKiller" removed IsoObject (location_shop_generic_01_23) at 8076,11737,0.
+[29-05-23 21:15:39.174] 76561198843937901 "AetherKiller" removed IsoObject (location_shop_generic_01_23) at 8076,11738,0.
+[29-05-23 21:16:02.763] 76561198843937901 "AetherKiller" removed IsoObject (location_shop_generic_01_16) at 8076,11739,0.
+[29-05-23 21:16:28.158] 76561198843937901 "AetherKiller" removed IsoObject (location_shop_generic_01_17) at 8075,11739,0.
+[29-05-23 21:16:49.613] 76561198843937901 "AetherKiller" removed IsoObject (location_shop_generic_01_17) at 8074,11739,0.
+[29-05-23 21:17:13.980] 76561198843937901 "AetherKiller" removed IsoObject (location_shop_generic_01_17) at 8073,11739,0.
+[29-05-23 21:17:36.644] 76561198843937901 "AetherKiller" removed IsoObject (location_business_office_generic_01_43) at 8076,11733,0.
+[29-05-23 21:18:11.228] 76561198843937901 "AetherKiller" removed IsoObject (location_business_office_generic_01_40) at 8075,11730,0.
+[29-05-23 21:18:26.786] 76561198843937901 "AetherKiller" removed IsoObject (location_business_office_generic_01_41) at 8075,11729,0.
+[29-05-23 21:19:24.328] 76561198843937901 "AetherKiller" removed IsoObject (location_business_office_generic_01_40) at 8075,11727,0.
+[29-05-23 21:20:06.146] 76561198843937901 "AetherKiller" removed IsoObject (location_business_office_generic_01_44) at 8074,11723,0.
+[29-05-23 21:21:04.892] 76561198843937901 "AetherKiller" removed IsoObject (location_business_office_generic_01_45) at 8075,11723,0.
+[29-05-23 21:21:29.359] 76561198843937901 "AetherKiller" removed IsoObject (location_business_office_generic_01_41) at 8075,11726,0.
+[29-05-23 21:22:56.196] 76561198843937901 "AetherKiller" removed IsoObject (furniture_seating_outdoor_01_20) at 8056,11745,0.
+[29-05-23 21:22:56.201] 76561198843937901 "AetherKiller" removed IsoObject (furniture_seating_outdoor_01_21) at 8057,11745,0.
+[29-05-23 21:23:13.444] 76561198843937901 "AetherKiller" removed IsoObject (furniture_seating_outdoor_01_23) at 8058,11747,0.
+[29-05-23 21:23:13.449] 76561198843937901 "AetherKiller" removed IsoObject (furniture_seating_outdoor_01_22) at 8058,11748,0.
+[29-05-23 21:23:47.330] 76561198843937901 "AetherKiller" removed IsoObject (furniture_seating_outdoor_01_20) at 8056,11742,0.
+[29-05-23 21:23:47.335] 76561198843937901 "AetherKiller" removed IsoObject (furniture_seating_outdoor_01_21) at 8057,11742,0.
+[29-05-23 21:24:44.847] 76561198843937901 "AetherKiller" removed IsoObject (furniture_seating_outdoor_01_20) at 8050,11749,0.
+[29-05-23 21:24:44.853] 76561198843937901 "AetherKiller" removed IsoObject (furniture_seating_outdoor_01_21) at 8051,11749,0.
+[29-05-23 21:25:26.012] 76561198843937901 "AetherKiller" removed IsoObject (furniture_tables_high_01_34) at 8049,11752,0.
+[29-05-23 21:25:26.016] 76561198843937901 "AetherKiller" removed IsoObject (furniture_tables_high_01_35) at 8050,11752,0.
+[29-05-23 21:26:51.003] 76561198843937901 "AetherKiller" removed IsoObject (location_shop_generic_01_17) at 8055,11752,0.
+[29-05-23 21:27:27.932] 76561198843937901 "AetherKiller" removed IsoObject (location_shop_generic_01_17) at 8056,11752,0.
+[29-05-23 21:28:01.046] 76561198843937901 "AetherKiller" removed IsoObject (location_shop_generic_01_16) at 8057,11752,0.
+[29-05-23 23:05:42.011] 76561198843937901 "AetherKiller" added Rain Collector Barrel (carpentry_02_54) at 8163.0,11734.0,0.0.
+[29-05-23 23:07:51.433] 76561198843937901 "AetherKiller" added Rain Collector Barrel (carpentry_02_54) at 8164.0,11734.0,0.0.
+[29-05-23 23:12:21.796] 76561198084012853 "zehio" destroyed Door with Base.ClubHammer at 8006,11561,0.

@@ -1,0 +1,4 @@
+[21-05-23 00:56:10.483] 76561198084012853 "zehio" removed Door (fixtures_doors_01_16) at 10933,9522,0.
+[21-05-23 01:25:13.215] 76561198362912133 "Danowookie" removed IsoObject (furniture_tables_high_01_11) at 10976,9436,0.
+[21-05-23 01:25:13.216] 76561198362912133 "Danowookie" removed IsoObject (furniture_tables_high_01_10) at 10976,9437,0.
+[21-05-23 01:48:12.506] 76561198084012853 "zehio" removed Redmaple (e_redmapleJUMBO_1_0) at 10939,9399,0.

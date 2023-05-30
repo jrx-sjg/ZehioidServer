@@ -1,0 +1,3 @@
+[20-05-23 16:41:09.793][INFO] user "zehio" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-05-23 16:42:13.020][INFO] user "Danowookie" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[20-05-23 16:42:23.429][INFO] user "zehio" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

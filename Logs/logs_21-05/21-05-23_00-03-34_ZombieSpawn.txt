@@ -1,0 +1,16 @@
+[21-05-23 01:14:57.068] reason = roomSpotted x,y,z = 10879,10033,0 room = livingroom
+reason = RBBurntFireman x,y,z = 10852,9943,0 room = livingroom
+reason = RBBurntFireman x,y,z = 10856,9945,0 room = livingroom
+reason = RBBurntFireman x,y,z = 10853,9944,0 room = livingroom
+reason = RBSafehouse x,y,z = 10889,9939,0 room = livingroom
+reason = RBSafehouse x,y,z = 10887,9937,0 room = livingroom
+reason = RBSafehouse x,y,z = 10889,9941,0 room = bedroom
+reason = RBSafehouse x,y,z = 10884,9938,0 room = kitchen
+reason = RBSafehouse x,y,z = 10884,9937,0 room = kitchen
+reason = roomSpotted x,y,z = 10914,10036,0 room = bedroom
+reason = roomSpotted x,y,z = 10915,10036,0 room = bedroom
+reason = roomSpotted x,y,z = 10913,10036,0 room = bedroom
+reason = roomSpotted x,y,z = 10914,10035,0 room = bedroom
+reason = roomSpotted x,y,z = 10913,10035,0 room = bedroom
+reason = roomSpotted x,y,z = 10915,10035,0 room = bedroom.
+[21-05-23 01:15:43.624] ================================================================================.

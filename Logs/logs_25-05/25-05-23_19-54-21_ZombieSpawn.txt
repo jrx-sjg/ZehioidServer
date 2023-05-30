@@ -1,0 +1,14 @@
+[25-05-23 21:04:38.348] reason = roomSpotted x,y,z = 8064,11645,0 room = office
+reason = roomSpotted x,y,z = 8068,11670,0 room = hall
+reason = roomSpotted x,y,z = 8057,11658,0 room = hall
+reason = roomSpotted x,y,z = 8055,11659,0 room = hall
+reason = roomSpotted x,y,z = 8064,11643,1 room = office
+reason = roomSpotted x,y,z = 8062,11666,1 room = office
+reason = roomSpotted x,y,z = 8057,11663,1 room = office
+reason = roomSpotted x,y,z = 8059,11665,1 room = office
+reason = roomSpotted x,y,z = 8052,11643,1 room = office
+reason = roomSpotted x,y,z = 8074,11671,0 room = hall
+reason = roomSpotted x,y,z = 8057,11676,0 room = hall
+reason = roomSpotted x,y,z = 8055,11676,0 room = meetingroom
+reason = createEatingZombies x,y,z = 8081,11577,0
+reason = createEatingZombies x,y,z = 8082,11577,0.

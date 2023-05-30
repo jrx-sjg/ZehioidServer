@@ -1,0 +1,18 @@
+VERSION = 1,
+
+mods
+{
+	mod = EQUIPMENT_UI,
+	mod = BB_CommonSense,
+	mod = Named Literature,
+	mod = ModTemplate,
+	mod = MoreDescriptionForTraits4166,
+	mod = TMC_TrueActions,
+	mod = tsarslib,
+	mod = TrueActionsDancing,
+	mod = TrueActions4Talking,
+}
+
+maps
+{
+}

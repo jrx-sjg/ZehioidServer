@@ -1,0 +1,2 @@
+[20-05-23 19:29:33.744] [76561198362912133][ISEnterVehicle][Danowookie][10848,9440,0][SmallCar].
+[20-05-23 19:29:54.193] [76561198362912133][ISExitVehicle][Danowookie][10849,9439,0][SmallCar].

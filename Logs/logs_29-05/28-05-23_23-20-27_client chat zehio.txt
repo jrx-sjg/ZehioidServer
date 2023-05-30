@@ -1,0 +1,4 @@
+[28-05-23 23:20:27.530][info] Init chat system....
+[28-05-23 23:20:27.530][info] Mode: multiplayer.
+[28-05-23 23:20:27.531][info] Chat owner: zehio.
+[28-05-23 23:21:51.459][info] Got message from server: ChatMessage{chat=Local, author='AetherKiller', text='¡EH TÚ!'}.

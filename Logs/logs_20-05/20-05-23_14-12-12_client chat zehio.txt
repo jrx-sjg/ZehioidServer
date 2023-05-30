@@ -1,0 +1,4 @@
+[20-05-23 14:12:12.987][info] Init chat system....
+[20-05-23 14:12:12.987][info] Mode: multiplayer.
+[20-05-23 14:12:12.987][info] Chat owner: zehio.
+[20-05-23 14:13:01.406][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='teleported Danowookie to zehio'}.

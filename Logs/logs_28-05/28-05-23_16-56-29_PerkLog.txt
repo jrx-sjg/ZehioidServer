@@ -1,0 +1,40 @@
+[28-05-23 16:56:29.435] [76561198084012853][zehio][8138,11748,1][Login][Hours Survived: 92].
+[28-05-23 16:56:29.436] [76561198084012853][zehio][8138,11748,1][Cooking=1, Fitness=4, Strength=5, Blunt=0, Axe=2, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=2, Aiming=0, Reloading=0, Farming=1, Fishing=1, Trapping=2, PlantScavenging=2, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 92].
+[28-05-23 16:57:56.828] [76561198084012853][zehio][8143,11748,1][Login][Hours Survived: 92].
+[28-05-23 16:57:56.829] [76561198084012853][zehio][8143,11748,1][Cooking=1, Fitness=4, Strength=5, Blunt=0, Axe=2, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=2, Aiming=0, Reloading=0, Farming=1, Fishing=1, Trapping=2, PlantScavenging=2, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 92].
+[28-05-23 17:03:33.537] [76561198843937901][zehio][8141,11749,1][Login][Hours Survived: 93].
+[28-05-23 17:03:33.537] [76561198843937901][zehio][8141,11749,1][Cooking=1, Fitness=4, Strength=5, Blunt=0, Axe=2, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=2, Aiming=0, Reloading=0, Farming=1, Fishing=1, Trapping=2, PlantScavenging=2, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 93].
+[28-05-23 17:06:57.440] [76561198084012853][zehio][8141,11749,1][Login][Hours Survived: 93].
+[28-05-23 17:06:57.440] [76561198084012853][zehio][8141,11749,1][Cooking=1, Fitness=4, Strength=5, Blunt=0, Axe=2, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=2, Aiming=0, Reloading=0, Farming=1, Fishing=1, Trapping=2, PlantScavenging=2, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 93].
+[28-05-23 17:07:27.939] [76561198362912133][Danowookie][8137,11741,1][Login][Hours Survived: 64].
+[28-05-23 17:07:27.939] [76561198362912133][Danowookie][8137,11741,1][Cooking=1, Fitness=6, Strength=6, Blunt=0, Axe=1, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=1, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 64].
+[28-05-23 17:09:35.135] [76561198843937901][AetherKiller][8139,11741,1][Login][Hours Survived: 56].
+[28-05-23 17:09:35.136] [76561198843937901][AetherKiller][8139,11741,1][Cooking=1, Fitness=4, Strength=6, Blunt=0, Axe=2, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=1, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 56].
+[28-05-23 17:21:15.905] [76561198084012853][zehio][8142,11748,1][Level Changed][Woodwork][3][Hours Survived: 99].
+[28-05-23 17:21:15.905] [76561198362912133][Danowookie][8143,11748,1][Level Changed][Woodwork][1][Hours Survived: 69].
+[28-05-23 17:21:17.514] [76561198843937901][AetherKiller][8143,11749,1][Level Changed][Woodwork][2][Hours Survived: 61].
+[28-05-23 17:28:29.152] [76561198084012853][zehio][8168,11738,0][Died][Hours Survived: 102].
+[28-05-23 17:29:54.700] [76561198084012853][zehio][8418,11686,0][Created Player 1][Hours Survived: 0].
+[28-05-23 17:29:54.700] [76561198084012853][zehio][8418,11686,0][Cooking=0, Fitness=4, Strength=5, Blunt=0, Axe=1, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=1, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=2, PlantScavenging=2, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[28-05-23 18:08:39.877] [76561198084012853][zehio][8126,11638,0][Level Changed][Woodwork][2][Hours Survived: 20].
+[28-05-23 18:09:10.119] [76561198362912133][Danowookie][8127,11639,0][Level Changed][Woodwork][2][Hours Survived: 93].
+[28-05-23 18:23:53.303] [76561198084012853][zehio][8143,11748,1][Level Changed][Trapping][3][Hours Survived: 26].
+[28-05-23 18:23:57.010] [76561198362912133][Danowookie][8142,11748,1][Level Changed][Trapping][1][Hours Survived: 99].
+[28-05-23 18:23:57.025] [76561198843937901][AetherKiller][8142,11748,1][Level Changed][Trapping][1][Hours Survived: 91].
+[28-05-23 18:31:02.992] [76561198084012853][zehio][8142,11748,1][Level Changed][Cooking][1][Hours Survived: 38].
+[28-05-23 18:31:24.931] [76561198843937901][AetherKiller][8142,11748,1][Level Changed][Cooking][2][Hours Survived: 103].
+[28-05-23 18:31:28.124] [76561198362912133][Danowookie][8143,11747,1][Level Changed][Cooking][2][Hours Survived: 111].
+[28-05-23 18:45:02.605] [76561198080106690][manueltai25][8418,11686,0][Login][Hours Survived: 0].
+[28-05-23 18:45:02.605] [76561198080106690][manueltai25][8418,11686,0][Cooking=0, Fitness=6, Strength=6, Blunt=0, Axe=1, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[28-05-23 18:52:32.037] [76561198084012853][zehio][8228,11817,0][Died][Hours Survived: 47].
+[28-05-23 18:53:16.758] [76561198084012853][zehio][8074,11731,0][Created Player 1][Hours Survived: 0].
+[28-05-23 18:53:16.758] [76561198084012853][zehio][8074,11731,0][Cooking=0, Fitness=4, Strength=5, Blunt=0, Axe=1, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=1, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=2, PlantScavenging=2, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[28-05-23 18:57:42.107] [76561198080106690][manueltai25][8199,11581,0][Died][Hours Survived: 5].
+[28-05-23 19:00:54.203] [76561198080106690][manueltai25][8418,11686,0][Created Player 1][Hours Survived: 0].
+[28-05-23 19:00:54.203] [76561198080106690][manueltai25][8418,11686,0][Cooking=0, Fitness=6, Strength=6, Blunt=0, Axe=1, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[28-05-23 19:01:26.317] [76561198362912133][Danowookie][8142,11747,1][Level Changed][PlantScavenging][1][Hours Survived: 123].
+[28-05-23 19:01:38.891] [76561198084012853][zehio][8142,11748,1][Level Changed][PlantScavenging][3][Hours Survived: 3].
+[28-05-23 19:01:41.027] [76561198843937901][AetherKiller][8142,11748,1][Level Changed][PlantScavenging][1][Hours Survived: 115].
+[28-05-23 19:06:52.708] [76561198080106690][manueltai25][8185,11691,0][Died][Hours Survived: 2].
+[28-05-23 19:07:21.207] [76561198080106690][manueltai25][8074,11731,0][Created Player 1][Hours Survived: 0].
+[28-05-23 19:07:21.207] [76561198080106690][manueltai25][8074,11731,0][Cooking=0, Fitness=6, Strength=6, Blunt=0, Axe=1, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].

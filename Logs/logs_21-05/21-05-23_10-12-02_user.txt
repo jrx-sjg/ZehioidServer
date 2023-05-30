@@ -1,0 +1,4 @@
+[21-05-23 10:12:02.496] added connection index=0 127.0.0.1.
+[21-05-23 10:12:05.119] 76561198084012853 "zehio" attempting to join.
+[21-05-23 10:12:05.120] 76561198084012853 "zehio" allowed to join.
+[21-05-23 10:12:46.458] 76561198084012853 "zehio" removed connection index=0.

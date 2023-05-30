@@ -1,0 +1,44 @@
+[28-05-23 23:18:51.801][info] Start chat server initialization....
+[28-05-23 23:18:51.805][info] General chat has id = 0.
+[28-05-23 23:18:51.805][info] Say chat has id = 1.
+[28-05-23 23:18:51.805][info] Shout chat has id = 2.
+[28-05-23 23:18:51.805][info] Radio chat has id = 3.
+[28-05-23 23:18:51.805][info] Admin chat has id = 4.
+[28-05-23 23:18:51.805][info] Server chat has id = 5.
+[28-05-23 23:18:51.805][info] Chat server successfully initialized.
+[28-05-23 23:20:07.580][info] Player with id = '0' tries to connect.
+[28-05-23 23:20:07.580][info] Adding player '0' to chat server.
+[28-05-23 23:20:07.581][info] Player joined to default chats.
+[28-05-23 23:20:07.581][info] Player AetherKiller(0) joined to chat server successfully.
+[28-05-23 23:20:27.508][info] Player with id = '4' tries to connect.
+[28-05-23 23:20:27.508][info] Adding player '4' to chat server.
+[28-05-23 23:20:27.508][info] Player joined to default chats.
+[28-05-23 23:20:27.508][info] Player zehio(4) joined to chat server successfully.
+[28-05-23 23:21:51.436][info] Got message:ChatMessage{chat=Local, author='AetherKiller', text='¡EH TÚ!'}.
+[28-05-23 23:21:51.437][info] Message ChatMessage{chat=Local, author='AetherKiller', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[28-05-23 23:37:21.445][info] Got message:ChatMessage{chat=Local, author='zehio', text='hey'}.
+[28-05-23 23:37:21.445][info] Message ChatMessage{chat=Local, author='zehio', text='hey'} sent to chat (id = 2) members.
+[28-05-23 23:42:48.743][info] Player 0 disconnecting....
+[28-05-23 23:42:48.743][info] Disconnecting player 0 finished.
+[28-05-23 23:42:48.743][info] Player 0 disconnecting....
+[28-05-23 23:42:48.743][info] Disconnecting player 0 finished.
+[28-05-23 23:47:13.173][info] Player with id = '8' tries to connect.
+[28-05-23 23:47:13.173][info] Adding player '8' to chat server.
+[28-05-23 23:47:13.174][info] Player joined to default chats.
+[28-05-23 23:47:13.174][info] Player AetherKiller(8) joined to chat server successfully.
+[28-05-23 23:47:17.111][info] Player with id = '0' tries to connect.
+[28-05-23 23:47:17.111][info] Adding player '0' to chat server.
+[28-05-23 23:47:17.111][info] Player joined to default chats.
+[28-05-23 23:47:17.111][info] Player susmu(0) joined to chat server successfully.
+[28-05-23 23:56:20.653][info] Player 0 disconnecting....
+[28-05-23 23:56:20.653][info] Disconnecting player 0 finished.
+[28-05-23 23:56:20.654][info] Player 0 disconnecting....
+[28-05-23 23:56:20.654][info] Disconnecting player 0 finished.
+[28-05-23 23:57:23.847][info] Player 8 disconnecting....
+[28-05-23 23:57:23.847][info] Disconnecting player 8 finished.
+[28-05-23 23:57:23.847][info] Player 8 disconnecting....
+[28-05-23 23:57:23.847][info] Disconnecting player 8 finished.
+[28-05-23 23:57:24.418][info] Player 4 disconnecting....
+[28-05-23 23:57:24.418][info] Disconnecting player 4 finished.
+[28-05-23 23:57:24.418][info] Player 4 disconnecting....
+[28-05-23 23:57:24.418][info] Disconnecting player 4 finished.

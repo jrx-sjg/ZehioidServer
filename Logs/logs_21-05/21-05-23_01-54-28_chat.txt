@@ -1,0 +1,176 @@
+[21-05-23 01:54:28.940][info] Start chat server initialization....
+[21-05-23 01:54:28.947][info] General chat has id = 0.
+[21-05-23 01:54:28.947][info] Say chat has id = 1.
+[21-05-23 01:54:28.947][info] Shout chat has id = 2.
+[21-05-23 01:54:28.947][info] Radio chat has id = 3.
+[21-05-23 01:54:28.947][info] Admin chat has id = 4.
+[21-05-23 01:54:28.947][info] Server chat has id = 5.
+[21-05-23 01:54:28.948][info] Chat server successfully initialized.
+[21-05-23 01:58:48.889][info] Player with id = '0' tries to connect.
+[21-05-23 01:58:48.890][info] Adding player '0' to chat server.
+[21-05-23 01:58:48.891][info] Player joined to default chats.
+[21-05-23 01:58:48.891][info] Player zehio(0) joined to chat server successfully.
+[21-05-23 02:02:16.528][info] Player with id = '4' tries to connect.
+[21-05-23 02:02:16.528][info] Adding player '4' to chat server.
+[21-05-23 02:02:16.528][info] Player joined to default chats.
+[21-05-23 02:02:16.528][info] Player Danowookie(4) joined to chat server successfully.
+[21-05-23 02:03:21.497][info] Player 0 disconnecting....
+[21-05-23 02:03:21.497][info] Disconnecting player 0 finished.
+[21-05-23 02:03:53.929][info] Player 0 disconnecting....
+[21-05-23 02:03:53.929][info] Disconnecting player 0 finished.
+[21-05-23 02:03:53.930][info] Player with id = '0' tries to connect.
+[21-05-23 02:03:53.930][info] Adding player '0' to chat server.
+[21-05-23 02:03:53.930][error] Player or connection is not found on server!.
+[21-05-23 02:03:53.930][error] player = null.
+[21-05-23 02:03:56.148][info] Player with id = '0' tries to connect.
+[21-05-23 02:03:56.148][info] Adding player '0' to chat server.
+[21-05-23 02:03:56.148][info] Player joined to default chats.
+[21-05-23 02:03:56.148][info] Player zehio(0) joined to chat server successfully.
+[21-05-23 02:07:09.086][info] Player 0 disconnecting....
+[21-05-23 02:07:09.086][info] Disconnecting player 0 finished.
+[21-05-23 02:07:31.698][info] Player 0 disconnecting....
+[21-05-23 02:07:31.698][info] Disconnecting player 0 finished.
+[21-05-23 02:07:31.698][info] Player with id = '0' tries to connect.
+[21-05-23 02:07:31.699][info] Adding player '0' to chat server.
+[21-05-23 02:07:31.699][error] Player or connection is not found on server!.
+[21-05-23 02:07:31.699][error] player = null.
+[21-05-23 02:07:33.962][info] Player with id = '0' tries to connect.
+[21-05-23 02:07:33.962][info] Adding player '0' to chat server.
+[21-05-23 02:07:33.962][info] Player joined to default chats.
+[21-05-23 02:07:33.962][info] Player zehio(0) joined to chat server successfully.
+[21-05-23 02:09:37.907][info] Player 4 disconnecting....
+[21-05-23 02:09:37.907][info] Disconnecting player 4 finished.
+[21-05-23 02:10:21.871][info] Player 4 disconnecting....
+[21-05-23 02:10:21.871][info] Disconnecting player 4 finished.
+[21-05-23 02:10:21.872][info] Player with id = '4' tries to connect.
+[21-05-23 02:10:21.872][info] Adding player '4' to chat server.
+[21-05-23 02:10:21.872][error] Player or connection is not found on server!.
+[21-05-23 02:10:21.872][error] player = null.
+[21-05-23 02:10:24.639][info] Player with id = '4' tries to connect.
+[21-05-23 02:10:24.639][info] Adding player '4' to chat server.
+[21-05-23 02:10:24.639][info] Player joined to default chats.
+[21-05-23 02:10:24.639][info] Player Danowookie(4) joined to chat server successfully.
+[21-05-23 02:39:08.170][info] Got message:ChatMessage{chat=Local, author='zehio', text='psst psst'}.
+[21-05-23 02:39:08.171][info] Message ChatMessage{chat=Local, author='zehio', text='psst psst'} sent to chat (id = 2) members.
+[21-05-23 02:51:51.803][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡HEY!'}.
+[21-05-23 02:51:51.803][info] Message ChatMessage{chat=Local, author='zehio', text='¡HEY!'} sent to chat (id = 2) members.
+[21-05-23 02:51:57.058][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡POR AQUÍ!'}.
+[21-05-23 02:51:57.058][info] Message ChatMessage{chat=Local, author='zehio', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 02:54:42.350][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'}.
+[21-05-23 02:54:42.350][info] Message ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[21-05-23 03:00:28.219][info] Got message:ChatMessage{chat=Local, author='zehio', text='psst psst'}.
+[21-05-23 03:00:28.219][info] Message ChatMessage{chat=Local, author='zehio', text='psst psst'} sent to chat (id = 2) members.
+[21-05-23 03:00:28.512][info] Got message:ChatMessage{chat=Local, author='zehio', text='hey'}.
+[21-05-23 03:00:28.512][info] Message ChatMessage{chat=Local, author='zehio', text='hey'} sent to chat (id = 2) members.
+[21-05-23 03:00:28.726][info] Got message:ChatMessage{chat=Local, author='zehio', text='psssst'}.
+[21-05-23 03:00:28.726][info] Message ChatMessage{chat=Local, author='zehio', text='psssst'} sent to chat (id = 2) members.
+[21-05-23 03:00:28.937][info] Got message:ChatMessage{chat=Local, author='zehio', text='psst psst'}.
+[21-05-23 03:00:28.937][info] Message ChatMessage{chat=Local, author='zehio', text='psst psst'} sent to chat (id = 2) members.
+[21-05-23 03:09:07.204][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'}.
+[21-05-23 03:09:07.204][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:07.941][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'}.
+[21-05-23 03:09:07.941][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:08.236][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'}.
+[21-05-23 03:09:08.236][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'} sent to chat (id = 2) members.
+[21-05-23 03:09:08.440][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:08.440][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:08.645][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:08.645][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:08.850][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'}.
+[21-05-23 03:09:08.850][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:09.030][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'}.
+[21-05-23 03:09:09.030][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'} sent to chat (id = 2) members.
+[21-05-23 03:09:09.220][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:09.220][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:09.428][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:09.428][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:09.648][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:09.648][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:09.820][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'}.
+[21-05-23 03:09:09.820][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:10.028][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'}.
+[21-05-23 03:09:10.028][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'} sent to chat (id = 2) members.
+[21-05-23 03:09:10.239][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'}.
+[21-05-23 03:09:10.239][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'} sent to chat (id = 2) members.
+[21-05-23 03:09:10.430][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:10.430][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:10.639][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'}.
+[21-05-23 03:09:10.639][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:10.864][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'}.
+[21-05-23 03:09:10.864][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'} sent to chat (id = 2) members.
+[21-05-23 03:09:11.063][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'}.
+[21-05-23 03:09:11.063][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:11.270][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'}.
+[21-05-23 03:09:11.270][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'} sent to chat (id = 2) members.
+[21-05-23 03:09:11.485][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'}.
+[21-05-23 03:09:11.485][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:11.697][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:11.697][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:11.907][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:11.907][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:12.117][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'}.
+[21-05-23 03:09:12.117][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'} sent to chat (id = 2) members.
+[21-05-23 03:09:12.318][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'}.
+[21-05-23 03:09:12.318][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:12.527][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:12.527][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:12.776][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:12.776][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:13.003][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'}.
+[21-05-23 03:09:13.003][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:13.290][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'}.
+[21-05-23 03:09:13.290][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'} sent to chat (id = 2) members.
+[21-05-23 03:09:14.352][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'}.
+[21-05-23 03:09:14.352][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:14.571][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'}.
+[21-05-23 03:09:14.572][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'} sent to chat (id = 2) members.
+[21-05-23 03:09:15.574][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:15.574][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:17.239][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'}.
+[21-05-23 03:09:17.239][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:17.474][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'}.
+[21-05-23 03:09:17.474][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:17.721][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'}.
+[21-05-23 03:09:17.721][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:17.989][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:17.989][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:18.322][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:18.322][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:18.597][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:18.597][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:18.804][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:18.804][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:19.077][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:19.077][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:19.287][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'}.
+[21-05-23 03:09:19.287][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:19.537][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'}.
+[21-05-23 03:09:19.537][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'} sent to chat (id = 2) members.
+[21-05-23 03:09:19.880][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'}.
+[21-05-23 03:09:19.880][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:20.145][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:20.145][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:20.199][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:20.199][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:20.587][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[21-05-23 03:09:20.587][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[21-05-23 03:09:20.843][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'}.
+[21-05-23 03:09:20.843][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'} sent to chat (id = 2) members.
+[21-05-23 03:09:21.023][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'}.
+[21-05-23 03:09:21.023][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'} sent to chat (id = 2) members.
+[21-05-23 03:10:17.450][info] Player 4 disconnecting....
+[21-05-23 03:10:17.450][info] Disconnecting player 4 finished.
+[21-05-23 03:12:00.806][info] Player 4 disconnecting....
+[21-05-23 03:12:00.806][info] Disconnecting player 4 finished.
+[21-05-23 03:12:00.806][info] Player with id = '4' tries to connect.
+[21-05-23 03:12:00.806][info] Adding player '4' to chat server.
+[21-05-23 03:12:00.807][error] Player or connection is not found on server!.
+[21-05-23 03:12:00.807][error] player = null.
+[21-05-23 03:12:02.969][info] Player with id = '4' tries to connect.
+[21-05-23 03:12:02.969][info] Adding player '4' to chat server.
+[21-05-23 03:12:02.969][info] Player joined to default chats.
+[21-05-23 03:12:02.969][info] Player Danowookie(4) joined to chat server successfully.
+[21-05-23 03:21:58.711][info] Player 0 disconnecting....
+[21-05-23 03:21:58.711][info] Disconnecting player 0 finished.
+[21-05-23 03:21:58.711][info] Player 0 disconnecting....
+[21-05-23 03:21:58.711][info] Disconnecting player 0 finished.

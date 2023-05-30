@@ -1,0 +1,4 @@
+[28-05-23 19:09:42.419][info] Init chat system....
+[28-05-23 19:09:42.419][info] Mode: multiplayer.
+[28-05-23 19:09:42.419][info] Chat owner: zehio.
+[28-05-23 19:35:06.062][info] Got message from server: ChatMessage{chat=Local, author='manueltai25', text='¡HEY!'}.

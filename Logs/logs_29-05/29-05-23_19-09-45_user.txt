@@ -1,0 +1,4 @@
+[29-05-23 19:09:45.163] added connection index=0 79.116.35.113.
+[29-05-23 19:09:47.266] 76561198084012853 "zehio" attempting to join.
+[29-05-23 19:09:47.266] 76561198084012853 "zehio" allowed to join.
+[29-05-23 19:10:01.186] 76561198084012853 "zehio" attempting to join used queue.

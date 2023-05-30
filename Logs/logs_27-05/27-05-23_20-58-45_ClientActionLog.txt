@@ -1,0 +1,2 @@
+[27-05-23 20:58:45.325] [76561198084012853][ISEnterVehicle][zehio][8127,11758,0][PickUpTruckLightsFire].
+[27-05-23 20:58:50.289] [76561198084012853][ISExitVehicle][zehio][8128,11758,0][PickUpTruckLightsFire].

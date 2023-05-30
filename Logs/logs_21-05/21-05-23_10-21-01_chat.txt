@@ -1,0 +1,16 @@
+[21-05-23 10:21:01.909][info] Start chat server initialization....
+[21-05-23 10:21:01.915][info] General chat has id = 0.
+[21-05-23 10:21:01.915][info] Say chat has id = 1.
+[21-05-23 10:21:01.915][info] Shout chat has id = 2.
+[21-05-23 10:21:01.915][info] Radio chat has id = 3.
+[21-05-23 10:21:01.915][info] Admin chat has id = 4.
+[21-05-23 10:21:01.915][info] Server chat has id = 5.
+[21-05-23 10:21:01.915][info] Chat server successfully initialized.
+[21-05-23 10:21:36.354][info] Player with id = '0' tries to connect.
+[21-05-23 10:21:36.354][info] Adding player '0' to chat server.
+[21-05-23 10:21:36.355][info] Player joined to default chats.
+[21-05-23 10:21:36.355][info] Player zehio(0) joined to chat server successfully.
+[21-05-23 10:37:14.026][info] Player 0 disconnecting....
+[21-05-23 10:37:14.026][info] Disconnecting player 0 finished.
+[21-05-23 10:37:14.026][info] Player 0 disconnecting....
+[21-05-23 10:37:14.027][info] Disconnecting player 0 finished.

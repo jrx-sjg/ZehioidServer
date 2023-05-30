@@ -1,0 +1,10 @@
+[20-05-23 23:21:55.937] 76561198084012853 "zehio" removed Door (fixtures_doors_01_16) at 10835,9482,0.
+[20-05-23 23:48:38.680] 76561198362912133 "Danowookie" removed IsoObject (furniture_bedding_01_58) at 10882,9409,0.
+[20-05-23 23:48:38.680] 76561198362912133 "Danowookie" removed IsoObject (furniture_bedding_01_59) at 10883,9409,0.
+[20-05-23 23:56:34.106] 76561198362912133 "Danowookie" removed Television (appliances_television_01_5) at 10919,9446,0.
+[20-05-23 23:56:54.808] 76561198362912133 "Danowookie" removed IsoObject (furniture_tables_low_01_1) at 10919,9445,0.
+[20-05-23 23:56:54.810] 76561198362912133 "Danowookie" removed IsoObject (furniture_tables_low_01_0) at 10919,9446,0.
+[20-05-23 23:58:27.519] 76561198362912133 "Danowookie" removed IsoObject (furniture_bedding_01_39) at 10921,9440,0.
+[20-05-23 23:58:27.520] 76561198362912133 "Danowookie" removed IsoObject (furniture_bedding_01_38) at 10921,9441,0.
+[21-05-23 00:07:44.733] 76561198362912133 "Danowookie" removed IsoObject (furniture_bedding_01_36) at 10892,9444,1.
+[21-05-23 00:07:44.738] 76561198362912133 "Danowookie" removed IsoObject (furniture_bedding_01_37) at 10893,9444,1.

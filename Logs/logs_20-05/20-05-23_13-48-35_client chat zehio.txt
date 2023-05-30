@@ -1,0 +1,4 @@
+[20-05-23 13:48:35.566][info] Init chat system....
+[20-05-23 13:48:35.566][info] Mode: multiplayer.
+[20-05-23 13:48:35.566][info] Chat owner: zehio.
+[20-05-23 14:10:56.902][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='teleported to Danowookie please wait two seconds to show the map around you.'}.

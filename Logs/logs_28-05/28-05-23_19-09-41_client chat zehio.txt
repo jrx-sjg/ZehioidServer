@@ -1,0 +1,3 @@
+[28-05-23 19:09:41.315][info] Init chat system....
+[28-05-23 19:09:41.315][info] Mode: single player.
+[28-05-23 19:09:41.315][info] Chat owner: zehio.

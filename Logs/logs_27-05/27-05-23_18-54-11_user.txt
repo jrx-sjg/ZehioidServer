@@ -1,0 +1,44 @@
+[27-05-23 18:54:11.458] added connection index=0 127.0.0.1.
+[27-05-23 18:54:13.148] 76561198084012853 "zehio" attempting to join.
+[27-05-23 18:54:13.148] 76561198084012853 "zehio" allowed to join.
+[27-05-23 18:54:25.977] 76561198084012853 "zehio" attempting to join used queue.
+[27-05-23 18:54:33.477] player zehio loading time was: 7071 ms.
+[27-05-23 18:54:36.436] 76561198084012853 "zehio" fully connected (8246,11670,0).
+[27-05-23 18:56:01.292] added connection index=1 75.74.129.10.
+[27-05-23 18:56:02.977] 76561198362912133 "Danowookie" attempting to join.
+[27-05-23 18:56:02.977] 76561198362912133 "Danowookie" allowed to join.
+[27-05-23 18:58:28.664] 76561198362912133 "Danowookie" attempting to join used queue.
+[27-05-23 18:59:06.480] player Danowookie loading time was: 36002 ms.
+[27-05-23 18:59:09.377] 76561198362912133 "Danowookie" fully connected (8144,11739,0).
+[27-05-23 19:02:36.415] added connection index=2 180.70.253.33.
+[27-05-23 19:02:38.203] 76561198843937901 "AetherKiller" attempting to join.
+[27-05-23 19:02:38.203] 76561198843937901 "AetherKiller" allowed to join.
+[27-05-23 19:07:02.364] 76561198843937901 "AetherKiller" attempting to join used queue.
+[27-05-23 19:08:16.136] player AetherKiller loading time was: 69673 ms.
+[27-05-23 19:08:21.229] 76561198843937901 "AetherKiller" fully connected (8074,11731,0).
+[27-05-23 19:11:38.071] user AetherKiller died at (8070,11729,0) (non pvp).
+[27-05-23 19:12:22.164] 76561198843937901 "AetherKiller" disconnected player (8070,11729,0).
+[27-05-23 19:12:25.775] 76561198843937901 "AetherKiller" fully connected (8074,11731,0).
+[27-05-23 19:18:25.854] added connection index=3 186.98.143.90.
+[27-05-23 19:18:40.852] null "null" removed connection index=3.
+[27-05-23 19:20:27.609] added connection index=3 42.136.217.97.
+[27-05-23 19:20:41.808] null "null" removed connection index=3.
+[27-05-23 19:21:52.215] added connection index=3 177.99.228.102.
+[27-05-23 19:21:53.973] 76561198149193682 "agachate y conoselo" attempting to join.
+[27-05-23 19:21:53.973] 76561198149193682 "agachate y conoselo" allowed to join.
+[27-05-23 19:25:26.080] 76561198149193682 "agachate y conoselo" attempting to join used queue.
+[27-05-23 19:26:07.176] player agachate y conoselo loading time was: 38376 ms.
+[27-05-23 19:26:10.519] 76561198149193682 "agachate y conoselo" fully connected (8418,11686,0).
+[27-05-23 20:03:13.989] user Danowookie died at (8192,11713,0) (non pvp).
+[27-05-23 20:04:12.093] 76561198362912133 "Danowookie" disconnected player (8192,11713,0).
+[27-05-23 20:04:14.421] 76561198362912133 "Danowookie" fully connected (8208,11600,0).
+[27-05-23 20:08:19.190] user AetherKiller died at (8121,11647,0) (non pvp).
+[27-05-23 20:08:55.758] 76561198843937901 "AetherKiller" disconnected player (8121,11647,0).
+[27-05-23 20:08:58.265] 76561198843937901 "AetherKiller" fully connected (8246,11670,0).
+[27-05-23 20:16:40.977] 76561198149193682 "agachate y conoselo" removed connection index=3.
+[27-05-23 20:16:40.995] 76561198149193682 "agachate y conoselo" disconnected player (8140,11731,0).
+[27-05-23 20:22:16.964] user AetherKiller died at (8191,11756,0) (non pvp).
+[27-05-23 20:23:14.525] 76561198843937901 "AetherKiller" disconnected player (8191,11756,0).
+[27-05-23 20:23:17.108] 76561198843937901 "AetherKiller" fully connected (8327,11814,0).
+[27-05-23 22:04:47.988] 76561198084012853 "zehio" removed connection index=0.
+[27-05-23 22:04:48.001] 76561198084012853 "zehio" disconnected player (8138,11748,1).

@@ -1,0 +1,11 @@
+[21-05-23 00:31:01.376] [76561198084012853][zehio][10913,9403,1][Login][Hours Survived: 157].
+[21-05-23 00:31:01.377] [76561198084012853][zehio][10913,9403,1][Cooking=0, Fitness=5, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 157].
+[21-05-23 00:31:59.316] [76561198362912133][Danowookie][10913,9403,1][Login][Hours Survived: 48].
+[21-05-23 00:31:59.316] [76561198362912133][Danowookie][10913,9403,1][Cooking=0, Fitness=5, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 48].
+[21-05-23 00:32:00.606] [76561198084012853][zehio][10914,9404,1][Died][Hours Survived: 157].
+[21-05-23 00:36:33.217] [76561198084012853][zehio][10919,10132,0][Created Player 1][Hours Survived: 0].
+[21-05-23 00:36:33.217] [76561198084012853][zehio][10919,10132,0][Cooking=0, Fitness=3, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[21-05-23 01:16:56.667] [76561198362912133][Danowookie][10916,9460,0][Level Changed][Sneak][1][Hours Survived: 74].
+[21-05-23 01:17:29.144] [76561198362912133][Danowookie][10924,9464,0][Level Changed][Lightfoot][1][Hours Survived: 74].
+[21-05-23 01:52:49.093] [76561198362912133][Danowookie][10990,9395,0][Died][Hours Survived: 99].
+[21-05-23 01:53:26.078] [76561198084012853][zehio][10959,9401,0][Died][Hours Survived: 50].

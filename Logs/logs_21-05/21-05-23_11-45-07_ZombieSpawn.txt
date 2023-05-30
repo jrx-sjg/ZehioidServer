@@ -1,0 +1,18 @@
+[21-05-23 12:27:15.197] reason = RVSFlippedCrash x,y,z = 10931,10042,0
+reason = RVSFlippedCrash x,y,z = 10934,10043,0
+reason = RVSFlippedCrash x,y,z = 10936,10044,0
+reason = RDSPrisonEscape x,y,z = 10877,10084,0 room = livingroom
+reason = RDSPrisonEscape x,y,z = 10877,10084,0 room = livingroom
+reason = RDSPrisonEscape x,y,z = 10874,10076,0 room = livingroom
+reason = RDSPokerNight x,y,z = 10909,9998,0 room = kitchen
+reason = RDSPokerNight x,y,z = 10909,9999,0 room = kitchen
+reason = RDSPokerNight x,y,z = 10910,9997,0 room = kitchen
+reason = RDSPokerNight x,y,z = 10910,9999,0 room = kitchen
+reason = RDSPokerNight x,y,z = 10909,9998,0 room = kitchen
+reason = roomSpotted x,y,z = 10916,10137,0 room = closet
+reason = roomSpotted x,y,z = 10922,10130,0 room = laundry
+reason = roomSpotted x,y,z = 10875,10115,1 room = livingroom
+reason = RDSStagDo x,y,z = 10780,10089,0 room = livingroom
+reason = RDSStagDo x,y,z = 10781,10090,0 room = livingroom
+reason = RDSStagDo x,y,z = 10780,10089,0 room = livingroom
+reason = RDSStagDo x,y,z = 10782,10089,0 room = livingroom.

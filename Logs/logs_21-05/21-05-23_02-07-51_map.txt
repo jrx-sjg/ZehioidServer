@@ -1,0 +1,16 @@
+[21-05-23 02:07:51.936] 76561198362912133 "Danowookie" removed Door (fixtures_doors_01_16) at 10891,9713,0.
+[21-05-23 02:48:06.746] 76561198084012853 "zehio" removed IsoObject (furniture_tables_high_01_8) at 11019,9418,0.
+[21-05-23 02:48:06.748] 76561198084012853 "zehio" removed IsoObject (furniture_tables_high_01_9) at 11020,9418,0.
+[21-05-23 03:03:54.861] 76561198084012853 "zehio" removed Door (fixtures_doors_01_16) at 10893,9478,0.
+[21-05-23 03:04:49.036] 76561198362912133 "Danowookie" removed Door (fixtures_doors_02_5) at 10893,9437,0.
+[21-05-23 03:06:20.419] 76561198362912133 "Danowookie" removed Door (fixtures_doors_01_5) at 10785,9524,0.
+[21-05-23 03:07:00.178] 76561198362912133 "Danowookie" removed Door (fixtures_doors_01_5) at 10785,9532,0.
+[21-05-23 03:07:15.690] 76561198362912133 "Danowookie" removed Door (fixtures_doors_01_4) at 10782,9527,0.
+[21-05-23 03:08:23.942] 76561198362912133 "Danowookie" removed Door (fixtures_doors_01_4) at 10782,9528,0.
+[21-05-23 03:08:54.683] 76561198362912133 "Danowookie" removed Rain Collector Barrel (carpentry_02_53) at 10779,9537,0.
+[21-05-23 03:10:42.986] 76561198362912133 "Danowookie" removed Door (fixtures_doors_01_44) at 10768,9487,0.
+[21-05-23 03:10:58.139] 76561198362912133 "Danowookie" removed Door (fixtures_doors_01_12) at 10713,9544,0.
+[21-05-23 03:11:03.956] 76561198362912133 "Danowookie" removed Door (fixtures_doors_01_45) at 10740,9633,0.
+[21-05-23 03:12:59.596] 76561198084012853 "zehio" removed Door (fixtures_doors_01_13) at 10856,9443,0.
+[21-05-23 03:13:43.772] 76561198084012853 "zehio" removed Door (fixtures_doors_01_45) at 10823,9410,0.
+[21-05-23 03:14:23.195] 76561198084012853 "zehio" removed Door (fixtures_doors_01_28) at 10830,9444,0.

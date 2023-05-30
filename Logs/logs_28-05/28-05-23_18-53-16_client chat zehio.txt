@@ -1,0 +1,6 @@
+[28-05-23 18:53:16.543][info] Init chat system....
+[28-05-23 18:53:16.543][info] Mode: multiplayer.
+[28-05-23 18:53:16.543][info] Chat owner: zehio.
+[28-05-23 19:03:03.182][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='El jugador zehio no tiene permiso para ejecutar el comando teleport manueltai25 zehio'}.
+[28-05-23 19:04:05.202][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='El jugador zehio no tiene permiso para ejecutar el comando teleport manueltai25'}.
+[28-05-23 19:04:29.819][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='El jugador zehio no tiene permiso para ejecutar el comando teleport \"manueltai25\"'}.

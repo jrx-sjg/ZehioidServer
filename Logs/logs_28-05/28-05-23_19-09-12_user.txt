@@ -1,0 +1,69 @@
+[28-05-23 19:09:12.085] added connection index=0 212.225.225.101.
+[28-05-23 19:09:14.172] 76561198843937901 "AetherKiller" attempting to join.
+[28-05-23 19:09:14.174] 76561198843937901 "AetherKiller" allowed to join.
+[28-05-23 19:09:19.617] added connection index=1 79.116.20.171.
+[28-05-23 19:09:21.486] 76561198084012853 "zehio" attempting to join.
+[28-05-23 19:09:21.487] 76561198084012853 "zehio" allowed to join.
+[28-05-23 19:09:27.026] added connection index=2 81.38.47.214.
+[28-05-23 19:09:29.095] 76561198080106690 "manueltai25" attempting to join.
+[28-05-23 19:09:29.099] 76561198080106690 "manueltai25" allowed to join.
+[28-05-23 19:09:34.687] 76561198084012853 "zehio" attempting to join used queue.
+[28-05-23 19:09:36.732] 76561198843937901 "AetherKiller" attempting to join used queue.
+[28-05-23 19:09:41.328] player zehio loading time was: 6284 ms.
+[28-05-23 19:09:42.404] 76561198084012853 "zehio" fully connected (8132,11745,1).
+[28-05-23 19:09:55.416] added connection index=3 93.114.145.60.
+[28-05-23 19:09:57.351] 76561198362912133 "Danowookie" attempting to join.
+[28-05-23 19:09:57.352] 76561198362912133 "Danowookie" allowed to join.
+[28-05-23 19:10:02.677] 76561198362912133 "Danowookie" attempting to join used queue.
+[28-05-23 19:10:07.814] player AetherKiller loading time was: 29130 ms.
+[28-05-23 19:10:09.326] 76561198843937901 "AetherKiller" fully connected (8142,11748,1).
+[28-05-23 19:10:09.372] player Danowookie loading time was: 6411 ms.
+[28-05-23 19:10:11.642] 76561198362912133 "Danowookie" fully connected (8129,11747,1).
+[28-05-23 19:10:47.973] 76561198080106690 "manueltai25" attempting to join used queue.
+[28-05-23 19:10:57.605] player manueltai25 loading time was: 9038 ms.
+[28-05-23 19:11:00.446] 76561198080106690 "manueltai25" fully connected (8208,11600,0).
+[28-05-23 19:37:52.741] 76561198362912133 "Danowookie" removed connection index=3.
+[28-05-23 19:37:52.757] 76561198362912133 "Danowookie" disconnected player (8131,11747,1).
+[28-05-23 19:40:18.381] Error: Dupe item ID for AetherKiller (8137,11746,1).
+[28-05-23 20:05:44.848] added connection index=3 93.114.145.60.
+[28-05-23 20:05:46.805] 76561198362912133 "Danowookie" attempting to join.
+[28-05-23 20:05:46.806] 76561198362912133 "Danowookie" allowed to join.
+[28-05-23 20:05:52.530] 76561198362912133 "Danowookie" attempting to join used queue.
+[28-05-23 20:06:03.489] player Danowookie loading time was: 10589 ms.
+[28-05-23 20:06:05.265] 76561198362912133 "Danowookie" fully connected (8131,11747,1).
+[28-05-23 20:06:46.835] 76561198080106690 "manueltai25" removed connection index=2.
+[28-05-23 20:06:46.851] 76561198080106690 "manueltai25" disconnected player (8139,11741,1).
+[28-05-23 20:35:48.005] user Danowookie died at (8204,11674,0) (non pvp).
+[28-05-23 20:36:54.549] 76561198362912133 "Danowookie" disconnected player (8204,11674,0).
+[28-05-23 20:36:57.024] 76561198362912133 "Danowookie" fully connected (8073,11730,0).
+[28-05-23 20:45:57.091] 76561198084012853 "zehio" removed connection index=1.
+[28-05-23 20:45:57.117] 76561198084012853 "zehio" disconnected player (8221,11632,1).
+[28-05-23 20:45:57.117] 76561198084012853 "zehio" removed connection index=1.
+[28-05-23 20:46:29.137] added connection index=1 79.116.20.171.
+[28-05-23 20:46:31.114] 76561198084012853 "zehio" attempting to join.
+[28-05-23 20:46:31.115] 76561198084012853 "zehio" allowed to join.
+[28-05-23 20:46:44.181] 76561198084012853 "zehio" attempting to join used queue.
+[28-05-23 20:46:51.474] player zehio loading time was: 6935 ms.
+[28-05-23 20:46:52.927] 76561198084012853 "zehio" fully connected (8221,11632,1).
+[28-05-23 20:48:37.246] 76561198084012853 "zehio" removed connection index=1.
+[28-05-23 20:48:37.263] 76561198084012853 "zehio" disconnected player (8221,11629,1).
+[28-05-23 20:56:59.227] added connection index=1 79.116.20.171.
+[28-05-23 20:57:01.249] 76561198084012853 "zehio" attempting to join.
+[28-05-23 20:57:01.250] 76561198084012853 "zehio" allowed to join.
+[28-05-23 20:57:14.535] 76561198084012853 "zehio" attempting to join used queue.
+[28-05-23 20:57:21.816] player zehio loading time was: 6690 ms.
+[28-05-23 20:57:26.230] 76561198084012853 "zehio" fully connected (8221,11629,1).
+[28-05-23 21:14:01.369] 76561198362912133 "Danowookie" removed connection index=3.
+[28-05-23 21:14:01.386] 76561198362912133 "Danowookie" disconnected player (8139,11741,1).
+[28-05-23 21:57:00.006] 76561198084012853 "zehio" removed connection index=1.
+[28-05-23 21:57:00.023] 76561198084012853 "zehio" disconnected player (8142,11748,1).
+[28-05-23 22:07:58.474] added connection index=1 79.116.20.171.
+[28-05-23 22:08:00.315] 76561198084012853 "zehio" attempting to join.
+[28-05-23 22:08:00.316] 76561198084012853 "zehio" allowed to join.
+[28-05-23 22:08:13.342] 76561198084012853 "zehio" attempting to join used queue.
+[28-05-23 22:08:20.010] player zehio loading time was: 6304 ms.
+[28-05-23 22:08:21.082] 76561198084012853 "zehio" fully connected (8142,11748,1).
+[28-05-23 23:17:08.678] 76561198084012853 "zehio" removed connection index=1.
+[28-05-23 23:17:08.691] 76561198084012853 "zehio" disconnected player (8152,11730,0).
+[28-05-23 23:17:14.018] 76561198843937901 "AetherKiller" removed connection index=0.
+[28-05-23 23:17:14.031] 76561198843937901 "AetherKiller" disconnected player (8138,11747,1).

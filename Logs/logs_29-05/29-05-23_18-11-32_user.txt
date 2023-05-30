@@ -1,0 +1,8 @@
+[29-05-23 18:11:32.828] added connection index=0 79.116.20.171.
+[29-05-23 18:11:34.909] 76561198084012853 "zehio" attempting to join.
+[29-05-23 18:11:34.910] 76561198084012853 "zehio" allowed to join.
+[29-05-23 18:11:48.728] 76561198084012853 "zehio" attempting to join used queue.
+[29-05-23 18:11:58.527] player zehio loading time was: 9393 ms.
+[29-05-23 18:12:00.627] 76561198084012853 "zehio" fully connected (8154,11743,0).
+[29-05-23 18:12:11.303] 76561198084012853 "zehio" removed connection index=0.
+[29-05-23 18:12:11.314] 76561198084012853 "zehio" disconnected player (8151,11740,0).

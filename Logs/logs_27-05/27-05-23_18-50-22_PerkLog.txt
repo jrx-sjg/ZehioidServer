@@ -1,0 +1,2 @@
+[27-05-23 18:50:22.381] [76561198084012853][zehio][8246,11670,0][Login][Hours Survived: 0].
+[27-05-23 18:50:22.381] [76561198084012853][zehio][8246,11670,0][Cooking=0, Fitness=4, Strength=5, Blunt=0, Axe=1, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=1, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=2, PlantScavenging=2, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].

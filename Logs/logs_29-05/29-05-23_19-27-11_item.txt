@@ -1,0 +1,159 @@
+[29-05-23 19:27:11.382] 76561198362912133 "Danowookie" corpse +1 8161,11746,0.
+[29-05-23 19:31:30.262] 76561198362912133 "Danowookie" container -1 8128,11750,1 [Base.MuttonChop].
+[29-05-23 19:31:33.250] 76561198362912133 "Danowookie" container -1 8128,11749,1 [Base.WaterPot].
+[29-05-23 19:31:36.247] 76561198362912133 "Danowookie" container +0 8128,11750,1 [Base.MuttonChop].
+[29-05-23 19:31:48.237] 76561198362912133 "Danowookie" container -1 8128,11750,1 [farming.RedRadish].
+[29-05-23 19:31:57.234] 76561198362912133 "Danowookie" container -1 8128,11750,1 [Base.Carrots].
+[29-05-23 19:32:21.331] 76561198362912133 "Danowookie" container +0 8128,11747,1 [Base.PotOfSoupRecipe].
+[29-05-23 19:32:25.126] 76561198843937901 "AetherKiller" container -1 8157,11738,0 [Base.Tshirt_Profession_FiremanRed02].
+[29-05-23 19:32:52.132] 76561198843937901 "AetherKiller" container +0 8157,11738,0 [Base.Tshirt_Profession_FiremanRed02].
+[29-05-23 19:33:25.133] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [Base.Salmon].
+[29-05-23 19:33:28.123] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [Base.Carrots].
+[29-05-23 19:33:33.255] 76561198362912133 "Danowookie" container -1 8128,11747,1 [Base.PotOfSoupRecipe].
+[29-05-23 19:34:06.250] 76561198362912133 "Danowookie" container +0 8128,11749,1 [Base.PotOfSoupRecipe].
+[29-05-23 19:34:12.327] 76561198362912133 "Danowookie" container -1 8128,11749,1 [Base.PotOfSoupRecipe].
+[29-05-23 19:34:15.254] 76561198362912133 "Danowookie" container +0 8128,11750,1 [Base.PotOfSoupRecipe].
+[29-05-23 19:34:28.127] 76561198843937901 "AetherKiller" container +0 8149,11732,0 [Base.Glue].
+[29-05-23 19:34:34.127] 76561198843937901 "AetherKiller" container +0 8149,11732,0 [Base.Tissue].
+[29-05-23 19:34:37.125] 76561198843937901 "AetherKiller" container +0 8149,11732,0 [Base.Scotchtape, Base.DuctTape].
+[29-05-23 19:34:49.133] 76561198843937901 "AetherKiller" container -7 8148,11728,0 [Base.Glue, Base.Scotchtape].
+[29-05-23 19:34:52.126] 76561198843937901 "AetherKiller" container -1 8148,11728,0 [Base.SewingKit].
+[29-05-23 19:35:07.221] 76561198843937901 "AetherKiller" container -1 8147,11728,0 [Base.DuctTape].
+[29-05-23 19:35:10.126] 76561198843937901 "AetherKiller" container -2 8147,11728,0 [Base.Woodglue].
+[29-05-23 19:35:22.131] 76561198843937901 "AetherKiller" container +0 8149,11732,0 [Base.Scotchtape, Base.DuctTape].
+[29-05-23 19:35:28.140] 76561198843937901 "AetherKiller" container +0 8149,11732,0 [Base.Woodglue].
+[29-05-23 19:35:31.135] 76561198843937901 "AetherKiller" container +0 8149,11732,0 [Base.Glue].
+[29-05-23 19:36:40.133] 76561198843937901 "AetherKiller" container -1 8128,11750,1 [Base.PotOfSoupRecipe].
+[29-05-23 19:36:57.139] 76561198843937901 "AetherKiller" floor +1 8129,11750,1 [Base.Pot].
+[29-05-23 19:37:09.185] 76561198843937901 "AetherKiller" floor -1 8129,11750,1 [Base.Pot].
+[29-05-23 19:37:10.125] 76561198843937901 "AetherKiller" container +0 8128,11749,1 [Base.Pot].
+[29-05-23 19:38:31.212] 76561198843937901 "AetherKiller" container -1 8136,11745,1 [Base.MechanicMag1].
+[29-05-23 19:38:46.136] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Base.MechanicMag1].
+[29-05-23 19:39:57.548] 76561198843937901 "AetherKiller" floor +1 8152,11730,0 [Base.Bag_WorkerBag].
+[29-05-23 19:40:34.131] 76561198843937901 "AetherKiller" container -1 8136,11745,1 [Base.Book].
+[29-05-23 19:41:04.132] 76561198843937901 "AetherKiller" container -1 8136,11745,1 [Base.Book].
+[29-05-23 19:41:19.141] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Base.Book].
+[29-05-23 19:41:33.841] 76561198843937901 "AetherKiller" container -1 8128,11749,1 [Base.Pot].
+[29-05-23 19:42:19.143] 76561198843937901 "AetherKiller" container -1 8128,11750,1 [Base.Salmon].
+[29-05-23 19:42:22.229] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [Base.Salmon].
+[29-05-23 19:42:31.134] 76561198843937901 "AetherKiller" container -1 8128,11750,1 [Base.CornFrozen].
+[29-05-23 19:42:34.142] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [Base.CornFrozen].
+[29-05-23 19:42:58.138] 76561198843937901 "AetherKiller" container -1 8128,11750,1 [Base.MuttonChop].
+[29-05-23 19:43:07.176] 76561198843937901 "AetherKiller" container -1 8128,11750,1 [Base.CornFrozen].
+[29-05-23 19:43:19.142] 76561198843937901 "AetherKiller" container -1 8128,11748,1 [Base.TomatoPaste].
+[29-05-23 19:43:22.141] 76561198843937901 "AetherKiller" container +0 8128,11748,1 [Base.TomatoPaste].
+[29-05-23 19:43:31.248] 76561198843937901 "AetherKiller" container +0 8128,11747,1 [Base.PotOfStew].
+[29-05-23 19:45:13.136] 76561198843937901 "AetherKiller" container -1 8128,11747,1 [Base.PotOfStew].
+[29-05-23 19:45:34.136] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [Base.PotOfStew].
+[29-05-23 19:46:43.152] 76561198843937901 "AetherKiller" floor -1 8152,11730,0 [Base.Bag_WorkerBag].
+[29-05-23 19:47:10.188] 76561198843937901 "AetherKiller" container +0 8151,11731,0 [Base.RippedSheets].
+[29-05-23 19:47:34.147] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [farming.Bacon].
+[29-05-23 19:47:37.135] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [Base.Lard, Base.FishFillet].
+[29-05-23 19:47:40.147] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [farming.Potato].
+[29-05-23 19:47:43.160] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [farming.Potato].
+[29-05-23 19:48:22.148] 76561198843937901 "AetherKiller" container +0 8128,11749,1 [Base.KitchenKnife, Base.Sponge].
+[29-05-23 19:49:36.284] 76561198362912133 "Danowookie" container -1 8152,11728,0 [Base.Disinfectant].
+[29-05-23 19:49:52.188] 76561198843937901 "AetherKiller" container +0 8152,11728,0 [Base.Tweezers].
+[29-05-23 19:49:58.255] 76561198843937901 "AetherKiller" container +0 8152,11728,0 [].
+[29-05-23 19:50:19.142] 76561198843937901 "AetherKiller" container +0 8152,11728,0 [Base.Bandage].
+[29-05-23 19:50:49.324] 76561198843937901 "AetherKiller" floor +1 8153,11729,0 [Base.Bag_WorkerBag].
+[29-05-23 19:51:24.284] 76561198362912133 "Danowookie" container -1 8136,11745,1 [Base.Magazine].
+[29-05-23 19:52:00.299] 76561198362912133 "Danowookie" container +0 8136,11745,1 [Base.Magazine].
+[29-05-23 19:52:34.154] 76561198843937901 "AetherKiller" container -1 8128,11750,1 [Base.PotOfStew].
+[29-05-23 19:52:42.285] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [Base.PotOfStew].
+[29-05-23 19:52:42.285] 76561198362912133 "Danowookie" container -1 8136,11745,1 [Base.BookFarming1].
+[29-05-23 19:53:41.638] 76561198843937901 "AetherKiller" floor +1 8140,11748,0 [Base.Nails].
+[29-05-23 19:53:41.639] 76561198843937901 "AetherKiller" floor +1 8140,11748,0 [Base.UnusableWood].
+[29-05-23 19:53:41.646] 76561198843937901 "AetherKiller" floor +1 8141,11748,0 [Base.Nails].
+[29-05-23 19:53:41.646] 76561198843937901 "AetherKiller" floor +1 8141,11748,0 [Base.Plank].
+[29-05-23 19:53:42.291] 76561198362912133 "Danowookie" container +0 8134,11728,1 [Base.RippedSheets].
+[29-05-23 19:53:48.283] 76561198362912133 "Danowookie" container -2 8134,11728,1 [Base.RippedSheets].
+[29-05-23 19:54:11.171] 76561198843937901 "AetherKiller" floor +1 8138,11749,0 [Base.UnusableWood].
+[29-05-23 19:54:11.172] 76561198843937901 "AetherKiller" floor +1 8138,11750,0 [Base.Plank].
+[29-05-23 19:54:12.323] 76561198362912133 "Danowookie" container -1 8135,11728,1 [Base.Tshirt_Profession_FiremanRed02].
+[29-05-23 19:54:12.323] 76561198362912133 "Danowookie" container -2 8134,11728,1 [Base.Socks_Ankle, Base.Tshirt_Profession_FiremanBlue].
+[29-05-23 19:54:15.293] 76561198362912133 "Danowookie" container -1 8134,11728,1 [Base.Tshirt_Profession_FiremanBlue].
+[29-05-23 19:54:18.337] 76561198362912133 "Danowookie" container +0 8134,11728,1 [Base.SheetRope].
+[29-05-23 19:54:21.307] 76561198362912133 "Danowookie" container +0 8134,11728,1 [Base.SheetRope].
+[29-05-23 19:54:24.377] 76561198362912133 "Danowookie" container +0 8134,11728,1 [Base.SheetRope].
+[29-05-23 19:54:29.805] 76561198843937901 "AetherKiller" floor +1 8143,11750,0 [Base.UnusableWood].
+[29-05-23 19:54:29.805] 76561198843937901 "AetherKiller" floor +1 8144,11750,0 [Base.UnusableWood].
+[29-05-23 19:54:29.805] 76561198843937901 "AetherKiller" floor +1 8144,11750,0 [Base.UnusableWood].
+[29-05-23 19:54:56.973] 76561198843937901 "AetherKiller" floor +1 8131,11743,0 [Base.SheetPaper2].
+[29-05-23 19:54:58.154] 76561198843937901 "AetherKiller" container -1 8131,11742,0 [Base.SheetPaper2].
+[29-05-23 19:54:58.876] 76561198843937901 "AetherKiller" floor +1 8131,11743,0 [Radio.CDplayer].
+[29-05-23 19:55:00.480] 76561198843937901 "AetherKiller" floor +1 8131,11743,0 [Base.Paperclip].
+[29-05-23 19:55:01.151] 76561198843937901 "AetherKiller" container -2 8131,11742,0 [Base.Paperclip, Radio.CDplayer].
+[29-05-23 19:55:16.569] 76561198843937901 "AetherKiller" floor +1 8131,11742,0 [Base.Nails].
+[29-05-23 19:55:16.569] 76561198843937901 "AetherKiller" floor +1 8131,11742,0 [Base.Plank].
+[29-05-23 19:55:25.490] 76561198362912133 "Danowookie" floor +1 8132,11747,1 [Radio.RadioRed].
+[29-05-23 19:55:34.070] 76561198843937901 "AetherKiller" floor +1 8130,11742,0 [Base.UnusableWood].
+[29-05-23 19:55:45.795] 76561198843937901 "AetherKiller" floor -1 8131,11742,0 [Base.Plank].
+[29-05-23 19:58:12.743] 76561198843937901 "AetherKiller" corpse +1 8160,11748,0.
+[29-05-23 19:58:20.710] 76561198362912133 "Danowookie" corpse +1 8162,11746,0.
+[29-05-23 19:58:37.448] 76561198843937901 "AetherKiller" corpse +1 8161,11748,0.
+[29-05-23 19:58:51.523] 76561198362912133 "Danowookie" corpse +1 8162,11746,0.
+[29-05-23 19:59:11.904] 76561198843937901 "AetherKiller" floor -1 8153,11729,0 [Base.Bag_WorkerBag].
+[29-05-23 19:59:31.143] 76561198843937901 "AetherKiller" container +0 8152,11728,0 [Base.SewingKit].
+[29-05-23 19:59:34.153] 76561198843937901 "AetherKiller" container +0 8152,11728,0 [].
+[29-05-23 19:59:39.296] 76561198362912133 "Danowookie" container -1 8128,11750,1 [Base.PotOfStew].
+[29-05-23 19:59:49.141] 76561198843937901 "AetherKiller" container +0 8152,11728,0 [Base.AlcoholWipes].
+[29-05-23 19:59:51.284] 76561198362912133 "Danowookie" container +0 8128,11750,1 [Base.PotOfStew].
+[29-05-23 20:00:29.826] 76561198843937901 "AetherKiller" floor -1 8138,11750,0 [Base.Plank].
+[29-05-23 20:00:34.850] 76561198362912133 "Danowookie" corpse +1 8162,11746,0.
+[29-05-23 20:00:43.631] 76561198843937901 "AetherKiller" floor -1 8141,11748,0 [Base.Nails].
+[29-05-23 20:00:51.296] 76561198843937901 "AetherKiller" floor -1 8141,11748,0 [Base.Plank].
+[29-05-23 20:00:58.776] 76561198843937901 "AetherKiller" floor -1 8143,11744,0 [Base.Nails].
+[29-05-23 20:01:48.263] 76561198362912133 "Danowookie" container -1 8136,11745,1 [Base.MagazineCrossword3].
+[29-05-23 20:02:03.288] 76561198362912133 "Danowookie" container +0 8136,11745,1 [Base.MagazineCrossword3].
+[29-05-23 20:02:49.139] 76561198843937901 "AetherKiller" container -37 8149,11732,0 [Base.Nails].
+[29-05-23 20:02:51.275] 76561198362912133 "Danowookie" container +0 8128,11728,1 [Base.HandAxe].
+[29-05-23 20:02:57.280] 76561198362912133 "Danowookie" container -1 8129,11728,1 [TAD.BobTA_Bboy_Hip_Hop_One_Mag].
+[29-05-23 20:03:12.272] 76561198362912133 "Danowookie" container +0 8129,11728,1 [TAD.BobTA_Bboy_Hip_Hop_One_Mag].
+[29-05-23 20:03:19.513] 76561198843937901 "AetherKiller" floor -1 8180,11770,0 [Base.Plank].
+[29-05-23 20:03:25.079] 76561198843937901 "AetherKiller" floor -1 8180,11770,0 [Base.Plank].
+[29-05-23 20:04:09.279] 76561198362912133 "Danowookie" container +0 8136,11745,1 [Base.BookFarming1].
+[29-05-23 20:05:34.126] 76561198843937901 "AetherKiller" container -1 8128,11750,1 [Base.PotOfStew].
+[29-05-23 20:05:51.141] 76561198843937901 "AetherKiller" container +0 8128,11749,1 [Base.Pot].
+[29-05-23 20:09:07.001] 76561198843937901 "AetherKiller" floor +1 8152,11734,0 [Base.Bag_WorkerBag].
+[29-05-23 20:09:51.558] 76561198843937901 "AetherKiller" floor -1 8152,11734,0 [Base.Bag_WorkerBag].
+[29-05-23 20:10:10.129] 76561198843937901 "AetherKiller" container +0 8149,11732,0 [Base.HandAxe].
+[29-05-23 20:12:00.070] 76561198843937901 "AetherKiller" floor +1 8064,11727,0 [Base.Plank].
+[29-05-23 20:12:00.070] 76561198843937901 "AetherKiller" floor +1 8065,11727,0 [Base.UnusableWood].
+[29-05-23 20:12:00.071] 76561198843937901 "AetherKiller" floor +1 8065,11727,0 [Base.UnusableWood].
+[29-05-23 20:12:20.146] 76561198843937901 "AetherKiller" floor +1 8067,11727,0 [Base.Nails].
+[29-05-23 20:12:20.147] 76561198843937901 "AetherKiller" floor +1 8067,11727,0 [Base.UnusableWood].
+[29-05-23 20:12:20.147] 76561198843937901 "AetherKiller" floor +1 8067,11727,0 [Base.UnusableWood].
+[29-05-23 20:12:20.147] 76561198843937901 "AetherKiller" floor +1 8068,11727,0 [Base.UnusableWood].
+[29-05-23 20:12:20.148] 76561198843937901 "AetherKiller" floor +1 8068,11727,0 [Base.UnusableWood].
+[29-05-23 20:12:28.740] 76561198843937901 "AetherKiller" floor -1 8067,11727,0 [Base.Nails].
+[29-05-23 20:12:37.334] 76561198843937901 "AetherKiller" floor -1 8064,11727,0 [Base.Plank].
+[29-05-23 20:13:10.767] 76561198843937901 "AetherKiller" floor +1 8064,11729,0 [Base.UnusableWood].
+[29-05-23 20:13:10.767] 76561198843937901 "AetherKiller" floor +1 8064,11729,0 [Base.UnusableWood].
+[29-05-23 20:13:10.768] 76561198843937901 "AetherKiller" floor +1 8065,11729,0 [Base.Nails].
+[29-05-23 20:13:10.769] 76561198843937901 "AetherKiller" floor +1 8065,11729,0 [Base.Nails].
+[29-05-23 20:13:10.769] 76561198843937901 "AetherKiller" floor +1 8065,11729,0 [Base.UnusableWood].
+[29-05-23 20:13:27.281] 76561198843937901 "AetherKiller" floor +1 8067,11729,0 [Base.UnusableWood].
+[29-05-23 20:13:27.281] 76561198843937901 "AetherKiller" floor +1 8068,11729,0 [Base.Nails].
+[29-05-23 20:13:27.281] 76561198843937901 "AetherKiller" floor +1 8068,11729,0 [Base.Plank].
+[29-05-23 20:14:25.753] 76561198843937901 "AetherKiller" floor +1 8066,11734,0 [Base.SheetPaper2].
+[29-05-23 20:14:25.753] 76561198843937901 "AetherKiller" floor +1 8066,11734,0 [Base.SheetPaper2].
+[29-05-23 20:14:27.448] 76561198843937901 "AetherKiller" floor +1 8066,11734,0 [Base.Toothbrush].
+[29-05-23 20:14:28.181] 76561198843937901 "AetherKiller" container -3 8067,11735,0 [Base.SheetPaper2, Base.Toothbrush].
+[29-05-23 20:14:44.565] 76561198843937901 "AetherKiller" floor +1 8067,11735,0 [Base.Plank].
+[29-05-23 20:15:00.848] 76561198843937901 "AetherKiller" floor +1 8066,11735,0 [Base.Nails].
+[29-05-23 20:15:00.849] 76561198843937901 "AetherKiller" floor +1 8066,11735,0 [Base.UnusableWood].
+[29-05-23 20:15:00.849] 76561198843937901 "AetherKiller" floor +1 8066,11735,0 [Base.UnusableWood].
+[29-05-23 20:15:22.659] 76561198843937901 "AetherKiller" floor +1 8067,11737,0 [Base.Nails].
+[29-05-23 20:15:22.660] 76561198843937901 "AetherKiller" floor +1 8067,11737,0 [Base.Plank].
+[29-05-23 20:15:38.222] 76561198843937901 "AetherKiller" floor +1 8067,11736,0 [Base.Eraser].
+[29-05-23 20:15:40.134] 76561198843937901 "AetherKiller" container -1 8066,11737,0 [Base.Eraser].
+[29-05-23 20:15:40.526] 76561198843937901 "AetherKiller" floor +1 8067,11736,0 [Base.RubberBand].
+[29-05-23 20:15:42.442] 76561198843937901 "AetherKiller" floor +1 8067,11736,0 [Base.SheetPaper2].
+[29-05-23 20:15:43.127] 76561198843937901 "AetherKiller" container -2 8066,11737,0 [Base.RubberBand, Base.SheetPaper2].
+[29-05-23 20:15:44.091] 76561198843937901 "AetherKiller" floor +1 8067,11736,0 [Base.Pencil].
+[29-05-23 20:15:46.126] 76561198843937901 "AetherKiller" container -1 8066,11737,0 [Base.Pencil].
+[29-05-23 20:16:00.420] 76561198843937901 "AetherKiller" floor +1 8066,11737,0 [Base.Nails].
+[29-05-23 20:16:00.422] 76561198843937901 "AetherKiller" floor +1 8066,11737,0 [Base.UnusableWood].
+[29-05-23 20:16:09.061] 76561198843937901 "AetherKiller" floor -1 8067,11735,0 [Base.Plank].
+[29-05-23 20:16:12.223] 76561198843937901 "AetherKiller" floor -1 8067,11737,0 [Base.Plank].

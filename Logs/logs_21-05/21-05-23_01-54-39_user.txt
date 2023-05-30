@@ -1,0 +1,26 @@
+[21-05-23 01:54:39.940] added connection index=0 127.0.0.1.
+[21-05-23 01:54:42.680] 76561198084012853 "zehio" attempting to join.
+[21-05-23 01:54:42.680] 76561198084012853 "zehio" allowed to join.
+[21-05-23 01:58:40.702] 76561198084012853 "zehio" attempting to join used queue.
+[21-05-23 01:58:46.812] player zehio loading time was: 5824 ms.
+[21-05-23 01:58:48.898] 76561198084012853 "zehio" fully connected (10942,9373,0).
+[21-05-23 02:00:41.004] added connection index=1 26.113.192.1.
+[21-05-23 02:00:43.685] 76561198362912133 "Danowookie" attempting to join.
+[21-05-23 02:00:43.685] 76561198362912133 "Danowookie" allowed to join.
+[21-05-23 02:02:06.805] 76561198362912133 "Danowookie" attempting to join used queue.
+[21-05-23 02:02:14.803] player Danowookie loading time was: 7262 ms.
+[21-05-23 02:02:16.529] 76561198362912133 "Danowookie" fully connected (10976,9785,0).
+[21-05-23 02:03:21.497] user zehio died at (10903,9408,0) (non pvp).
+[21-05-23 02:03:53.929] 76561198084012853 "zehio" disconnected player (10903,9408,0).
+[21-05-23 02:03:56.149] 76561198084012853 "zehio" fully connected (10908,9994,0).
+[21-05-23 02:07:09.087] user zehio died at (10949,9649,0) (non pvp).
+[21-05-23 02:07:31.698] 76561198084012853 "zehio" disconnected player (10949,9649,0).
+[21-05-23 02:07:33.964] 76561198084012853 "zehio" fully connected (10942,9373,0).
+[21-05-23 02:09:37.907] user Danowookie died at (10911,9424,0) (non pvp).
+[21-05-23 02:10:21.872] 76561198362912133 "Danowookie" disconnected player (10911,9424,0).
+[21-05-23 02:10:24.640] 76561198362912133 "Danowookie" fully connected (10803,10073,0).
+[21-05-23 03:10:17.451] user Danowookie died at (10703,9563,0) (non pvp).
+[21-05-23 03:12:00.806] 76561198362912133 "Danowookie" disconnected player (10703,9563,0).
+[21-05-23 03:12:02.970] 76561198362912133 "Danowookie" fully connected (10872,9489,0).
+[21-05-23 03:21:58.699] 76561198084012853 "zehio" removed connection index=0.
+[21-05-23 03:21:58.712] 76561198084012853 "zehio" disconnected player (10912,9402,0).

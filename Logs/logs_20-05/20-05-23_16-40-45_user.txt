@@ -1,0 +1,14 @@
+[20-05-23 16:40:45.395] added connection index=0 127.0.0.1.
+[20-05-23 16:40:48.149] 76561198084012853 "zehio" attempting to join.
+[20-05-23 16:40:48.149] 76561198084012853 "zehio" allowed to join.
+[20-05-23 16:40:57.327] 76561198084012853 "zehio" attempting to join used queue.
+[20-05-23 16:41:06.659] player zehio loading time was: 9025 ms.
+[20-05-23 16:41:09.795] 76561198084012853 "zehio" fully connected (10138,9492,0).
+[20-05-23 16:41:37.663] added connection index=1 26.91.104.50.
+[20-05-23 16:41:40.323] 76561198362912133 "Danowookie" attempting to join.
+[20-05-23 16:41:40.323] 76561198362912133 "Danowookie" allowed to join.
+[20-05-23 16:41:45.040] 76561198362912133 "Danowookie" attempting to join used queue.
+[20-05-23 16:42:09.381] player Danowookie loading time was: 23813 ms.
+[20-05-23 16:42:13.022] 76561198362912133 "Danowookie" fully connected (10137,9491,0).
+[20-05-23 16:42:23.416] 76561198084012853 "zehio" removed connection index=0.
+[20-05-23 16:42:23.430] 76561198084012853 "zehio" disconnected player (10141,9492,0).

@@ -1,0 +1,7 @@
+[28-05-23 17:06:57.280][info] Init chat system....
+[28-05-23 17:06:57.280][info] Mode: multiplayer.
+[28-05-23 17:06:57.280][info] Chat owner: zehio.
+[28-05-23 17:27:49.960][info] Got message from server: ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[28-05-23 17:27:50.152][info] Got message from server: ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'}.
+[28-05-23 17:27:50.376][info] Got message from server: ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'}.
+[28-05-23 17:27:50.545][info] Got message from server: ChatMessage{chat=Local, author='Danowookie', text='¡EH TÚ!'}.

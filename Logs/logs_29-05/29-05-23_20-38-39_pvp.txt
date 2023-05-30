@@ -1,0 +1,26 @@
+[29-05-23 20:38:39.698][INFO] user "zehio" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-05-23 20:42:15.185][INFO] user "AetherKiller" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-05-23 20:57:22.737] user "AetherKiller" (8135,11745,1) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-05-23 20:57:22.738] user "AetherKiller" (8135,11745,1) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[29-05-23 20:57:28.497] user "AetherKiller" (8132,11746,1) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[29-05-23 20:57:28.498] user "AetherKiller" (8132,11746,1) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[29-05-23 21:00:32.208] user "AetherKiller" (8139,11736,1) enabled safety enabled=true last=false cooldown=0.0 toggle=0.0.
+[29-05-23 21:00:32.208] user "AetherKiller" (8139,11736,1) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[29-05-23 21:00:48.729] user "AetherKiller" (8137,11738,1) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[29-05-23 21:00:48.729] user "AetherKiller" (8137,11738,1) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[29-05-23 21:04:42.821][INFO] user "AetherKiller" store safety enabled=true last=false cooldown=0.0 toggle=0.0.
+[29-05-23 21:08:42.087][INFO] user "AetherKiller" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-05-23 21:47:54.349][INFO] user "zehio" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-05-23 22:00:11.099][INFO] user "zehio" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-05-23 23:50:28.626] user "zehio" (8124,11755,0) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-05-23 23:50:28.626] user "zehio" (8124,11755,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[29-05-23 23:50:44.089] user "zehio" (8123,11755,0) disabled safety enabled=false last=true cooldown=3.0 toggle=0.0.
+[29-05-23 23:50:52.613] user "zehio" (8124,11755,0) disabled safety enabled=false last=true cooldown=3.0 toggle=0.0.
+[29-05-23 23:50:56.146] user "zehio" (8125,11753,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[29-05-23 23:50:56.146] user "zehio" (8125,11753,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[29-05-23 23:59:15.376] user "AetherKiller" (8146,11744,0) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[29-05-23 23:59:15.377] user "AetherKiller" (8146,11744,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[30-05-23 00:00:58.679] user "AetherKiller" (8157,11745,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[30-05-23 00:00:58.679] user "AetherKiller" (8157,11745,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[30-05-23 00:06:52.701][INFO] user "AetherKiller" store safety enabled=true last=false cooldown=0.0 toggle=0.0.
+[30-05-23 00:07:08.803][INFO] user "zehio" store safety enabled=true last=false cooldown=0.0 toggle=0.0.

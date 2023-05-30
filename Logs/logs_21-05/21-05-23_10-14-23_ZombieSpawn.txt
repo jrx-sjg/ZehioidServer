@@ -1,0 +1,41 @@
+[21-05-23 10:21:36.070] ================================================================================.
+[21-05-23 10:40:00.980] ================================================================================.
+[21-05-23 11:01:45.089] ================================================================================.
+[21-05-23 11:12:16.982] reason = createEatingZombies x,y,z = 10972,9469,0
+reason = createEatingZombies x,y,z = 10973,9469,0
+reason = createEatingZombies x,y,z = 10973,9468,0
+reason = RVSCarCrash x,y,z = 10936,9453,0
+reason = RVSCarCrash x,y,z = 10943,9458,0
+reason = RVSCarCrash x,y,z = 10939,9457,0
+reason = createEatingZombies x,y,z = 11061,9465,0
+reason = createEatingZombies x,y,z = 11062,9465,0
+reason = createEatingZombies x,y,z = 11062,9464,0
+reason = RVSChangingTire x,y,z = 10938,9869,0
+reason = RVSChangingTire x,y,z = 10937,9865,0
+reason = RDSBathroomZed x,y,z = 10938,9756,0 room = bathroom
+reason = createEatingZombies x,y,z = 10904,9827,0
+reason = createEatingZombies x,y,z = 10885,9832,0
+reason = createEatingZombies x,y,z = 10886,9832,0
+reason = createEatingZombies x,y,z = 10886,9831,0
+reason = RDSZombieLockedBathroom x,y,z = 10855,9881,0 room = bathroom
+reason = createEatingZombies x,y,z = 10855,9848,0
+reason = createEatingZombies x,y,z = 10856,9848,0
+reason = createEatingZombies x,y,z = 10856,9847,0
+reason = createEatingZombies x,y,z = 10805,9759,0.
+[21-05-23 11:13:53.304] reason = createEatingZombies x,y,z = 10806,9759,0
+reason = RVSUtilityVehicle x,y,z = 10785,9785,0
+reason = RVSUtilityVehicle x,y,z = 10789,9786,0
+reason = createEatingZombies x,y,z = 10773,9874,0
+reason = RDSSkeletonPsycho x,y,z = 10754,9913,1 room = bedroom
+reason = RDSSkeletonPsycho x,y,z = 10753,9913,1 room = bedroom
+reason = RDSSkeletonPsycho x,y,z = 10755,9913,1 room = bedroom
+reason = RDSSkeletonPsycho x,y,z = 10753,9912,1 room = bedroom
+reason = RDSSkeletonPsycho x,y,z = 10753,9912,1 room = bedroom
+reason = RDSSkeletonPsycho x,y,z = 10752,9912,1 room = bedroom
+reason = RVSAmbulanceCrash x,y,z = 10794,9940,0
+reason = RVSAmbulanceCrash x,y,z = 10796,9946,0
+reason = RVSAmbulanceCrash x,y,z = 10793,9940,0
+reason = RVSAmbulanceCrash x,y,z = 10794,9946,0
+reason = RVSAmbulanceCrash x,y,z = 10736,9906,0
+reason = RVSAmbulanceCrash x,y,z = 10742,9903,0
+reason = RVSAmbulanceCrash x,y,z = 10742,9904,0.

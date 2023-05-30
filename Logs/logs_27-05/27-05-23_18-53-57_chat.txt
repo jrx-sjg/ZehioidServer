@@ -1,0 +1,128 @@
+[27-05-23 18:53:57.290][info] Start chat server initialization....
+[27-05-23 18:53:57.294][info] General chat has id = 0.
+[27-05-23 18:53:57.294][info] Say chat has id = 1.
+[27-05-23 18:53:57.294][info] Shout chat has id = 2.
+[27-05-23 18:53:57.294][info] Radio chat has id = 3.
+[27-05-23 18:53:57.294][info] Admin chat has id = 4.
+[27-05-23 18:53:57.294][info] Server chat has id = 5.
+[27-05-23 18:53:57.294][info] Chat server successfully initialized.
+[27-05-23 18:54:36.427][info] Player with id = '0' tries to connect.
+[27-05-23 18:54:36.427][info] Adding player '0' to chat server.
+[27-05-23 18:54:36.428][info] Player joined to default chats.
+[27-05-23 18:54:36.428][info] Player zehio(0) joined to chat server successfully.
+[27-05-23 18:59:09.376][info] Player with id = '4' tries to connect.
+[27-05-23 18:59:09.376][info] Adding player '4' to chat server.
+[27-05-23 18:59:09.376][info] Player joined to default chats.
+[27-05-23 18:59:09.376][info] Player Danowookie(4) joined to chat server successfully.
+[27-05-23 19:01:28.836][info] Got message:ChatMessage{chat=Local, author='zehio', text='psssst'}.
+[27-05-23 19:01:28.836][info] Message ChatMessage{chat=Local, author='zehio', text='psssst'} sent to chat (id = 2) members.
+[27-05-23 19:01:32.366][info] Got message:ChatMessage{chat=Local, author='zehio', text='hey'}.
+[27-05-23 19:01:32.366][info] Message ChatMessage{chat=Local, author='zehio', text='hey'} sent to chat (id = 2) members.
+[27-05-23 19:01:33.880][info] Got message:ChatMessage{chat=Local, author='zehio', text='psst psst'}.
+[27-05-23 19:01:33.880][info] Message ChatMessage{chat=Local, author='zehio', text='psst psst'} sent to chat (id = 2) members.
+[27-05-23 19:08:21.228][info] Player with id = '8' tries to connect.
+[27-05-23 19:08:21.228][info] Adding player '8' to chat server.
+[27-05-23 19:08:21.228][info] Player joined to default chats.
+[27-05-23 19:08:21.228][info] Player AetherKiller(8) joined to chat server successfully.
+[27-05-23 19:09:18.585][info] Got message:ChatMessage{chat=Local, author='zehio', text='hey'}.
+[27-05-23 19:09:18.585][info] Message ChatMessage{chat=Local, author='zehio', text='hey'} sent to chat (id = 2) members.
+[27-05-23 19:11:38.063][info] Player 8 disconnecting....
+[27-05-23 19:11:38.063][info] Disconnecting player 8 finished.
+[27-05-23 19:12:22.163][info] Player 8 disconnecting....
+[27-05-23 19:12:22.163][info] Disconnecting player 8 finished.
+[27-05-23 19:12:22.164][info] Player with id = '8' tries to connect.
+[27-05-23 19:12:22.164][info] Adding player '8' to chat server.
+[27-05-23 19:12:22.164][error] Player or connection is not found on server!.
+[27-05-23 19:12:22.164][error] player = null.
+[27-05-23 19:12:25.774][info] Player with id = '8' tries to connect.
+[27-05-23 19:12:25.774][info] Adding player '8' to chat server.
+[27-05-23 19:12:25.774][info] Player joined to default chats.
+[27-05-23 19:12:25.774][info] Player AetherKiller(8) joined to chat server successfully.
+[27-05-23 19:26:10.518][info] Player with id = '12' tries to connect.
+[27-05-23 19:26:10.518][info] Adding player '12' to chat server.
+[27-05-23 19:26:10.518][info] Player joined to default chats.
+[27-05-23 19:26:10.518][info] Player agachate y conoselo(12) joined to chat server successfully.
+[27-05-23 20:03:13.983][info] Player 4 disconnecting....
+[27-05-23 20:03:13.983][info] Disconnecting player 4 finished.
+[27-05-23 20:04:12.093][info] Player 4 disconnecting....
+[27-05-23 20:04:12.093][info] Disconnecting player 4 finished.
+[27-05-23 20:04:12.093][info] Player with id = '4' tries to connect.
+[27-05-23 20:04:12.093][info] Adding player '4' to chat server.
+[27-05-23 20:04:12.093][error] Player or connection is not found on server!.
+[27-05-23 20:04:12.093][error] player = null.
+[27-05-23 20:04:14.420][info] Player with id = '4' tries to connect.
+[27-05-23 20:04:14.420][info] Adding player '4' to chat server.
+[27-05-23 20:04:14.420][info] Player joined to default chats.
+[27-05-23 20:04:14.420][info] Player Danowookie(4) joined to chat server successfully.
+[27-05-23 20:08:19.189][info] Player 8 disconnecting....
+[27-05-23 20:08:19.189][info] Disconnecting player 8 finished.
+[27-05-23 20:08:55.758][info] Player 8 disconnecting....
+[27-05-23 20:08:55.758][info] Disconnecting player 8 finished.
+[27-05-23 20:08:55.758][info] Player with id = '8' tries to connect.
+[27-05-23 20:08:55.758][info] Adding player '8' to chat server.
+[27-05-23 20:08:55.758][error] Player or connection is not found on server!.
+[27-05-23 20:08:55.759][error] player = null.
+[27-05-23 20:08:58.264][info] Player with id = '8' tries to connect.
+[27-05-23 20:08:58.264][info] Adding player '8' to chat server.
+[27-05-23 20:08:58.264][info] Player joined to default chats.
+[27-05-23 20:08:58.264][info] Player AetherKiller(8) joined to chat server successfully.
+[27-05-23 20:12:38.676][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡HEY!'}.
+[27-05-23 20:12:38.676][info] Message ChatMessage{chat=Local, author='zehio', text='¡HEY!'} sent to chat (id = 2) members.
+[27-05-23 20:16:40.988][info] Player 12 disconnecting....
+[27-05-23 20:16:40.988][info] Disconnecting player 12 finished.
+[27-05-23 20:16:40.988][info] Player 12 disconnecting....
+[27-05-23 20:16:40.988][info] Disconnecting player 12 finished.
+[27-05-23 20:22:16.964][info] Player 8 disconnecting....
+[27-05-23 20:22:16.964][info] Disconnecting player 8 finished.
+[27-05-23 20:23:14.525][info] Player 8 disconnecting....
+[27-05-23 20:23:14.525][info] Disconnecting player 8 finished.
+[27-05-23 20:23:14.525][info] Player with id = '8' tries to connect.
+[27-05-23 20:23:14.525][info] Adding player '8' to chat server.
+[27-05-23 20:23:14.526][error] Player or connection is not found on server!.
+[27-05-23 20:23:14.526][error] player = null.
+[27-05-23 20:23:17.107][info] Player with id = '8' tries to connect.
+[27-05-23 20:23:17.107][info] Adding player '8' to chat server.
+[27-05-23 20:23:17.107][info] Player joined to default chats.
+[27-05-23 20:23:17.107][info] Player AetherKiller(8) joined to chat server successfully.
+[27-05-23 20:56:50.518][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'}.
+[27-05-23 20:56:50.518][info] Message ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[27-05-23 20:59:50.690][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡HEY!'}.
+[27-05-23 20:59:50.690][info] Message ChatMessage{chat=Local, author='zehio', text='¡HEY!'} sent to chat (id = 2) members.
+[27-05-23 21:28:49.645][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡POR AQUÍ!'}.
+[27-05-23 21:28:49.645][info] Message ChatMessage{chat=Local, author='zehio', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[27-05-23 21:28:49.922][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡POR AQUÍ!'}.
+[27-05-23 21:28:49.922][info] Message ChatMessage{chat=Local, author='zehio', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[27-05-23 21:28:50.595][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡HEY!'}.
+[27-05-23 21:28:50.595][info] Message ChatMessage{chat=Local, author='zehio', text='¡HEY!'} sent to chat (id = 2) members.
+[27-05-23 21:28:50.799][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡POR AQUÍ!'}.
+[27-05-23 21:28:50.799][info] Message ChatMessage{chat=Local, author='zehio', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[27-05-23 21:28:51.005][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'}.
+[27-05-23 21:28:51.005][info] Message ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[27-05-23 21:28:53.977][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡HEY!'}.
+[27-05-23 21:28:53.977][info] Message ChatMessage{chat=Local, author='zehio', text='¡HEY!'} sent to chat (id = 2) members.
+[27-05-23 21:28:54.210][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'}.
+[27-05-23 21:28:54.211][info] Message ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[27-05-23 21:28:54.397][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'}.
+[27-05-23 21:28:54.397][info] Message ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[27-05-23 21:28:54.573][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡POR AQUÍ!'}.
+[27-05-23 21:28:54.573][info] Message ChatMessage{chat=Local, author='zehio', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[27-05-23 21:29:30.877][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡HEY!'}.
+[27-05-23 21:29:30.877][info] Message ChatMessage{chat=Local, author='zehio', text='¡HEY!'} sent to chat (id = 2) members.
+[27-05-23 21:30:28.363][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'}.
+[27-05-23 21:30:28.363][info] Message ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[27-05-23 21:32:20.270][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡POR AQUÍ!'}.
+[27-05-23 21:32:20.270][info] Message ChatMessage{chat=Local, author='zehio', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[27-05-23 21:33:45.922][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'}.
+[27-05-23 21:33:45.922][info] Message ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[27-05-23 21:42:25.073][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'}.
+[27-05-23 21:42:25.073][info] Message ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[27-05-23 21:45:23.873][info] Got message:ChatMessage{chat=Local, author='zehio', text='psssst'}.
+[27-05-23 21:45:23.873][info] Message ChatMessage{chat=Local, author='zehio', text='psssst'} sent to chat (id = 2) members.
+[27-05-23 21:45:25.005][info] Got message:ChatMessage{chat=Local, author='zehio', text='psst psst'}.
+[27-05-23 21:45:25.005][info] Message ChatMessage{chat=Local, author='zehio', text='psst psst'} sent to chat (id = 2) members.
+[27-05-23 21:50:16.203][info] Got message:ChatMessage{chat=Local, author='zehio', text='psssst'}.
+[27-05-23 21:50:16.203][info] Message ChatMessage{chat=Local, author='zehio', text='psssst'} sent to chat (id = 2) members.
+[27-05-23 22:04:48.000][info] Player 0 disconnecting....
+[27-05-23 22:04:48.000][info] Disconnecting player 0 finished.
+[27-05-23 22:04:48.000][info] Player 0 disconnecting....
+[27-05-23 22:04:48.000][info] Disconnecting player 0 finished.

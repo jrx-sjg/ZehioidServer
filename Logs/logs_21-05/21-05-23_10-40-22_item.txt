@@ -1,0 +1,21 @@
+[21-05-23 10:40:22.208] 76561198084012853 "zehio" container -1 10916,9399,0 [Base.PotOfStew].
+[21-05-23 10:40:22.208] 76561198084012853 "zehio" container +0 10915,9399,0 [Base.PotOfStew].
+[21-05-23 10:40:53.624] 76561198084012853 "zehio" floor +1 10913,9404,0 [Base.Key5].
+[21-05-23 10:41:16.203] 76561198084012853 "zehio" container -1 10917,9401,0 [Base.Macandcheese].
+[21-05-23 10:42:16.209] 76561198084012853 "zehio" container -1 10911,9403,1 [Base.AlarmClock2].
+[21-05-23 10:42:31.204] 76561198084012853 "zehio" container -1 10911,9403,1 [Base.WristWatch_Left_DigitalBlack].
+[21-05-23 10:42:40.209] 76561198084012853 "zehio" container +0 10911,9403,1 [Base.WristWatch_Left_DigitalBlack].
+[21-05-23 10:43:01.216] 76561198084012853 "zehio" container +0 10911,9403,1 [Base.AlarmClock2].
+[21-05-23 10:43:10.211] 76561198084012853 "zehio" container +0 10911,9403,1 [Base.PopBottleEmpty].
+[21-05-23 10:44:34.203] 76561198084012853 "zehio" container -1 10900,9392,0 [Base.NailsBox].
+[21-05-23 10:44:37.215] 76561198084012853 "zehio" container -1 10900,9392,0 [Base.DuctTape].
+[21-05-23 10:44:40.204] 76561198084012853 "zehio" container -1 10900,9392,0 [Base.Hammer].
+[21-05-23 10:49:43.209] 76561198084012853 "zehio" container -2 10788,9416,0 [Base.Magazine, Base.MagazineCrossword1].
+[21-05-23 10:49:46.208] 76561198084012853 "zehio" container -1 10786,9416,0 [Base.Newspaper].
+[21-05-23 10:49:52.211] 76561198084012853 "zehio" container -2 10784,9421,0 [Base.CannedBolognese, Base.TunaTin].
+[21-05-23 10:49:55.215] 76561198084012853 "zehio" container -1 10784,9421,0 [Base.TinnedBeans].
+[21-05-23 10:50:07.206] 76561198084012853 "zehio" container -1 10785,9421,0 [Base.Ham].
+[21-05-23 10:50:19.205] 76561198084012853 "zehio" container -1 10784,9418,0 [Base.MeatCleaver].
+[21-05-23 10:50:46.208] 76561198084012853 "zehio" container -2 10788,9423,0 [Base.RubberBand].
+[21-05-23 10:50:55.211] 76561198084012853 "zehio" container -1 10788,9423,0 [Base.HuntingMag1].
+[21-05-23 10:50:58.207] 76561198084012853 "zehio" container -1 10788,9423,0 [Base.MagazineCrossword1].

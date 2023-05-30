@@ -1,0 +1,82 @@
+[20-05-23 17:22:47.896][info] Start chat server initialization....
+[20-05-23 17:22:47.905][info] General chat has id = 0.
+[20-05-23 17:22:47.905][info] Say chat has id = 1.
+[20-05-23 17:22:47.905][info] Shout chat has id = 2.
+[20-05-23 17:22:47.905][info] Radio chat has id = 3.
+[20-05-23 17:22:47.905][info] Admin chat has id = 4.
+[20-05-23 17:22:47.906][info] Server chat has id = 5.
+[20-05-23 17:22:47.906][info] Chat server successfully initialized.
+[20-05-23 17:23:20.293][info] Player with id = '0' tries to connect.
+[20-05-23 17:23:20.294][info] Adding player '0' to chat server.
+[20-05-23 17:23:20.296][info] Player joined to default chats.
+[20-05-23 17:23:20.296][info] Player zehio(0) joined to chat server successfully.
+[20-05-23 17:24:07.867][info] Player with id = '4' tries to connect.
+[20-05-23 17:24:07.867][info] Adding player '4' to chat server.
+[20-05-23 17:24:07.867][info] Player joined to default chats.
+[20-05-23 17:24:07.868][info] Player Danowookie(4) joined to chat server successfully.
+[20-05-23 17:27:38.739][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'}.
+[20-05-23 17:27:38.739][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡POR AQUÍ!'} sent to chat (id = 2) members.
+[20-05-23 17:37:18.359][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='psssst'}.
+[20-05-23 17:37:18.359][info] Message ChatMessage{chat=Local, author='Danowookie', text='psssst'} sent to chat (id = 2) members.
+[20-05-23 17:38:48.298][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='psst psst'}.
+[20-05-23 17:38:48.298][info] Message ChatMessage{chat=Local, author='Danowookie', text='psst psst'} sent to chat (id = 2) members.
+[20-05-23 17:40:57.552][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'}.
+[20-05-23 17:40:57.552][info] Message ChatMessage{chat=Local, author='Danowookie', text='¡HEY!'} sent to chat (id = 2) members.
+[20-05-23 17:41:42.165][info] Player 0 disconnecting....
+[20-05-23 17:41:42.166][info] Disconnecting player 0 finished.
+[20-05-23 17:43:07.870][info] Player 0 disconnecting....
+[20-05-23 17:43:07.870][info] Disconnecting player 0 finished.
+[20-05-23 17:43:07.871][info] Player with id = '0' tries to connect.
+[20-05-23 17:43:07.871][info] Adding player '0' to chat server.
+[20-05-23 17:43:07.872][error] Player or connection is not found on server!.
+[20-05-23 17:43:07.872][error] player = null.
+[20-05-23 17:43:09.974][info] Player with id = '0' tries to connect.
+[20-05-23 17:43:09.974][info] Adding player '0' to chat server.
+[20-05-23 17:43:09.974][info] Player joined to default chats.
+[20-05-23 17:43:09.974][info] Player zehio(0) joined to chat server successfully.
+[20-05-23 17:44:38.189][info] Player 4 disconnecting....
+[20-05-23 17:44:38.189][info] Disconnecting player 4 finished.
+[20-05-23 17:45:25.397][info] Player 4 disconnecting....
+[20-05-23 17:45:25.397][info] Disconnecting player 4 finished.
+[20-05-23 17:45:25.397][info] Player with id = '4' tries to connect.
+[20-05-23 17:45:25.397][info] Adding player '4' to chat server.
+[20-05-23 17:45:25.397][error] Player or connection is not found on server!.
+[20-05-23 17:45:25.397][error] player = null.
+[20-05-23 17:45:27.780][info] Player with id = '4' tries to connect.
+[20-05-23 17:45:27.780][info] Adding player '4' to chat server.
+[20-05-23 17:45:27.780][info] Player joined to default chats.
+[20-05-23 17:45:27.780][info] Player Danowookie(4) joined to chat server successfully.
+[20-05-23 18:13:50.519][info] Got message:ChatMessage{chat=Local, author='zehio', text='psssst'}.
+[20-05-23 18:13:50.519][info] Message ChatMessage{chat=Local, author='zehio', text='psssst'} sent to chat (id = 2) members.
+[20-05-23 18:30:52.360][info] Player 0 disconnecting....
+[20-05-23 18:30:52.360][info] Disconnecting player 0 finished.
+[20-05-23 18:37:39.345][info] Player 0 disconnecting....
+[20-05-23 18:37:39.345][info] Disconnecting player 0 finished.
+[20-05-23 18:37:39.345][info] Player with id = '0' tries to connect.
+[20-05-23 18:37:39.345][info] Adding player '0' to chat server.
+[20-05-23 18:37:39.345][error] Player or connection is not found on server!.
+[20-05-23 18:37:39.346][error] player = null.
+[20-05-23 18:37:41.687][info] Player with id = '0' tries to connect.
+[20-05-23 18:37:41.687][info] Adding player '0' to chat server.
+[20-05-23 18:37:41.687][info] Player joined to default chats.
+[20-05-23 18:37:41.687][info] Player zehio(0) joined to chat server successfully.
+[20-05-23 18:54:49.851][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='psst psst'}.
+[20-05-23 18:54:49.851][info] Message ChatMessage{chat=Local, author='Danowookie', text='psst psst'} sent to chat (id = 2) members.
+[20-05-23 21:14:29.946][info] Player 4 disconnecting....
+[20-05-23 21:14:29.946][info] Disconnecting player 4 finished.
+[20-05-23 21:16:54.620][info] Player 4 disconnecting....
+[20-05-23 21:16:54.620][info] Disconnecting player 4 finished.
+[20-05-23 21:16:54.620][info] Player with id = '4' tries to connect.
+[20-05-23 21:16:54.620][info] Adding player '4' to chat server.
+[20-05-23 21:16:54.620][error] Player or connection is not found on server!.
+[20-05-23 21:16:54.620][error] player = null.
+[20-05-23 21:16:56.967][info] Player with id = '4' tries to connect.
+[20-05-23 21:16:56.967][info] Adding player '4' to chat server.
+[20-05-23 21:16:56.967][info] Player joined to default chats.
+[20-05-23 21:16:56.967][info] Player Danowookie(4) joined to chat server successfully.
+[20-05-23 21:33:14.872][info] Got message:ChatMessage{chat=Local, author='Danowookie', text='hey'}.
+[20-05-23 21:33:14.872][info] Message ChatMessage{chat=Local, author='Danowookie', text='hey'} sent to chat (id = 2) members.
+[20-05-23 21:33:50.494][info] Player 0 disconnecting....
+[20-05-23 21:33:50.494][info] Disconnecting player 0 finished.
+[20-05-23 21:33:50.494][info] Player 0 disconnecting....
+[20-05-23 21:33:50.494][info] Disconnecting player 0 finished.

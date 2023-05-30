@@ -1,0 +1,38 @@
+[29-05-23 17:24:52.475] LOG  : General     , 1685373892474> 30.353.878> cachedir set to "/home/sergio/Zomboid".
+[29-05-23 17:24:52.529] LOG  : General     , 1685373892529> 30.353.932> version=41.78.16 demo=false.
+[29-05-23 17:24:52.529] LOG  : General     , 1685373892529> 30.353.932> revision= date= time=.
+[29-05-23 17:24:52.530] LOG  : General     , 1685373892529> 30.353.933> server name is "servertest".
+[29-05-23 17:24:52.530] LOG  : General     , 1685373892530> 30.353.933> map_t.bin does not exist, cannot determine the server's WorldVersion.  This is ok the first time a server is started..
+[29-05-23 17:24:52.531] LOG  : General     , 1685373892531> 30.353.934> Loading networking libraries....
+[29-05-23 17:24:52.531] LOG  : General     , 1685373892531> 30.353.934> Loading steam_api....
+[29-05-23 17:24:52.531] LOG  : General     , 1685373892531> 30.353.935> Loading RakNet64....
+[29-05-23 17:24:52.532] LOG  : General     , 1685373892532> 30.353.935> Loading ZNetJNI64....
+[29-05-23 17:24:52.533] LOG  : Network     , 1685373892533> 30.353.936> [29-05-23 17:24:52.533] > ZNet: SetLogLevel 2.
+[29-05-23 17:24:52.534] LOG  : Network     , 1685373892534> 30.353.937> [29-05-23 17:24:52.534] > ZNet: SteamAPI initialised successfully.
+[29-05-23 17:24:52.534] LOG  : General     , 1685373892534> 30.353.937> SteamUtils initialised successfully.
+[29-05-23 17:24:52.779] LOG  : General     , 1685373892778> 30.354.182> translator: language is ES.
+[29-05-23 17:24:52.930] LOG  : General     , 1685373892930> 30.354.334> reading /home/sergio/Zomboid/Server/servertest.ini.
+[29-05-23 17:24:52.932] LOG  : General     , 1685373892931> 30.354.335> writing /home/sergio/Zomboid/Server/servertest.ini.
+[29-05-23 17:24:52.938] LOG  : Network     , 1685373892938> 30.354.341> [29-05-23 17:24:52.938] > ZNet: SZombienet -> SZombienet: Init.
+[29-05-23 17:24:52.972] LOG  : Network     , 1685373892972> 30.354.375> [29-05-23 17:24:52.972] > ZNet: SteamGameServer seems to be initialized.
+[29-05-23 17:24:52.972] LOG  : Network     , 1685373892972> 30.354.375> [29-05-23 17:24:52.972] > ZNet: SZombienet -> SSteamSDK: SetMaxPlayerCount.
+[29-05-23 17:24:52.973] LOG  : General     , 1685373892973> 30.354.376> Waiting for response from Steam servers.
+[29-05-23 17:24:54.576] LOG  : Network     , 1685373894576> 30.355.979> [29-05-23 17:24:54.576] > ZNet: SSteamSDK -> SZombienet: OnSteamServersConnected.
+[29-05-23 17:24:54.576] LOG  : Network     , 1685373894576> 30.355.980> [29-05-23 17:24:54.576] > ZNet: OnSteamServersConnected.
+[29-05-23 17:24:54.576] LOG  : Network     , 1685373894576> 30.355.980> [29-05-23 17:24:54.576] > ZNet: SZombienet -> SSteamSDK: SetMaxPlayerCount.
+[29-05-23 17:24:54.577] LOG  : Network     , 1685373894577> 30.355.980> [29-05-23 17:24:54.577] > ZNet: Public IP: 79.116.20.171.
+[29-05-23 17:24:54.579] LOG  : General     , 1685373894579> 30.355.982> Start making backup to: /home/sergio/Zomboid/backups/startup.
+[29-05-23 17:24:54.623] LOG  : General     , 1685373894623> 30.356.026> compressionElapsed=28ms, mergingElapsed=14ms.
+[29-05-23 17:24:54.626] LOG  : General     , 1685373894626> 30.356.029> Backup made in 46 ms.
+[29-05-23 17:24:54.629] LOG  : General     , 1685373894629> 30.356.032> user database "/home/sergio/Zomboid/db/servertest.db".
+[29-05-23 17:24:54.693] LOG  : General     , 1685373894693> 30.356.097> Router detection/configuration starting..
+[29-05-23 17:24:54.693] LOG  : General     , 1685373894693> 30.356.097> If the server hangs here, set UPnP=false..
+[29-05-23 17:25:06.745] LOG  : Network     , 1685373906745> 30.368.148> No UPnP-enabled Internet gateway found, you must configure port forwarding on your gateway manually in order to make your server accessible from the Internet..
+[29-05-23 17:25:06.745] LOG  : Network     , 1685373906745> 30.368.149> Initialising Server Systems....
+[29-05-23 17:25:07.148] LOG  : Lua         , 1685373907148> 30.368.551> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[29-05-23 17:25:07.878] LOG  : General     , 1685373907878> 30.369.282> scriptChecksum: 65f5e46ef1be089d5adca89001729e9c.
+[29-05-23 17:25:07.885] WARN : Recipe      , 1685373907884> 30.369.288> RecipeManager.resolveItemModuleDotType> WARNING: module "Base" may have forgot to import module Base.
+[29-05-23 17:25:07.895] WARN : Script      , 1685373907895> 30.369.298> ModelScript.check> no such model "null" for Base.BareHands.
+[29-05-23 17:25:07.897] WARN : Script      , 1685373907897> 30.369.300> ModelScript.check> no such model "???.DisposableRazor" for Base.Razor.
+[29-05-23 17:25:07.903] WARN : Script      , 1685373907903> 30.369.306> ModelScript.check> no such model "Chainsaw" for Base.Chainsaw.
+[29-05-23 17:25:08.296] LOG  : General     , 1685373908296> 30.369.699> LOADING ASSETS: START.

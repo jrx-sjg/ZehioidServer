@@ -1,0 +1,7 @@
+[20-05-23 13:41:24.259] 76561198084012853 "zehio" removed Door (fixtures_doors_02_4) at 10916,10135,0.
+[20-05-23 14:15:22.725] 76561198084012853 "zehio" removed Door (fixtures_doors_02_4) at 10915,9996,0.
+[20-05-23 14:21:04.436] 76561198084012853 "zehio" removed Door (fixtures_doors_fences_01_64) at 10706,9815,0.
+[20-05-23 14:21:04.437] 76561198084012853 "zehio" removed Door (fixtures_doors_fences_01_65) at 10706,9814,0.
+[20-05-23 14:21:19.163] 76561198084012853 "zehio" removed Door (fixtures_doors_fences_01_73) at 10706,9816,0.
+[20-05-23 14:21:19.165] 76561198084012853 "zehio" removed Door (fixtures_doors_fences_01_72) at 10706,9817,0.
+[20-05-23 14:29:13.263] 76561198084012853 "zehio" removed Door (fixtures_doors_01_53) at 10615,10557,0.

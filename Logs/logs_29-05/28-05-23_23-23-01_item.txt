@@ -1,0 +1,67 @@
+[28-05-23 23:23:01.560] 76561198843937901 "AetherKiller" container -1 8153,11728,0 [Base.Disinfectant].
+[28-05-23 23:23:13.582] 76561198843937901 "AetherKiller" container -1 8152,11728,0 [Base.Bandage].
+[28-05-23 23:23:28.553] 76561198843937901 "AetherKiller" container +0 8152,11728,0 [Base.Disinfectant].
+[28-05-23 23:24:27.542] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.Cherry].
+[28-05-23 23:25:52.559] 76561198843937901 "AetherKiller" container -2 8148,11728,0 [Base.Scotchtape, Base.DuctTape].
+[28-05-23 23:25:54.403] 76561198843937901 "AetherKiller" container -1 8148,11728,0 [Base.Glue].
+[28-05-23 23:25:54.528] 76561198084012853 "zehio" container -1 8128,11749,1 [Base.GridlePan].
+[28-05-23 23:26:10.571] 76561198843937901 "AetherKiller" container -1 8149,11732,0 [Base.HandAxe].
+[28-05-23 23:30:42.553] 76561198084012853 "zehio" container -1 8125,11624,0 [Base.CannedFruitCocktail].
+[28-05-23 23:30:45.560] 76561198084012853 "zehio" container -1 8125,11624,0 [Base.CannedFruitCocktail].
+[28-05-23 23:30:48.567] 76561198084012853 "zehio" container -2 8125,11624,0 [Base.TinnedBeans, Base.CannedPeaches].
+[28-05-23 23:30:54.558] 76561198084012853 "zehio" container -1 8125,11624,0 [Base.Dogfood].
+[28-05-23 23:31:21.557] 76561198084012853 "zehio" container -1 8127,11624,0 [Base.KitchenKnife].
+[28-05-23 23:31:40.132] 76561198084012853 "zehio" floor +1 8127,11623,0 [Base.TinCanEmpty].
+[28-05-23 23:31:40.593] 76561198843937901 "AetherKiller" container -2 8086,11623,0 [Base.CookiesOatmeal, Base.CookiesSugar].
+[28-05-23 23:32:07.598] 76561198843937901 "AetherKiller" container -1 8080,11619,0 [farming.Bacon].
+[28-05-23 23:32:10.591] 76561198843937901 "AetherKiller" container -3 8080,11619,0 [Base.Lard, Base.Cheese, Base.FishFillet].
+[28-05-23 23:32:13.598] 76561198843937901 "AetherKiller" container -2 8080,11619,0 [Base.Salmon, Base.Carrots].
+[28-05-23 23:32:49.590] 76561198843937901 "AetherKiller" container -1 8080,11626,0 [farming.Potato].
+[28-05-23 23:32:54.558] 76561198084012853 "zehio" container -1 8126,11605,0 [Base.Glue].
+[28-05-23 23:33:04.587] 76561198843937901 "AetherKiller" container -1 8080,11613,0 [Base.RippedSheets].
+[28-05-23 23:33:10.592] 76561198843937901 "AetherKiller" container -1 8080,11612,0 [Base.Sponge].
+[28-05-23 23:33:13.597] 76561198843937901 "AetherKiller" container -1 8080,11612,0 [Base.Sponge].
+[28-05-23 23:33:25.581] 76561198843937901 "AetherKiller" container -3 8080,11610,0 [farming.Potato].
+[28-05-23 23:33:28.597] 76561198843937901 "AetherKiller" container -1 8080,11610,0 [Base.KitchenKnife].
+[28-05-23 23:33:51.552] 76561198084012853 "zehio" container -3 8133,11598,0 [Base.CannedChili, Base.CannedBolognese, Base.TinnedBeans].
+[28-05-23 23:33:54.568] 76561198084012853 "zehio" container -2 8133,11598,0 [Base.CannedMushroomSoup, Base.CannedCorn].
+[28-05-23 23:34:07.593] 76561198843937901 "AetherKiller" container -1 8088,11605,0 [Base.Scotchtape].
+[28-05-23 23:34:36.308] 76561198843937901 "AetherKiller" container -1 8091,11603,0 [Base.Scotchtape].
+[28-05-23 23:36:15.556] 76561198084012853 "zehio" container -1 8156,11600,0 [Base.ClubHammer].
+[28-05-23 23:37:42.709] 76561198084012853 "zehio" floor +1 8168,11588,0 [Base.Hat_BaseballCapKY_Reverse].
+[28-05-23 23:38:04.613] 76561198843937901 "AetherKiller" container -1 8152,11728,0 [Base.AlcoholWipes].
+[28-05-23 23:38:27.014] 76561198084012853 "zehio" container -1 8170,11590,0 [Base.Bag_Satchel].
+[28-05-23 23:38:43.612] 76561198843937901 "AetherKiller" container +0 8152,11728,0 [Base.AlcoholWipes].
+[28-05-23 23:39:51.558] 76561198084012853 "zehio" container -1 8167,11580,0 [Base.Disinfectant].
+[28-05-23 23:39:56.793] 76561198843937901 "AetherKiller" floor +1 8160,11742,0 [Base.Glasses_Normal].
+[28-05-23 23:41:16.613] 76561198843937901 "AetherKiller" container -1 8152,11728,0 [Base.Disinfectant].
+[28-05-23 23:41:19.603] 76561198843937901 "AetherKiller" container -1 8152,11728,0 [Base.Bandage].
+[28-05-23 23:41:25.618] 76561198843937901 "AetherKiller" container -1 8152,11728,0 [Base.Disinfectant].
+[28-05-23 23:41:28.609] 76561198843937901 "AetherKiller" container +0 8152,11728,0 [Base.Disinfectant].
+[28-05-23 23:41:43.613] 76561198843937901 "AetherKiller" container -1 8154,11728,0 [Base.Tweezers].
+[28-05-23 23:41:48.779] 76561198084012853 "zehio" floor +1 8116,11670,0 [Base.Bag_Satchel].
+[28-05-23 23:41:49.611] 76561198843937901 "AetherKiller" container -1 8152,11728,0 [Base.SutureNeedle].
+[28-05-23 23:42:10.610] 76561198843937901 "AetherKiller" container -1 8152,11728,0 [Base.SutureNeedle].
+[28-05-23 23:43:42.547] 76561198084012853 "zehio" container +0 8128,11748,1 [Base.Pop2, Base.Pop3, Base.CannedChili].
+[28-05-23 23:43:45.547] 76561198084012853 "zehio" container +0 8128,11748,1 [Base.Dogfood, Base.CannedBolognese, Base.CannedFruitCocktail].
+[28-05-23 23:43:48.586] 76561198084012853 "zehio" container +0 8128,11748,1 [Base.CannedCorn, Base.TinnedBeans].
+[28-05-23 23:43:51.548] 76561198084012853 "zehio" container +0 8128,11748,1 [Base.CannedMushroomSoup, Base.CannedPeaches].
+[28-05-23 23:43:57.549] 76561198084012853 "zehio" container +0 8128,11749,1 [Base.GridlePan].
+[28-05-23 23:45:31.616] 76561198084012853 "zehio" floor -1 8116,11670,0 [Base.Bag_Satchel].
+[28-05-23 23:47:52.708] 76561198084012853 "zehio" floor +1 8132,11747,1 [Base.Bag_Satchel].
+[28-05-23 23:47:58.951] 76561198084012853 "zehio" floor -1 8132,11747,1 [Base.Bag_Satchel].
+[28-05-23 23:47:59.212] 76561198149193682 "susmu" container -2 8208,11628,0 [Base.CannedCarrots2, Base.TinnedSoup].
+[28-05-23 23:48:02.221] 76561198149193682 "susmu" container -1 8208,11628,0 [Base.CannedFruitCocktail].
+[28-05-23 23:48:03.409] 76561198084012853 "zehio" floor +1 8130,11747,1 [Base.Bag_Satchel].
+[28-05-23 23:48:11.216] 76561198149193682 "susmu" container -1 8206,11628,0 [Base.DuctTape].
+[28-05-23 23:48:43.475] 76561198843937901 "AetherKiller" container -1 8152,11728,0 [Base.Disinfectant].
+[28-05-23 23:48:46.475] 76561198843937901 "AetherKiller" container +0 8152,11728,0 [Base.Disinfectant].
+[28-05-23 23:48:57.756] 76561198843937901 "AetherKiller" floor -1 8152,11729,0 [Base.RippedSheets].
+[28-05-23 23:49:09.558] 76561198084012853 "zehio" container -1 8128,11749,1 [Base.GridlePan].
+[28-05-23 23:49:09.558] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.Eggplant].
+[28-05-23 23:49:15.560] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.Salmon].
+[28-05-23 23:49:33.554] 76561198084012853 "zehio" container +0 8128,11747,1 [Base.GriddlePanFriedVegetables].
+[28-05-23 23:51:00.550] 76561198084012853 "zehio" container -1 8128,11747,1 [Base.GriddlePanFriedVegetables].
+[28-05-23 23:51:15.546] 76561198084012853 "zehio" container +0 8128,11750,1 [Base.GriddlePanFriedVegetables].
+[28-05-23 23:55:28.483] 76561198843937901 "AetherKiller" container -1 8152,11728,0 [Base.AlcoholWipes].
+[28-05-23 23:57:06.564] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.GriddlePanFriedVegetables].

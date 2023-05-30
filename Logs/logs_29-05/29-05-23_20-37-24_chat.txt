@@ -1,0 +1,52 @@
+[29-05-23 20:37:24.588][info] Start chat server initialization....
+[29-05-23 20:37:24.589][info] General chat has id = 0.
+[29-05-23 20:37:24.589][info] Say chat has id = 1.
+[29-05-23 20:37:24.589][info] Shout chat has id = 2.
+[29-05-23 20:37:24.589][info] Radio chat has id = 3.
+[29-05-23 20:37:24.589][info] Admin chat has id = 4.
+[29-05-23 20:37:24.589][info] Server chat has id = 5.
+[29-05-23 20:37:24.589][info] Chat server successfully initialized.
+[29-05-23 20:38:39.696][info] Player with id = '0' tries to connect.
+[29-05-23 20:38:39.696][info] Adding player '0' to chat server.
+[29-05-23 20:38:39.697][info] Player joined to default chats.
+[29-05-23 20:38:39.697][info] Player zehio(0) joined to chat server successfully.
+[29-05-23 20:38:53.843][info] Got message:ChatMessage{chat=Local, author='zehio', text='hola'}.
+[29-05-23 20:38:53.845][info] Message ChatMessage{chat=Local, author='zehio', text='hola'} sent to chat (id = 1) members.
+[29-05-23 20:42:15.184][info] Player with id = '4' tries to connect.
+[29-05-23 20:42:15.184][info] Adding player '4' to chat server.
+[29-05-23 20:42:15.185][info] Player joined to default chats.
+[29-05-23 20:42:15.185][info] Player AetherKiller(4) joined to chat server successfully.
+[29-05-23 21:04:42.820][info] Player 4 disconnecting....
+[29-05-23 21:04:42.821][info] Disconnecting player 4 finished.
+[29-05-23 21:04:42.821][info] Player 4 disconnecting....
+[29-05-23 21:04:42.821][info] Disconnecting player 4 finished.
+[29-05-23 21:08:42.086][info] Player with id = '4' tries to connect.
+[29-05-23 21:08:42.086][info] Adding player '4' to chat server.
+[29-05-23 21:08:42.086][info] Player joined to default chats.
+[29-05-23 21:08:42.086][info] Player AetherKiller(4) joined to chat server successfully.
+[29-05-23 21:16:39.753][info] Got message:ChatMessage{chat=Local, author='zehio', text='psst psst'}.
+[29-05-23 21:16:39.754][info] Message ChatMessage{chat=Local, author='zehio', text='psst psst'} sent to chat (id = 2) members.
+[29-05-23 21:24:51.538][info] Got message:ChatMessage{chat=Local, author='zehio', text='psst psst'}.
+[29-05-23 21:24:51.539][info] Message ChatMessage{chat=Local, author='zehio', text='psst psst'} sent to chat (id = 2) members.
+[29-05-23 21:24:55.290][info] Got message:ChatMessage{chat=Local, author='zehio', text='psst psst'}.
+[29-05-23 21:24:55.291][info] Message ChatMessage{chat=Local, author='zehio', text='psst psst'} sent to chat (id = 2) members.
+[29-05-23 21:39:19.276][info] Got message:ChatMessage{chat=Local, author='zehio', text='hey'}.
+[29-05-23 21:39:19.277][info] Message ChatMessage{chat=Local, author='zehio', text='hey'} sent to chat (id = 2) members.
+[29-05-23 21:47:54.349][info] Player 0 disconnecting....
+[29-05-23 21:47:54.349][info] Disconnecting player 0 finished.
+[29-05-23 21:47:54.349][info] Player 0 disconnecting....
+[29-05-23 21:47:54.349][info] Disconnecting player 0 finished.
+[29-05-23 22:00:11.098][info] Player with id = '0' tries to connect.
+[29-05-23 22:00:11.099][info] Adding player '0' to chat server.
+[29-05-23 22:00:11.099][info] Player joined to default chats.
+[29-05-23 22:00:11.099][info] Player zehio(0) joined to chat server successfully.
+[29-05-23 22:40:12.598][info] Got message:ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'}.
+[29-05-23 22:40:12.598][info] Message ChatMessage{chat=Local, author='zehio', text='¡EH TÚ!'} sent to chat (id = 2) members.
+[30-05-23 00:06:52.701][info] Player 4 disconnecting....
+[30-05-23 00:06:52.701][info] Disconnecting player 4 finished.
+[30-05-23 00:06:52.701][info] Player 4 disconnecting....
+[30-05-23 00:06:52.701][info] Disconnecting player 4 finished.
+[30-05-23 00:07:08.803][info] Player 0 disconnecting....
+[30-05-23 00:07:08.803][info] Disconnecting player 0 finished.
+[30-05-23 00:07:08.803][info] Player 0 disconnecting....
+[30-05-23 00:07:08.803][info] Disconnecting player 0 finished.

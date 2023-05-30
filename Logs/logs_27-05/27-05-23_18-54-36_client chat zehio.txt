@@ -1,0 +1,17 @@
+[27-05-23 18:54:36.449][info] Init chat system....
+[27-05-23 18:54:36.449][info] Mode: multiplayer.
+[27-05-23 18:54:36.449][info] Chat owner: zehio.
+[27-05-23 19:00:52.526][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='teleported Danowookie to zehio'}.
+[27-05-23 19:19:21.662][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='teleported Danowookie to zehio'}.
+[27-05-23 19:19:41.484][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='teleported AetherKiller to zehio'}.
+[27-05-23 19:32:09.299][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='teleported to AetherKiller please wait two seconds to show the map around you.'}.
+[27-05-23 19:32:21.821][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='teleported to agachate y conoselo please wait two seconds to show the map around you.'}.
+[27-05-23 19:34:05.360][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='teleported to AetherKiller please wait two seconds to show the map around you.'}.
+[27-05-23 19:34:16.731][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='teleported agachate y conoselo to zehio'}.
+[27-05-23 20:11:23.104][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='teleported Danowookie to zehio'}.
+[27-05-23 20:14:27.405][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='teleported agachate y conoselo to zehio'}.
+[27-05-23 20:17:27.917][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='teleported AetherKiller to zehio'}.
+[27-05-23 20:45:49.287][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='teleported AetherKiller to zehio'}.
+[27-05-23 21:18:16.262][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='teleported AetherKiller to zehio'}.
+[27-05-23 22:04:33.808][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='User zehio is now invisible.'}.
+[27-05-23 22:04:34.758][info] Got message from server: ChatMessage{chat=Servidor, author='Server', text='User zehio is no more invisible.'}.

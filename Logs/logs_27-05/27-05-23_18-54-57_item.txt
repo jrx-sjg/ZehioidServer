@@ -1,0 +1,714 @@
+[27-05-23 18:54:57.404] 76561198084012853 "zehio" container -1 8243,11669,0 [Base.Onion].
+[27-05-23 18:55:00.398] 76561198084012853 "zehio" container -1 8243,11669,0 [Base.BellPepper].
+[27-05-23 18:55:48.395] 76561198084012853 "zehio" container -1 8247,11670,0 [Base.Book].
+[27-05-23 18:56:03.397] 76561198084012853 "zehio" container -1 8246,11673,0 [Base.Headphones].
+[27-05-23 18:56:09.394] 76561198084012853 "zehio" container -1 8243,11672,0 [Base.Pills].
+[27-05-23 18:56:12.395] 76561198084012853 "zehio" container -2 8243,11672,0 [Base.Magazine, Base.AlarmClock2].
+[27-05-23 18:56:30.396] 76561198084012853 "zehio" container -1 8248,11668,0 [Base.Bandaid].
+[27-05-23 18:56:42.403] 76561198084012853 "zehio" container -1 8251,11668,0 [Radio.RadioRed].
+[27-05-23 18:59:03.397] 76561198084012853 "zehio" container -1 8290,11661,0 [Base.Crowbar].
+[27-05-23 18:59:18.403] 76561198084012853 "zehio" container -1 8289,11666,0 [Base.CannedSardines].
+[27-05-23 18:59:30.497] 76561198362912133 "Danowookie" container -1 8145,11742,0 [Base.MetalPipe].
+[27-05-23 18:59:33.401] 76561198084012853 "zehio" container -1 8290,11666,0 [Base.TinOpener].
+[27-05-23 18:59:33.499] 76561198362912133 "Danowookie" container -1 8145,11742,0 [Base.MetalPipe].
+[27-05-23 18:59:45.491] 76561198362912133 "Danowookie" container -1 8145,11743,0 [Base.Saw].
+[27-05-23 18:59:51.493] 76561198362912133 "Danowookie" container -1 8145,11743,0 [Base.LugWrench].
+[27-05-23 19:00:18.399] 76561198084012853 "zehio" container -1 8287,11660,0 [Base.Eraser].
+[27-05-23 19:00:18.491] 76561198362912133 "Danowookie" container -1 8153,11747,0 [Base.Trousers_Fireman].
+[27-05-23 19:00:21.501] 76561198362912133 "Danowookie" container -1 8153,11747,0 [Base.LouisvilleMap4].
+[27-05-23 19:00:24.399] 76561198084012853 "zehio" container -1 8287,11660,0 [Base.BookFirstAid1].
+[27-05-23 19:00:24.500] 76561198362912133 "Danowookie" container -1 8153,11747,0 [Base.Shoes_ArmyBoots].
+[27-05-23 19:01:12.395] 76561198084012853 "zehio" container -1 8290,11665,0 [Base.Pickles].
+[27-05-23 19:01:27.502] 76561198362912133 "Danowookie" container -1 8290,11665,0 [farming.Cabbage].
+[27-05-23 19:02:36.395] 76561198084012853 "zehio" container -1 8283,11656,0 [Base.Jacket_WhiteTINT].
+[27-05-23 19:02:42.494] 76561198362912133 "Danowookie" container +0 8290,11661,0 [Base.Trousers_Fireman].
+[27-05-23 19:03:00.492] 76561198362912133 "Danowookie" container +0 8290,11661,0 [Base.LugWrench].
+[27-05-23 19:03:36.501] 76561198362912133 "Danowookie" container +0 8290,11661,0 [Base.Saw].
+[27-05-23 19:03:39.497] 76561198362912133 "Danowookie" container +0 8290,11661,0 [Base.Shoes_Black].
+[27-05-23 19:04:15.396] 76561198084012853 "zehio" container -1 8279,11639,0 [Base.DuctTape].
+[27-05-23 19:04:39.404] 76561198084012853 "zehio" container -1 8281,11647,0 [farming.Strewberrie].
+[27-05-23 19:04:42.401] 76561198084012853 "zehio" container -1 8281,11647,0 [Base.Orange].
+[27-05-23 19:04:54.401] 76561198084012853 "zehio" container -1 8283,11647,0 [Base.MugWhite].
+[27-05-23 19:05:03.493] 76561198362912133 "Danowookie" container -1 8284,11647,0 [Base.CannedChili].
+[27-05-23 19:05:06.500] 76561198362912133 "Danowookie" container -1 8284,11647,0 [Base.CannedPeas].
+[27-05-23 19:05:15.492] 76561198362912133 "Danowookie" container -1 8282,11647,0 [Base.GridlePan].
+[27-05-23 19:05:18.491] 76561198362912133 "Danowookie" container -1 8281,11647,0 [Base.Eggplant].
+[27-05-23 19:05:21.490] 76561198362912133 "Danowookie" container -2 8281,11647,0 [Base.Onion, farming.RemouladeFull].
+[27-05-23 19:06:00.491] 76561198362912133 "Danowookie" container -1 8279,11643,0 [Base.BluePen].
+[27-05-23 19:06:03.494] 76561198362912133 "Danowookie" container -2 8279,11643,0 [Base.BookCooking5, Base.VHS_Retail].
+[27-05-23 19:08:06.393] 76561198084012853 "zehio" container -1 8286,11620,0 [Base.BaseballBat].
+[27-05-23 19:08:06.501] 76561198362912133 "Danowookie" container -1 8288,11623,0 [farming.Strewberrie].
+[27-05-23 19:08:09.487] 76561198362912133 "Danowookie" container -1 8288,11623,0 [Base.Margarine].
+[27-05-23 19:08:12.487] 76561198362912133 "Danowookie" container -2 8288,11623,0 [Base.Salami, Base.Hotsauce].
+[27-05-23 19:08:24.488] 76561198362912133 "Danowookie" container -1 8288,11624,0 [Base.GranolaBar].
+[27-05-23 19:09:00.398] 76561198084012853 "zehio" container -1 8283,11624,0 [Base.Bandaid].
+[27-05-23 19:10:21.637] 76561198362912133 "Danowookie" container -1 8275,11613,0 [Base.WristWatch_Left_ClassicBlack].
+[27-05-23 19:10:42.394] 76561198084012853 "zehio" container -1 8267,11617,0 [Base.LouisvilleMap5].
+[27-05-23 19:11:21.400] 76561198084012853 "zehio" container -1 8248,11637,0 [Base.Trousers_Denim].
+[27-05-23 19:11:36.487] 76561198362912133 "Danowookie" container -1 8248,11625,0 [Base.Cheese].
+[27-05-23 19:14:39.399] 76561198084012853 "zehio" container -1 8257,11651,0 [Base.Dress_long_Straps].
+[27-05-23 19:15:22.009] 76561198362912133 "Danowookie" floor +1 8290,11658,0 [Base.Glasses_Normal].
+[27-05-23 19:16:09.326] 76561198843937901 "AetherKiller" container -1 8058,11724,0 [Base.Nightstick].
+[27-05-23 19:16:18.333] 76561198843937901 "AetherKiller" container -1 8057,11724,0 [Base.Lunchbox].
+[27-05-23 19:18:12.343] 76561198362912133 "Danowookie" floor +1 8413,11658,0 [Base.UnusableWood].
+[27-05-23 19:18:12.344] 76561198362912133 "Danowookie" floor +1 8413,11658,0 [Base.Doorknob].
+[27-05-23 19:18:45.637] 76561198843937901 "AetherKiller" floor +1 8074,11729,0 [Base.Hat_BaseballCapKY].
+[27-05-23 19:20:18.501] 76561198362912133 "Danowookie" container +0 8249,11627,0 [Base.CannedChili].
+[27-05-23 19:20:39.496] 76561198362912133 "Danowookie" container +0 8249,11627,0 [Base.CannedPeas].
+[27-05-23 19:23:33.496] 76561198362912133 "Danowookie" container +0 8248,11625,0 [Base.Eggplant].
+[27-05-23 19:23:39.400] 76561198084012853 "zehio" container -1 8249,11627,0 [Base.GridlePan].
+[27-05-23 19:23:51.399] 76561198084012853 "zehio" container -1 8248,11625,0 [Base.Sausage].
+[27-05-23 19:24:00.421] 76561198084012853 "zehio" floor +1 8288,11639,0 [Base.UnusableWood].
+[27-05-23 19:24:00.422] 76561198084012853 "zehio" floor +1 8288,11639,0 [Base.Doorknob].
+[27-05-23 19:24:00.423] 76561198084012853 "zehio" floor +1 8288,11639,0 [Base.Hinge].
+[27-05-23 19:24:00.423] 76561198084012853 "zehio" floor +1 8288,11639,0 [Base.Hinge].
+[27-05-23 19:24:00.502] 76561198362912133 "Danowookie" container +0 8248,11625,0 [Base.Onion].
+[27-05-23 19:26:07.192] 76561198084012853 "zehio" floor +1 8249,11630,0 [Base.Trousers_DefaultTEXTURE_TINT].
+[27-05-23 19:26:18.403] 76561198084012853 "zehio" container +0 8249,11627,0 [Base.GridlePan].
+[27-05-23 19:26:36.400] 76561198084012853 "zehio" container +0 8248,11625,0 [Base.Sausage].
+[27-05-23 19:26:52.522] 76561198149193682 "agachate y conoselo" container -1 8414,11681,0 [Base.Bag_BigHikingBag].
+[27-05-23 19:26:58.526] 76561198149193682 "agachate y conoselo" container -1 8414,11681,0 [Base.Jacket_Shellsuit_Green].
+[27-05-23 19:27:01.532] 76561198149193682 "agachate y conoselo" container -1 8414,11681,0 [Base.Hammer].
+[27-05-23 19:27:04.537] 76561198149193682 "agachate y conoselo" container -2 8414,11681,0 [Base.Saw].
+[27-05-23 19:27:09.487] 76561198362912133 "Danowookie" container +0 8246,11633,0 [Base.VHS_Retail].
+[27-05-23 19:27:45.395] 76561198084012853 "zehio" container -1 8229,11633,0 [Base.Screwdriver].
+[27-05-23 19:27:51.400] 76561198084012853 "zehio" container -1 8230,11633,0 [Base.Hammer].
+[27-05-23 19:27:57.399] 76561198084012853 "zehio" container -1 8228,11633,0 [Base.HandTorch].
+[27-05-23 19:27:58.382] 76561198362912133 "Danowookie" floor -1 8249,11630,0 [Base.Trousers_DefaultTEXTURE_TINT].
+[27-05-23 19:27:58.520] 76561198149193682 "agachate y conoselo" container -2 8419,11686,0 [Base.Processedcheese].
+[27-05-23 19:28:04.528] 76561198149193682 "agachate y conoselo" container -1 8419,11689,0 [Base.KitchenKnife].
+[27-05-23 19:28:12.400] 76561198084012853 "zehio" container -1 8229,11633,0 [Base.GardenFork].
+[27-05-23 19:28:39.394] 76561198084012853 "zehio" container +0 8229,11633,0 [Base.Crowbar].
+[27-05-23 19:28:42.399] 76561198084012853 "zehio" container +0 8229,11633,0 [Base.Hammer].
+[27-05-23 19:29:04.282] 76561198149193682 "agachate y conoselo" floor +1 8430,11698,0 [Base.Glasses_Reading].
+[27-05-23 19:29:19.530] 76561198149193682 "agachate y conoselo" container -1 8428,11698,0 [Base.WristWatch_Left_ClassicBlack].
+[27-05-23 19:29:34.444] 76561198843937901 "AetherKiller" floor +1 8238,11631,0 [Base.Glasses_Reading].
+[27-05-23 19:29:42.392] 76561198084012853 "zehio" container -1 8227,11610,0 [Base.WristWatch_Left_DigitalBlack].
+[27-05-23 19:30:36.835] 76561198084012853 "zehio" floor +1 8220,11606,0 [Base.AlarmClock2].
+[27-05-23 19:30:57.393] 76561198084012853 "zehio" container -1 8217,11603,0 [Base.Crisps].
+[27-05-23 19:31:12.396] 76561198084012853 "zehio" container -1 8219,11604,0 [Base.Milk].
+[27-05-23 19:31:21.312] 76561198843937901 "AetherKiller" container -3 8220,11629,0 [Base.Milk, Base.Leek, farming.RedRadish].
+[27-05-23 19:31:37.500] 76561198084012853 "zehio" floor +1 8218,11603,0 [Base.Magazine].
+[27-05-23 19:31:54.320] 76561198843937901 "AetherKiller" container -2 8217,11631,0 [Base.Crisps, Base.Crisps2].
+[27-05-23 19:31:57.310] 76561198843937901 "AetherKiller" container -2 8217,11631,0 [Base.Ramen, Base.BouillonCube].
+[27-05-23 19:32:00.320] 76561198843937901 "AetherKiller" container -2 8217,11631,0 [Base.Crackers, Base.Pasta].
+[27-05-23 19:32:01.533] 76561198149193682 "agachate y conoselo" container -1 8368,11622,0 [Base.Screwdriver].
+[27-05-23 19:32:03.316] 76561198843937901 "AetherKiller" container -1 8217,11631,0 [Base.BeefJerky].
+[27-05-23 19:33:18.185] 76561198149193682 "agachate y conoselo" floor +1 8371,11628,0 [Base.Trousers_Fireman].
+[27-05-23 19:33:30.399] 76561198084012853 "zehio" container -1 8366,11621,0 [Base.BallPeenHammer].
+[27-05-23 19:34:09.318] 76561198843937901 "AetherKiller" container -5 8218,11631,1 [Base.Nails].
+[27-05-23 19:34:24.403] 76561198084012853 "zehio" container -1 8218,11632,1 [Base.Battery].
+[27-05-23 19:35:15.404] 76561198084012853 "zehio" container -1 8215,11633,1 [Base.PillsVitamins].
+[27-05-23 19:35:27.497] 76561198362912133 "Danowookie" container -1 8245,11637,0 [Base.DuctTape].
+[27-05-23 19:35:51.390] 76561198084012853 "zehio" container -1 8222,11638,1 [Base.Bandaid].
+[27-05-23 19:36:13.517] 76561198149193682 "agachate y conoselo" container -1 8221,11638,1 [Base.FirstAidKit].
+[27-05-23 19:36:16.520] 76561198149193682 "agachate y conoselo" container -1 8222,11638,1 [Base.PillsVitamins].
+[27-05-23 19:36:19.530] 76561198149193682 "agachate y conoselo" container -1 8222,11638,1 [Base.PipeWrench].
+[27-05-23 19:36:21.301] 76561198843937901 "AetherKiller" container -1 8222,11633,0 [Base.WaterBottleFull].
+[27-05-23 19:36:31.181] 76561198362912133 "Danowookie" floor +1 8286,11644,0 [Base.UnusableWood].
+[27-05-23 19:36:31.182] 76561198362912133 "Danowookie" floor +1 8286,11644,0 [Base.Doorknob].
+[27-05-23 19:36:31.183] 76561198362912133 "Danowookie" floor +1 8286,11644,0 [Base.Hinge].
+[27-05-23 19:36:31.183] 76561198362912133 "Danowookie" floor +1 8286,11644,0 [Base.Hinge].
+[27-05-23 19:36:31.810] 76561198149193682 "agachate y conoselo" floor +1 8220,11635,1 [Base.Bag_BigHikingBag].
+[27-05-23 19:36:37.435] 76561198084012853 "zehio" floor -1 8220,11635,1 [Base.Bag_BigHikingBag].
+[27-05-23 19:37:05.187] 76561198149193682 "agachate y conoselo" floor +1 8219,11637,0 [Base.Processedcheese].
+[27-05-23 19:37:05.188] 76561198149193682 "agachate y conoselo" floor +1 8219,11637,0 [Base.Processedcheese].
+[27-05-23 19:37:05.230] 76561198149193682 "agachate y conoselo" floor +1 8219,11637,0 [Base.PillsVitamins].
+[27-05-23 19:37:05.260] 76561198149193682 "agachate y conoselo" floor +1 8219,11637,0 [Base.KitchenKnife].
+[27-05-23 19:37:05.330] 76561198149193682 "agachate y conoselo" floor +1 8219,11637,0 [Base.Screwdriver].
+[27-05-23 19:37:05.377] 76561198149193682 "agachate y conoselo" floor +1 8219,11637,0 [Base.Saw].
+[27-05-23 19:37:05.467] 76561198149193682 "agachate y conoselo" floor +1 8219,11637,0 [Base.Saw].
+[27-05-23 19:37:05.562] 76561198149193682 "agachate y conoselo" floor +1 8219,11637,0 [Base.Hammer].
+[27-05-23 19:37:05.672] 76561198149193682 "agachate y conoselo" floor +1 8219,11637,0 [Base.FirstAidKit].
+[27-05-23 19:37:16.150] 76561198149193682 "agachate y conoselo" floor -1 8219,11637,0 [Base.PillsVitamins].
+[27-05-23 19:37:16.752] 76561198149193682 "agachate y conoselo" floor -1 8219,11637,0 [Base.Processedcheese].
+[27-05-23 19:37:16.766] 76561198149193682 "agachate y conoselo" floor -1 8219,11637,0 [Base.Processedcheese].
+[27-05-23 19:37:19.207] 76561198149193682 "agachate y conoselo" floor -1 8219,11637,0 [Base.KitchenKnife].
+[27-05-23 19:37:19.635] 76561198149193682 "agachate y conoselo" floor -1 8219,11637,0 [Base.Screwdriver].
+[27-05-23 19:37:20.334] 76561198149193682 "agachate y conoselo" floor -1 8219,11637,0 [Base.Saw].
+[27-05-23 19:37:21.047] 76561198149193682 "agachate y conoselo" floor -1 8219,11637,0 [Base.Saw].
+[27-05-23 19:37:22.101] 76561198149193682 "agachate y conoselo" floor -1 8219,11637,0 [Base.Hammer].
+[27-05-23 19:37:23.149] 76561198149193682 "agachate y conoselo" floor -1 8219,11637,0 [Base.FirstAidKit].
+[27-05-23 19:39:48.173] 76561198362912133 "Danowookie" floor +1 8221,11641,0 [Base.UnusableWood].
+[27-05-23 19:39:48.174] 76561198362912133 "Danowookie" floor +1 8221,11641,0 [Base.UnusableWood].
+[27-05-23 19:39:48.175] 76561198362912133 "Danowookie" floor +1 8221,11641,0 [Base.Doorknob].
+[27-05-23 19:39:57.634] 76561198149193682 "agachate y conoselo" floor +1 8222,11640,0 [Base.Glasses_Reading].
+[27-05-23 19:40:30.536] 76561198362912133 "Danowookie" floor +1 8220,11640,0 [Base.UnusableWood].
+[27-05-23 19:40:30.537] 76561198362912133 "Danowookie" floor +1 8220,11640,0 [Base.UnusableWood].
+[27-05-23 19:40:30.538] 76561198362912133 "Danowookie" floor +1 8220,11640,0 [Base.Doorknob].
+[27-05-23 19:40:30.539] 76561198362912133 "Danowookie" floor +1 8220,11640,0 [Base.Hinge].
+[27-05-23 19:40:30.539] 76561198362912133 "Danowookie" floor +1 8220,11640,0 [Base.Hinge].
+[27-05-23 19:41:34.512] 76561198149193682 "agachate y conoselo" container -1 8218,11632,0 [Base.Trousers_DefaultTEXTURE_TINT].
+[27-05-23 19:41:40.496] 76561198149193682 "agachate y conoselo" container -2 8218,11632,0 [Base.Tshirt_DefaultTEXTURE_TINT, Base.Socks_Ankle].
+[27-05-23 19:41:56.062] 76561198149193682 "agachate y conoselo" floor +1 8218,11624,0 [Base.RippedSheetsDirty].
+[27-05-23 19:41:56.071] 76561198149193682 "agachate y conoselo" floor +1 8218,11624,0 [Base.RippedSheetsDirty].
+[27-05-23 19:41:56.072] 76561198149193682 "agachate y conoselo" floor +1 8218,11624,0 [Base.RippedSheetsDirty].
+[27-05-23 19:43:27.401] 76561198084012853 "zehio" container -1 8220,11604,1 [Base.Shirt_Denim].
+[27-05-23 19:46:01.503] 76561198149193682 "agachate y conoselo" container -1 8208,11602,1 [Base.Trousers_Shellsuit_Teal].
+[27-05-23 19:48:48.492] 76561198362912133 "Danowookie" container -1 8248,11625,0 [Base.Onion].
+[27-05-23 19:49:00.292] 76561198843937901 "AetherKiller" container -2 8204,11599,0 [Base.BookFarming1, Base.MagazineCrossword1].
+[27-05-23 19:49:01.498] 76561198149193682 "agachate y conoselo" container -1 8211,11600,0 [Base.CannedPeas].
+[27-05-23 19:49:03.292] 76561198843937901 "AetherKiller" container -1 8204,11599,0 [Base.BookMechanic1].
+[27-05-23 19:49:04.494] 76561198149193682 "agachate y conoselo" container -3 8211,11600,0 [Base.CannedMushroomSoup, Base.CannedCarrots2, Base.CannedPeas].
+[27-05-23 19:49:13.493] 76561198149193682 "agachate y conoselo" container -1 8209,11599,0 [Base.Cherry].
+[27-05-23 19:49:19.504] 76561198843937901 "AetherKiller" floor +1 8206,11597,0 [Base.MagazineCrossword1].
+[27-05-23 19:49:28.496] 76561198149193682 "agachate y conoselo" container -1 8206,11603,0 [Base.PillsAntiDep].
+[27-05-23 19:49:42.480] 76561198362912133 "Danowookie" container -1 8248,11625,0 [Base.Eggplant].
+[27-05-23 19:50:25.497] 76561198149193682 "agachate y conoselo" container -1 8189,11598,0 [Base.ClubHammer].
+[27-05-23 19:50:30.296] 76561198843937901 "AetherKiller" container -1 8189,11598,0 [Base.Hammer].
+[27-05-23 19:50:33.293] 76561198843937901 "AetherKiller" container -1 8189,11598,0 [Base.GardenHoe].
+[27-05-23 19:50:51.308] 76561198843937901 "AetherKiller" container -1 8189,11599,0 [Base.Hat_DustMask].
+[27-05-23 19:51:10.560] 76561198843937901 "AetherKiller" container -1 8189,11600,0 [Base.Glasses_SafetyGoggles].
+[27-05-23 19:51:14.320] 76561198843937901 "AetherKiller" container -2 8189,11600,0 [Base.NailsBox].
+[27-05-23 19:51:15.481] 76561198362912133 "Danowookie" container -1 8229,11633,0 [Base.Hammer].
+[27-05-23 19:51:22.494] 76561198149193682 "agachate y conoselo" container -1 8186,11598,0 [Base.Bag_Satchel].
+[27-05-23 19:51:27.292] 76561198843937901 "AetherKiller" container -1 8189,11599,0 [Base.MetalBar].
+[27-05-23 19:52:10.499] 76561198149193682 "agachate y conoselo" container -1 8176,11595,0 [Base.Hat_Fireman].
+[27-05-23 19:52:12.482] 76561198362912133 "Danowookie" container -1 8222,11629,0 [Base.TinOpener].
+[27-05-23 19:52:13.497] 76561198149193682 "agachate y conoselo" container -1 8176,11595,0 [Base.Shoes_ArmyBoots].
+[27-05-23 19:52:15.480] 76561198362912133 "Danowookie" container -1 8222,11629,0 [Base.TunaTin].
+[27-05-23 19:52:18.482] 76561198362912133 "Danowookie" container -2 8222,11629,0 [Base.CannedMushroomSoup, Base.CannedCorn].
+[27-05-23 19:52:24.394] 76561198084012853 "zehio" container -1 8219,11604,0 [Base.Lettuce].
+[27-05-23 19:52:30.398] 76561198084012853 "zehio" container -1 8217,11604,0 [Base.JamFruit].
+[27-05-23 19:52:33.388] 76561198084012853 "zehio" container -1 8217,11604,0 [Base.SugarBrown].
+[27-05-23 19:52:39.404] 76561198084012853 "zehio" container -1 8217,11603,0 [Base.DriedSplitPeas].
+[27-05-23 19:53:01.482] 76561198149193682 "agachate y conoselo" container -1 8185,11594,0 [Base.CannedPeaches].
+[27-05-23 19:53:04.493] 76561198149193682 "agachate y conoselo" container -2 8185,11594,0 [Base.CannedFruitCocktail].
+[27-05-23 19:53:07.497] 76561198149193682 "agachate y conoselo" container -1 8185,11594,0 [Base.TomatoPaste].
+[27-05-23 19:53:13.492] 76561198149193682 "agachate y conoselo" container -1 8185,11596,0 [Base.CannedTomato2].
+[27-05-23 19:53:25.493] 76561198149193682 "agachate y conoselo" container -4 8185,11596,0 [Base.TinOpener, Base.TomatoPaste, Base.TunaTin, Base.CannedPineapple].
+[27-05-23 19:53:27.493] 76561198362912133 "Danowookie" container -3 8206,11628,0 [Base.Zucchini, Base.PorkChop, Base.Processedcheese].
+[27-05-23 19:53:28.492] 76561198149193682 "agachate y conoselo" container -2 8185,11596,0 [Base.CannedCornedBeef, Base.CannedPotato2].
+[27-05-23 19:53:30.485] 76561198362912133 "Danowookie" container -1 8206,11628,0 [Base.Grapes].
+[27-05-23 19:53:33.484] 76561198362912133 "Danowookie" container +0 8206,11628,0 [Base.BookCooking5].
+[27-05-23 19:53:36.481] 76561198362912133 "Danowookie" container +0 8206,11628,0 [Base.DuctTape].
+[27-05-23 19:54:07.492] 76561198149193682 "agachate y conoselo" container +0 8185,11594,0 [Base.CannedTomato2].
+[27-05-23 19:54:10.507] 76561198149193682 "agachate y conoselo" container +0 8185,11594,0 [Base.CannedCarrots2].
+[27-05-23 19:54:13.488] 76561198149193682 "agachate y conoselo" container +0 8185,11594,0 [Base.Saw, Base.CannedMushroomSoup].
+[27-05-23 19:54:16.496] 76561198149193682 "agachate y conoselo" container +0 8185,11594,0 [Base.Saw].
+[27-05-23 19:54:19.488] 76561198149193682 "agachate y conoselo" container +0 8185,11594,0 [Base.CannedPotato2, Base.CannedPineapple].
+[27-05-23 19:54:24.482] 76561198362912133 "Danowookie" container -1 8203,11624,0 [Base.WristWatch_Left_DigitalBlack].
+[27-05-23 19:54:30.792] 76561198362912133 "Danowookie" floor +1 8201,11625,0 [Base.WristWatch_Left_ClassicBlack].
+[27-05-23 19:54:31.489] 76561198149193682 "agachate y conoselo" container +0 8185,11594,0 [Base.CannedPeaches].
+[27-05-23 19:54:37.493] 76561198149193682 "agachate y conoselo" container +0 8185,11594,0 [Base.Plank].
+[27-05-23 19:55:03.483] 76561198362912133 "Danowookie" container -1 8194,11633,0 [Base.HandTorch].
+[27-05-23 19:55:04.486] 76561198149193682 "agachate y conoselo" container -1 8180,11597,1 [Base.Key1].
+[27-05-23 19:55:06.483] 76561198362912133 "Danowookie" container -1 8194,11633,0 [Base.Screwdriver].
+[27-05-23 19:55:10.497] 76561198149193682 "agachate y conoselo" container -1 8180,11597,1 [Base.Bag_SurvivorBag].
+[27-05-23 19:55:26.345] 76561198149193682 "agachate y conoselo" floor +1 8182,11598,1 [Base.Bag_SurvivorBag].
+[27-05-23 19:55:26.431] 76561198362912133 "Danowookie" floor +1 8194,11634,0 [Base.GridlePan].
+[27-05-23 19:55:49.226] 76561198843937901 "AetherKiller" floor -1 8182,11598,1 [Base.Bag_SurvivorBag].
+[27-05-23 19:56:00.395] 76561198084012853 "zehio" container -1 8187,11633,0 [Base.Hat_HardHat].
+[27-05-23 19:56:15.396] 76561198084012853 "zehio" container -2 8190,11634,0 [Base.GranolaBar].
+[27-05-23 19:56:21.401] 76561198084012853 "zehio" container -1 8190,11634,0 [Base.Jacket_ArmyCamoGreen].
+[27-05-23 19:56:21.479] 76561198362912133 "Danowookie" container -1 8190,11634,0 [Base.WaterBottleFull].
+[27-05-23 19:56:24.482] 76561198362912133 "Danowookie" container -1 8190,11634,0 [Base.Shorts_CamoGreenLong].
+[27-05-23 19:56:27.389] 76561198084012853 "zehio" container -1 8190,11634,0 [Base.FishingNet].
+[27-05-23 19:56:31.820] 76561198362912133 "Danowookie" floor +1 8189,11633,0 [Base.Shorts_CamoGreenLong].
+[27-05-23 19:56:33.399] 76561198084012853 "zehio" container -2 8190,11634,0 [Base.BookFishing1, Base.BookFirstAid4].
+[27-05-23 19:57:16.529] 76561198149193682 "agachate y conoselo" floor +1 8184,11593,1 [Base.Screwdriver].
+[27-05-23 19:57:18.802] 76561198149193682 "agachate y conoselo" floor +1 8184,11593,1 [Base.KitchenKnife].
+[27-05-23 19:57:45.634] 76561198362912133 "Danowookie" floor +1 8189,11635,0 [Base.Hammer].
+[27-05-23 19:57:53.078] 76561198843937901 "AetherKiller" floor +1 8180,11597,1 [Base.Lunchbox].
+[27-05-23 19:57:54.485] 76561198362912133 "Danowookie" container -1 8188,11633,0 [Base.BallPeenHammer].
+[27-05-23 19:58:08.953] 76561198843937901 "AetherKiller" floor +1 8180,11596,1 [Base.Pasta].
+[27-05-23 19:58:18.305] 76561198843937901 "AetherKiller" floor -1 8180,11596,1 [Base.Pasta].
+[27-05-23 20:00:13.472] 76561198149193682 "agachate y conoselo" container -1 8156,11600,0 [Base.Axe].
+[27-05-23 20:00:38.034] 76561198149193682 "agachate y conoselo" floor +1 8155,11586,0 [Base.ClubHammer].
+[27-05-23 20:00:41.742] 76561198149193682 "agachate y conoselo" floor +1 8155,11586,0 [Base.Hammer].
+[27-05-23 20:00:55.021] 76561198149193682 "agachate y conoselo" floor +1 8155,11586,0 [Base.Socks_Ankle].
+[27-05-23 20:00:58.194] 76561198149193682 "agachate y conoselo" floor +1 8155,11586,0 [Base.Shoes_Black].
+[27-05-23 20:02:21.286] 76561198843937901 "AetherKiller" container -1 8128,11624,0 [Base.BeefJerky].
+[27-05-23 20:02:27.276] 76561198843937901 "AetherKiller" container -2 8128,11622,0 [farming.Cabbage, Base.Eggplant].
+[27-05-23 20:02:30.270] 76561198843937901 "AetherKiller" container -1 8128,11622,0 [Base.MuttonChop].
+[27-05-23 20:02:43.532] 76561198362912133 "Danowookie" floor +1 8193,11714,0 [Base.Glasses_Normal].
+[27-05-23 20:02:47.617] 76561198362912133 "Danowookie" floor +1 8192,11713,0 [Base.Hat_BucketHat].
+[27-05-23 20:02:50.253] 76561198362912133 "Danowookie" floor +1 8192,11714,0 [Base.Glasses_Reading].
+[27-05-23 20:03:13.077] 76561198843937901 "AetherKiller" floor +1 8131,11622,0 [Base.Glasses_SafetyGoggles].
+[27-05-23 20:03:13.137] 76561198843937901 "AetherKiller" floor +1 8130,11622,0 [Base.Hat_Beany].
+[27-05-23 20:03:13.982] 76561198362912133 "Danowookie" floor +1 8192,11713,0 [Base.MetalPipe].
+[27-05-23 20:03:25.465] 76561198149193682 "agachate y conoselo" container -1 8129,11622,0 [Base.Key3].
+[27-05-23 20:03:27.282] 76561198843937901 "AetherKiller" container -5 8130,11622,0 [Base.WristWatch_Left_DigitalRed, Base.Socks_Long, Base.CreditCard, Base.Ring_Left_RingFinger_Gold, Base.Earring_LoopMed_Gold].
+[27-05-23 20:03:30.277] 76561198843937901 "AetherKiller" container -1 8130,11622,0 [Base.MakeupEyeshadow].
+[27-05-23 20:04:00.403] 76561198084012853 "zehio" container -1 8145,11730,0 [Base.Hat_Fireman].
+[27-05-23 20:04:06.400] 76561198084012853 "zehio" container -1 8145,11730,0 [Base.Trousers_Fireman].
+[27-05-23 20:04:26.818] 76561198149193682 "agachate y conoselo" floor +1 8130,11621,0 [Base.FirstAidKit].
+[27-05-23 20:04:42.280] 76561198843937901 "AetherKiller" container -1 8130,11621,0 [Base.AlcoholWipes].
+[27-05-23 20:04:45.287] 76561198843937901 "AetherKiller" container -1 8130,11621,0 [Base.SutureNeedleHolder].
+[27-05-23 20:05:03.483] 76561198362912133 "Danowookie" container -1 8204,11599,0 [Base.BluePen].
+[27-05-23 20:05:15.483] 76561198362912133 "Danowookie" container -2 8209,11599,0 [Base.Pineapple, Base.Eggplant].
+[27-05-23 20:05:19.755] 76561198084012853 "zehio" floor +1 8142,11729,1 [Base.Glasses_Normal].
+[27-05-23 20:05:24.471] 76561198362912133 "Danowookie" container -1 8211,11599,0 [Base.JamFruit].
+[27-05-23 20:05:27.484] 76561198362912133 "Danowookie" container -1 8211,11599,0 [Base.Crackers].
+[27-05-23 20:05:28.890] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.Bag_SurvivorBag].
+[27-05-23 20:05:31.485] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.Hat_DustMask].
+[27-05-23 20:05:39.271] 76561198084012853 "zehio" container -1 8142,11729,1 [Base.LouisvilleMap6].
+[27-05-23 20:05:39.472] 76561198362912133 "Danowookie" container -1 8210,11599,0 [Base.Saucepan].
+[27-05-23 20:05:43.576] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.GardenHoe].
+[27-05-23 20:05:46.028] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.Hammer].
+[27-05-23 20:05:48.099] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.BookFarming1].
+[27-05-23 20:05:51.221] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.Eggplant].
+[27-05-23 20:05:53.201] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.WaterBottleFull].
+[27-05-23 20:05:55.395] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.NailsBox].
+[27-05-23 20:05:55.430] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.NailsBox].
+[27-05-23 20:05:58.636] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.BeefJerky].
+[27-05-23 20:05:58.674] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.BeefJerky].
+[27-05-23 20:06:01.237] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.Nails].
+[27-05-23 20:06:01.238] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.Nails].
+[27-05-23 20:06:01.239] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.Nails].
+[27-05-23 20:06:01.240] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.Nails].
+[27-05-23 20:06:01.241] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.Nails].
+[27-05-23 20:06:02.984] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [farming.Cabbage].
+[27-05-23 20:06:04.640] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.MuttonChop].
+[27-05-23 20:06:06.338] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.Crackers].
+[27-05-23 20:06:07.864] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.Milk].
+[27-05-23 20:06:09.476] 76561198362912133 "Danowookie" container -1 8208,11593,0 [Base.HoodieDOWN_WhiteTINT].
+[27-05-23 20:06:10.038] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.MakeupEyeshadow].
+[27-05-23 20:06:14.181] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.BookMechanic1].
+[27-05-23 20:06:15.474] 76561198362912133 "Danowookie" container -1 8208,11593,0 [Base.Jacket_WhiteTINT].
+[27-05-23 20:06:16.235] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.Pasta].
+[27-05-23 20:06:17.860] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.BouillonCube].
+[27-05-23 20:06:19.371] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.Crisps2].
+[27-05-23 20:06:21.398] 76561198084012853 "zehio" container +0 8128,11748,1 [Base.MugWhite].
+[27-05-23 20:06:23.871] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.SutureNeedleHolder].
+[27-05-23 20:06:24.397] 76561198084012853 "zehio" container +0 8128,11748,1 [Base.SugarBrown].
+[27-05-23 20:06:25.798] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.Ramen].
+[27-05-23 20:06:30.402] 76561198084012853 "zehio" container +0 8128,11750,1 [Base.Lettuce, Base.BellPepper].
+[27-05-23 20:06:30.760] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.WristWatch_Left_DigitalRed].
+[27-05-23 20:06:32.424] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.RippedSheets].
+[27-05-23 20:06:34.586] 76561198149193682 "agachate y conoselo" floor -1 8124,11618,0 [Base.Bag_SurvivorBag].
+[27-05-23 20:06:35.123] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.CreditCard].
+[27-05-23 20:06:37.137] 76561198843937901 "AetherKiller" floor +1 8124,11618,0 [Base.AlcoholWipes].
+[27-05-23 20:06:39.405] 76561198084012853 "zehio" container +0 8128,11748,1 [Base.JamFruit].
+[27-05-23 20:06:42.402] 76561198084012853 "zehio" container +0 8128,11748,1 [Base.CannedSardines].
+[27-05-23 20:06:47.865] 76561198084012853 "zehio" container +0 8128,11748,1 [Base.DriedSplitPeas].
+[27-05-23 20:06:57.480] 76561198362912133 "Danowookie" container -1 8204,11596,1 [Base.MagazineCrossword1].
+[27-05-23 20:07:00.475] 76561198362912133 "Danowookie" container -1 8204,11596,1 [Base.Magazine].
+[27-05-23 20:07:06.473] 76561198362912133 "Danowookie" container -1 8204,11595,1 [Base.Newspaper].
+[27-05-23 20:07:18.477] 76561198362912133 "Danowookie" container -2 8208,11594,1 [Base.45Clip, Base.Pistol2].
+[27-05-23 20:07:21.473] 76561198362912133 "Danowookie" container -1 8208,11594,1 [Base.Bullets45Box].
+[27-05-23 20:07:26.128] 76561198149193682 "agachate y conoselo" floor -1 8124,11618,0 [Base.BookFarming1].
+[27-05-23 20:07:28.029] 76561198149193682 "agachate y conoselo" floor -1 8124,11618,0 [Base.GardenHoe].
+[27-05-23 20:07:33.471] 76561198362912133 "Danowookie" container -2 8204,11598,1 [Base.Book, Base.BookElectrician3].
+[27-05-23 20:07:35.728] 76561198149193682 "agachate y conoselo" floor +1 8124,11618,0 [Base.GardenHoe].
+[27-05-23 20:07:42.234] 76561198843937901 "AetherKiller" floor +1 8125,11618,0 [Base.MetalBar].
+[27-05-23 20:07:44.658] 76561198843937901 "AetherKiller" floor +1 8125,11618,0 [Base.Nightstick].
+[27-05-23 20:07:54.474] 76561198362912133 "Danowookie" container -1 8206,11601,1 [Base.Battery].
+[27-05-23 20:07:57.484] 76561198362912133 "Danowookie" container -1 8206,11601,1 [Base.BaseballBat].
+[27-05-23 20:08:12.715] 76561198362912133 "Danowookie" floor +1 8206,11599,1 [Base.BookElectrician3].
+[27-05-23 20:08:21.548] 76561198362912133 "Danowookie" floor +1 8206,11599,1 [Base.Newspaper].
+[27-05-23 20:09:20.836] 76561198843937901 "AetherKiller" container -1 8251,11668,0 [Base.ElectronicsMag4].
+[27-05-23 20:09:42.261] 76561198843937901 "AetherKiller" container -1 8243,11672,0 [Base.AlarmClock2].
+[27-05-23 20:09:48.393] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.Yoghurt].
+[27-05-23 20:09:54.393] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.Grapefruit].
+[27-05-23 20:10:42.391] 76561198084012853 "zehio" container -1 8145,11731,0 [Base.Axe].
+[27-05-23 20:10:54.397] 76561198084012853 "zehio" container +0 8145,11731,0 [Base.GardenFork].
+[27-05-23 20:11:06.270] 76561198843937901 "AetherKiller" container -3 8244,11716,0 [Base.BellPepper, Base.Apple, Base.Cherry].
+[27-05-23 20:11:09.271] 76561198843937901 "AetherKiller" container -1 8244,11716,0 [Base.Grapes].
+[27-05-23 20:11:24.265] 76561198843937901 "AetherKiller" container -21 8239,11716,0 [Base.Bullets45, Base.Revolver].
+[27-05-23 20:11:58.457] 76561198149193682 "agachate y conoselo" container -1 8046,11755,0 [Base.Vest_BulletPolice].
+[27-05-23 20:12:06.264] 76561198843937901 "AetherKiller" container -2 8225,11712,0 [Base.MetalPipe].
+[27-05-23 20:12:15.478] 76561198362912133 "Danowookie" container -1 8148,11728,0 [Base.Hat_Fireman].
+[27-05-23 20:12:18.490] 76561198362912133 "Danowookie" container -1 8148,11728,0 [Base.Trousers_Fireman].
+[27-05-23 20:12:21.273] 76561198843937901 "AetherKiller" container -1 8225,11712,0 [Base.Glasses_SafetyGoggles].
+[27-05-23 20:12:21.487] 76561198362912133 "Danowookie" container -1 8148,11728,0 [Base.Trousers_Fireman].
+[27-05-23 20:12:27.298] 76561198843937901 "AetherKiller" container -1 8226,11712,0 [Base.HandTorch].
+[27-05-23 20:12:36.490] 76561198362912133 "Danowookie" container +0 8148,11728,0 [Base.Trousers_Fireman].
+[27-05-23 20:12:39.264] 76561198843937901 "AetherKiller" container -1 8227,11712,0 [Base.HandAxe].
+[27-05-23 20:12:39.476] 76561198362912133 "Danowookie" container +0 8148,11728,0 [Base.Trousers_Fireman].
+[27-05-23 20:13:09.479] 76561198362912133 "Danowookie" container +0 8145,11731,0 [Base.45Clip].
+[27-05-23 20:13:12.481] 76561198362912133 "Danowookie" container +0 8145,11731,0 [Base.Bullets45Box].
+[27-05-23 20:13:18.482] 76561198362912133 "Danowookie" container +0 8145,11731,0 [Base.Pistol2].
+[27-05-23 20:13:30.268] 76561198843937901 "AetherKiller" container -2 8215,11723,0 [Base.Salami, Base.Eggplant].
+[27-05-23 20:13:42.264] 76561198843937901 "AetherKiller" container -2 8215,11722,0 [Base.TinnedBeans, Base.CannedBolognese].
+[27-05-23 20:13:45.067] 76561198843937901 "AetherKiller" container -1 8215,11722,0 [Base.CannedCorn].
+[27-05-23 20:14:45.264] 76561198843937901 "AetherKiller" container -3 8219,11721,0 [Base.Tissue, Base.Trousers_DefaultTEXTURE_TINT].
+[27-05-23 20:14:48.263] 76561198843937901 "AetherKiller" container -1 8219,11721,0 [Base.Tshirt_DefaultTEXTURE_TINT].
+[27-05-23 20:15:00.263] 76561198843937901 "AetherKiller" container -1 8219,11721,0 [Base.Revolver_Short].
+[27-05-23 20:15:03.272] 76561198843937901 "AetherKiller" container -1 8219,11721,0 [Base.Bullets38Box].
+[27-05-23 20:15:03.487] 76561198362912133 "Danowookie" container -1 8142,11735,0 [Base.Shoes_ArmyBoots].
+[27-05-23 20:15:35.794] 76561198362912133 "Danowookie" floor +1 8132,11732,1 [Base.Shoes_Black].
+[27-05-23 20:15:48.395] 76561198084012853 "zehio" container -1 8128,11728,1 [Base.Shoes_ArmyBoots].
+[27-05-23 20:15:53.729] 76561198084012853 "zehio" floor +1 8128,11729,1 [Base.Shoes_TrainerTINT].
+[27-05-23 20:16:26.595] 76561198362912133 "Danowookie" container +0 8128,11749,1 [Base.Saucepan].
+[27-05-23 20:16:39.487] 76561198362912133 "Danowookie" container +0 8128,11750,1 [Base.Eggplant].
+[27-05-23 20:16:48.477] 76561198362912133 "Danowookie" container +0 8128,11750,1 [Base.Pineapple].
+[27-05-23 20:18:11.485] 76561198084012853 "zehio" floor +1 8133,11735,0 [Base.UnusableWood].
+[27-05-23 20:18:11.486] 76561198084012853 "zehio" floor +1 8133,11735,0 [Base.Doorknob].
+[27-05-23 20:18:11.486] 76561198084012853 "zehio" floor +1 8133,11735,0 [Base.Hinge].
+[27-05-23 20:18:11.487] 76561198084012853 "zehio" floor +1 8133,11735,0 [Base.Hinge].
+[27-05-23 20:18:21.257] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [Base.Apple].
+[27-05-23 20:18:24.264] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [Base.BellPepper].
+[27-05-23 20:18:30.252] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [Base.Salami].
+[27-05-23 20:18:36.264] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [Base.Grapes].
+[27-05-23 20:18:45.272] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [Base.Eggplant].
+[27-05-23 20:18:48.279] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [Base.Cherry].
+[27-05-23 20:20:03.487] 76561198362912133 "Danowookie" container -1 8142,11735,0 [Base.WristWatch_Left_ClassicBrown].
+[27-05-23 20:20:25.224] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.Thread].
+[27-05-23 20:20:26.893] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.TinnedBeans].
+[27-05-23 20:20:28.524] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.HandTorch].
+[27-05-23 20:20:30.138] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.CannedCorn].
+[27-05-23 20:20:31.640] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.Tissue].
+[27-05-23 20:20:31.640] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.Tissue].
+[27-05-23 20:20:33.124] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.AlarmClock2].
+[27-05-23 20:20:34.799] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.RippedSheets].
+[27-05-23 20:20:34.800] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.RippedSheets].
+[27-05-23 20:20:34.801] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.RippedSheets].
+[27-05-23 20:20:34.802] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.RippedSheets].
+[27-05-23 20:20:34.803] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.RippedSheets].
+[27-05-23 20:20:34.803] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.RippedSheets].
+[27-05-23 20:20:36.544] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.Revolver_Short].
+[27-05-23 20:20:38.243] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.Revolver].
+[27-05-23 20:20:40.638] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.MetalPipe].
+[27-05-23 20:20:44.555] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.MetalPipe].
+[27-05-23 20:20:48.009] 76561198843937901 "AetherKiller" floor +1 8137,11746,1 [Base.HandAxe].
+[27-05-23 20:20:53.195] 76561198843937901 "AetherKiller" floor +1 8135,11749,1 [Base.Glasses_SafetyGoggles].
+[27-05-23 20:20:57.986] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:57.986] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:57.987] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:57.988] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:57.989] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:57.990] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:57.991] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:57.992] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:57.992] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:57.993] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:57.994] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:57.995] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:57.996] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:57.996] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:57.997] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:57.998] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:57.999] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:58.000] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:58.001] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:20:58.001] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets45].
+[27-05-23 20:21:00.721] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.Bullets38Box].
+[27-05-23 20:21:03.329] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.ElectronicsMag4].
+[27-05-23 20:21:05.933] 76561198843937901 "AetherKiller" floor +1 8134,11749,1 [Base.CannedBolognese].
+[27-05-23 20:23:03.476] 76561198362912133 "Danowookie" container -1 8145,11745,0 [Base.HandAxe].
+[27-05-23 20:23:15.490] 76561198362912133 "Danowookie" container +0 8145,11746,0 [Base.Battery].
+[27-05-23 20:23:36.253] 76561198843937901 "AetherKiller" container -2 8324,11813,0 [Base.CannedPotato2, Base.CannedFruitCocktail].
+[27-05-23 20:28:18.253] 76561198843937901 "AetherKiller" container -1 8327,11813,0 [Base.KitchenKnife].
+[27-05-23 20:28:30.254] 76561198843937901 "AetherKiller" container -2 8324,11814,0 [farming.Strewberrie, Base.Cheese].
+[27-05-23 20:33:27.243] 76561198843937901 "AetherKiller" container -1 8311,11696,0 [Base.Revolver_Long].
+[27-05-23 20:33:31.666] 76561198843937901 "AetherKiller" floor +1 8310,11695,0 [Base.Revolver_Long].
+[27-05-23 20:33:54.236] 76561198843937901 "AetherKiller" container -2 8312,11693,0 [Base.BookFarming2, Base.BookMechanic2].
+[27-05-23 20:33:54.993] 76561198843937901 "AetherKiller" floor +1 8344,11751,0 [Base.UnusableWood].
+[27-05-23 20:33:54.994] 76561198843937901 "AetherKiller" floor +1 8344,11751,0 [Base.Doorknob].
+[27-05-23 20:33:54.995] 76561198843937901 "AetherKiller" floor +1 8344,11751,0 [Base.Hinge].
+[27-05-23 20:33:54.995] 76561198843937901 "AetherKiller" floor +1 8344,11751,0 [Base.Hinge].
+[27-05-23 20:34:51.244] 76561198843937901 "AetherKiller" container -2 8304,11695,0 [Base.Broccoli, Base.Butter].
+[27-05-23 20:34:54.239] 76561198843937901 "AetherKiller" container -3 8304,11695,0 [Base.Pickles, farming.Tomato, farming.Strewberrie].
+[27-05-23 20:38:33.239] 76561198843937901 "AetherKiller" container -2 8286,11621,0 [Base.Ramen, Base.TacoShell].
+[27-05-23 20:38:36.232] 76561198843937901 "AetherKiller" container -2 8286,11621,0 [Base.TVDinner, Base.Macandcheese].
+[27-05-23 20:38:51.238] 76561198843937901 "AetherKiller" container -1 8285,11624,0 [Base.CannedFruitCocktail].
+[27-05-23 20:38:54.242] 76561198843937901 "AetherKiller" container -2 8285,11624,0 [Base.CannedCornedBeef, Base.CannedPotato2].
+[27-05-23 20:46:17.661] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.RippedSheets].
+[27-05-23 20:46:17.661] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.RippedSheets].
+[27-05-23 20:46:17.661] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.RippedSheets].
+[27-05-23 20:46:17.661] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.RippedSheets].
+[27-05-23 20:46:17.662] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.RippedSheets].
+[27-05-23 20:46:17.662] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.RippedSheets].
+[27-05-23 20:46:17.775] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.Thread].
+[27-05-23 20:46:17.887] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.Tissue].
+[27-05-23 20:46:17.887] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.Tissue].
+[27-05-23 20:46:18.416] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.HandTorch].
+[27-05-23 20:46:18.953] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.AlarmClock2].
+[27-05-23 20:46:19.789] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.TinnedBeans].
+[27-05-23 20:46:20.645] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.CannedCorn].
+[27-05-23 20:46:22.209] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.Revolver_Short].
+[27-05-23 20:46:23.781] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.MetalPipe].
+[27-05-23 20:46:25.341] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.MetalPipe].
+[27-05-23 20:46:27.176] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.Revolver].
+[27-05-23 20:46:29.287] 76561198843937901 "AetherKiller" floor -1 8137,11746,1 [Base.HandAxe].
+[27-05-23 20:46:39.552] 76561198843937901 "AetherKiller" floor -1 8134,11749,1 [Base.ElectronicsMag4].
+[27-05-23 20:46:41.156] 76561198843937901 "AetherKiller" floor -1 8134,11749,1 [Base.CannedBolognese].
+[27-05-23 20:46:44.485] 76561198843937901 "AetherKiller" floor -1 8135,11749,1 [Base.Glasses_SafetyGoggles].
+[27-05-23 20:46:51.409] 76561198084012853 "zehio" container -1 8154,11728,0 [Base.Pills].
+[27-05-23 20:47:18.455] 76561198362912133 "Danowookie" container -1 8151,11730,0 [Base.Disinfectant].
+[27-05-23 20:47:42.476] 76561198362912133 "Danowookie" container +0 8151,11730,0 [Base.Disinfectant].
+[27-05-23 20:48:42.393] 76561198084012853 "zehio" container -1 8136,11738,0 [Base.Jacket_Fireman].
+[27-05-23 20:49:01.486] 76561198843937901 "AetherKiller" floor +1 8139,11747,1 [Base.Revolver_Short].
+[27-05-23 20:49:04.514] 76561198843937901 "AetherKiller" floor +1 8139,11747,1 [Base.Revolver].
+[27-05-23 20:49:18.398] 76561198084012853 "zehio" container -1 8132,11748,0 [Base.Key3].
+[27-05-23 20:49:27.221] 76561198843937901 "AetherKiller" container -1 8128,11751,1 [Base.Garbagebag].
+[27-05-23 20:49:30.396] 76561198084012853 "zehio" container -1 8128,11745,0 [Base.Scotchtape].
+[27-05-23 20:49:33.395] 76561198084012853 "zehio" container -1 8128,11745,0 [Base.Glue].
+[27-05-23 20:49:36.224] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [Base.Cheese].
+[27-05-23 20:49:39.222] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [farming.Tomato].
+[27-05-23 20:49:45.232] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [Base.TVDinner].
+[27-05-23 20:49:48.396] 76561198084012853 "zehio" container -1 8131,11742,0 [Base.Lighter].
+[27-05-23 20:49:51.220] 76561198843937901 "AetherKiller" container +0 8128,11750,1 [Base.TacoShell].
+[27-05-23 20:49:54.399] 76561198084012853 "zehio" container -1 8131,11742,0 [Base.Matches].
+[27-05-23 20:50:33.217] 76561198843937901 "AetherKiller" container +0 8128,11748,1 [Base.CannedBolognese].
+[27-05-23 20:50:36.216] 76561198843937901 "AetherKiller" container +0 8128,11748,1 [Base.CannedFruitCocktail].
+[27-05-23 20:50:39.231] 76561198843937901 "AetherKiller" container +0 8128,11748,1 [Base.CannedFruitCocktail].
+[27-05-23 20:50:42.220] 76561198843937901 "AetherKiller" container +0 8128,11748,1 [Base.TinnedBeans, Base.Macandcheese].
+[27-05-23 20:50:45.224] 76561198843937901 "AetherKiller" container +0 8128,11748,1 [Base.Butter].
+[27-05-23 20:50:48.223] 76561198843937901 "AetherKiller" container +0 8128,11748,1 [Base.CannedCorn].
+[27-05-23 20:50:51.225] 76561198843937901 "AetherKiller" container +0 8128,11748,1 [Base.Pickles, Base.CannedPotato2].
+[27-05-23 20:50:54.231] 76561198843937901 "AetherKiller" container +0 8128,11748,1 [Base.Ramen].
+[27-05-23 20:51:00.225] 76561198843937901 "AetherKiller" container +0 8128,11748,1 [Base.CannedCornedBeef].
+[27-05-23 20:52:00.391] 76561198084012853 "zehio" container -1 8128,11749,1 [Base.Saucepan].
+[27-05-23 20:52:30.405] 76561198084012853 "zehio" container +0 8128,11749,1 [Base.Saucepan].
+[27-05-23 20:53:12.401] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.Cherry].
+[27-05-23 20:53:21.399] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.Pickles].
+[27-05-23 20:53:36.391] 76561198084012853 "zehio" container -1 8128,11745,1 [Base.MugWhite].
+[27-05-23 20:53:45.321] 76561198084012853 "zehio" container +0 8128,11749,1 [Base.MugWhite].
+[27-05-23 20:54:12.403] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.Lettuce].
+[27-05-23 20:54:15.393] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.Apple].
+[27-05-23 20:54:49.958] 76561198084012853 "zehio" floor +1 8130,11747,1 [Base.Hat_HardHat].
+[27-05-23 20:56:35.176] 76561198084012853 "zehio" floor +1 8132,11676,1 [Base.UnusableWood].
+[27-05-23 20:56:35.177] 76561198084012853 "zehio" floor +1 8132,11676,1 [Base.Doorknob].
+[27-05-23 20:56:42.220] 76561198843937901 "AetherKiller" container -1 8128,11750,1 [Base.Grapes].
+[27-05-23 20:56:45.224] 76561198843937901 "AetherKiller" container -2 8128,11750,1 [Base.Cheese, Base.Eggplant].
+[27-05-23 20:57:09.405] 76561198084012853 "zehio" container -1 8148,11744,0 [Base.Trousers_DefaultTEXTURE].
+[27-05-23 20:57:24.395] 76561198084012853 "zehio" container -1 8151,11728,0 [Base.Bandaid].
+[27-05-23 20:57:33.402] 76561198084012853 "zehio" container -1 8153,11728,0 [Base.PillsBeta].
+[27-05-23 20:57:43.150] 76561198843937901 "AetherKiller" floor -1 8130,11747,1 [Base.Hat_HardHat].
+[27-05-23 20:57:57.217] 76561198843937901 "AetherKiller" container +0 8128,11749,1 [Base.KitchenKnife].
+[27-05-23 21:02:57.465] 76561198362912133 "Danowookie" container -2 8161,11637,0 [Base.Pear, farming.Strewberrie].
+[27-05-23 21:03:00.466] 76561198362912133 "Danowookie" container -3 8161,11637,0 [Base.PopBottle, Base.Chicken].
+[27-05-23 21:03:03.482] 76561198362912133 "Danowookie" container -1 8161,11637,0 [Base.Salami].
+[27-05-23 21:04:08.267] 76561198084012853 "zehio" floor -1 8129,11673,0 [Base.BellPepper].
+[27-05-23 21:04:13.936] 76561198084012853 "zehio" floor -1 8129,11673,0 [Base.Salt].
+[27-05-23 21:04:18.209] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Base.RippedSheets, Base.Tissue, Base.Thread, Base.Garbagebag].
+[27-05-23 21:04:21.203] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Base.BookFarming2, Base.BookMechanic2, Base.ElectronicsMag4, Base.AlarmClock2, Base.Grapes, Base.Eggplant].
+[27-05-23 21:04:24.211] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Base.MetalPipe].
+[27-05-23 21:04:30.198] 76561198843937901 "AetherKiller" container -14 8136,11745,1 [Base.RippedSheets, Base.Tissue, Base.Thread, Base.ElectronicsMag4, Base.Garbagebag, Base.Grapes, Base.SugarPacket, Base.Eggplant].
+[27-05-23 21:04:33.204] 76561198843937901 "AetherKiller" container -3 8136,11745,1 [Base.BookFarming2, Base.BookMechanic2, Base.AlarmClock2].
+[27-05-23 21:04:36.205] 76561198843937901 "AetherKiller" container -2 8136,11745,1 [Base.MetalPipe, Radio.RadioBlack].
+[27-05-23 21:04:36.396] 76561198084012853 "zehio" container -2 8136,11677,0 [Base.CannedCorn, Base.CannedPineapple].
+[27-05-23 21:04:36.466] 76561198362912133 "Danowookie" container -1 8178,11673,0 [Base.Dogfood].
+[27-05-23 21:04:39.203] 76561198843937901 "AetherKiller" container -1 8136,11745,1 [Base.MetalPipe].
+[27-05-23 21:04:39.341] 76561198084012853 "zehio" floor +1 8135,11677,0 [Base.GranolaBar].
+[27-05-23 21:04:39.380] 76561198084012853 "zehio" floor +1 8135,11677,0 [Base.GranolaBar].
+[27-05-23 21:04:39.405] 76561198084012853 "zehio" container -2 8136,11677,0 [Base.CannedSardines, Base.CannedTomato2].
+[27-05-23 21:04:39.466] 76561198362912133 "Danowookie" container -2 8178,11673,0 [Base.CannedPeaches, Base.CannedFruitCocktail].
+[27-05-23 21:04:42.468] 76561198362912133 "Danowookie" container -1 8178,11673,0 [Base.CannedPineapple].
+[27-05-23 21:04:44.185] 76561198084012853 "zehio" floor -1 8135,11677,0 [Base.GranolaBar].
+[27-05-23 21:04:45.213] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Base.BookFarming2].
+[27-05-23 21:04:45.474] 76561198362912133 "Danowookie" container -1 8178,11674,0 [farming.Strewberrie].
+[27-05-23 21:04:45.627] 76561198084012853 "zehio" floor -1 8135,11677,0 [Base.GranolaBar].
+[27-05-23 21:04:47.881] 76561198084012853 "zehio" floor -1 8136,11678,0 [Base.CerealBowl].
+[27-05-23 21:04:48.469] 76561198362912133 "Danowookie" container -3 8178,11674,0 [Base.Pickles, Base.Mustard, Base.Yoghurt].
+[27-05-23 21:04:57.202] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Base.BookMechanic2].
+[27-05-23 21:05:00.206] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Radio.RadioBlack].
+[27-05-23 21:05:06.214] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Base.ElectronicsMag4].
+[27-05-23 21:05:24.474] 76561198362912133 "Danowookie" container -1 8170,11678,0 [Base.Bleach].
+[27-05-23 21:06:27.464] 76561198362912133 "Danowookie" container -1 8170,11673,1 [Base.PillsSleepingTablets].
+[27-05-23 21:06:40.540] 76561198843937901 "AetherKiller" floor +1 8167,11747,0 [Base.Hat_BaseballCap].
+[27-05-23 21:07:03.402] 76561198084012853 "zehio" container -1 8136,11672,1 [Base.MagazineCrossword3].
+[27-05-23 21:07:13.151] 76561198084012853 "zehio" floor +1 8135,11672,1 [Base.RippedSheets].
+[27-05-23 21:07:13.162] 76561198084012853 "zehio" floor +1 8135,11672,1 [Base.RippedSheets].
+[27-05-23 21:07:13.163] 76561198084012853 "zehio" floor +1 8135,11672,1 [Base.RippedSheets].
+[27-05-23 21:09:24.203] 76561198843937901 "AetherKiller" container -1 8171,11679,1 [Base.Pills].
+[27-05-23 21:09:27.202] 76561198843937901 "AetherKiller" container -1 8171,11679,1 [Base.PillsVitamins].
+[27-05-23 21:09:45.461] 76561198362912133 "Danowookie" container +0 8151,11731,0 [Base.PillsSleepingTablets].
+[27-05-23 21:09:51.454] 76561198362912133 "Danowookie" container -1 8151,11731,0 [Base.PillsSleepingTablets].
+[27-05-23 21:09:54.394] 76561198084012853 "zehio" container +0 8148,11728,0 [Base.Glue, Base.Scotchtape, Base.DuctTape].
+[27-05-23 21:09:57.458] 76561198362912133 "Danowookie" container +0 8151,11730,0 [Base.PillsSleepingTablets].
+[27-05-23 21:10:00.199] 76561198843937901 "AetherKiller" container -1 8170,11673,0 [Base.BookCooking2].
+[27-05-23 21:10:06.206] 76561198843937901 "AetherKiller" container -1 8170,11673,0 [Base.ElectronicsMag2].
+[27-05-23 21:10:15.200] 76561198843937901 "AetherKiller" container -1 8170,11673,0 [Base.CookingMag1].
+[27-05-23 21:10:15.399] 76561198084012853 "zehio" container +0 8145,11731,0 [Base.FishingNet].
+[27-05-23 21:10:33.195] 76561198843937901 "AetherKiller" container -1 8178,11671,0 [Base.Bowl].
+[27-05-23 21:11:00.477] 76561198362912133 "Danowookie" container +0 8128,11750,1 [Base.Pickles, Base.Pear, Base.Yoghurt, Base.Chicken].
+[27-05-23 21:11:09.414] 76561198084012853 "zehio" container +0 8128,11748,1 [Base.CannedCorn].
+[27-05-23 21:11:12.391] 76561198084012853 "zehio" container +0 8128,11748,1 [Base.CannedPineapple].
+[27-05-23 21:11:24.395] 76561198084012853 "zehio" container +0 8128,11750,1 [Base.BellPepper, Base.Apple].
+[27-05-23 21:11:27.400] 76561198084012853 "zehio" container +0 8128,11750,1 [Base.CerealBowl].
+[27-05-23 21:11:30.390] 76561198084012853 "zehio" container -2 8128,11750,1 [Base.Chicken].
+[27-05-23 21:11:30.390] 76561198084012853 "zehio" container +0 8128,11750,1 [Base.Chicken].
+[27-05-23 21:11:30.456] 76561198362912133 "Danowookie" container +0 8128,11748,1 [Base.Mustard, Base.Dogfood, Base.CannedPeaches, Base.CannedFruitCocktail].
+[27-05-23 21:11:32.398] 76561198362912133 "Danowookie" container +0 8128,11748,1 [Base.CannedPineapple].
+[27-05-23 21:11:36.407] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.CerealBowl].
+[27-05-23 21:11:45.473] 76561198362912133 "Danowookie" container +0 8128,11750,1 [farming.Strewberrie].
+[27-05-23 21:11:48.457] 76561198362912133 "Danowookie" container -1 8128,11750,1 [farming.Strewberrie].
+[27-05-23 21:11:54.397] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.Pear].
+[27-05-23 21:11:57.402] 76561198084012853 "zehio" container +0 8128,11750,1 [Base.Pear].
+[27-05-23 21:12:09.405] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.Apple].
+[27-05-23 21:12:12.397] 76561198084012853 "zehio" container +0 8128,11750,1 [Base.Apple].
+[27-05-23 21:12:30.449] 76561198362912133 "Danowookie" container +0 8136,11745,1 [Base.Magazine, Base.MagazineCrossword1].
+[27-05-23 21:12:33.193] 76561198843937901 "AetherKiller" container -1 8161,11679,1 [Base.Glue].
+[27-05-23 21:12:33.395] 76561198084012853 "zehio" container +0 8128,11750,1 [farming.Salad].
+[27-05-23 21:12:39.191] 76561198843937901 "AetherKiller" container -2 8164,11681,1 [Base.RubberBand, Base.Matches].
+[27-05-23 21:12:42.471] 76561198362912133 "Danowookie" container +0 8136,11745,1 [Base.Book].
+[27-05-23 21:12:57.465] 76561198362912133 "Danowookie" container +0 8131,11745,1 [Base.Bleach].
+[27-05-23 21:13:10.808] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets38Box].
+[27-05-23 21:13:11.358] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.358] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.358] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.358] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.358] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.359] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.359] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.359] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.359] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.359] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.359] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.360] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.360] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.360] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.360] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.360] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.361] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.361] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.361] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:11.361] 76561198362912133 "Danowookie" floor -1 8134,11749,1 [Base.Bullets45].
+[27-05-23 21:13:18.393] 76561198084012853 "zehio" container +0 8136,11745,1 [Base.BookFishing1].
+[27-05-23 21:13:21.399] 76561198084012853 "zehio" container +0 8136,11745,1 [Base.BookFirstAid4].
+[27-05-23 21:13:24.192] 76561198843937901 "AetherKiller" container -1 8148,11676,0 [Base.Glasses_SafetyGoggles].
+[27-05-23 21:13:30.198] 76561198843937901 "AetherKiller" container -3 8148,11675,0 [Base.LightBulb, Radio.ElectricWire].
+[27-05-23 21:13:54.467] 76561198362912133 "Danowookie" container +0 8145,11731,0 [Base.Bullets38Box].
+[27-05-23 21:13:57.461] 76561198362912133 "Danowookie" container +0 8145,11731,0 [Base.Bullets45].
+[27-05-23 21:14:09.406] 76561198084012853 "zehio" container +0 8147,11728,0 [Base.BaseballBat].
+[27-05-23 21:14:21.471] 76561198362912133 "Danowookie" container +0 8145,11733,0 [Base.BluePen].
+[27-05-23 21:14:36.202] 76561198843937901 "AetherKiller" container -1 8142,11677,0 [Base.BookMechanic1].
+[27-05-23 21:14:45.200] 76561198843937901 "AetherKiller" container -1 8142,11677,0 [Base.Screwdriver].
+[27-05-23 21:15:00.468] 76561198362912133 "Danowookie" container -1 8155,11730,0 [Base.MagazineCrossword1].
+[27-05-23 21:15:09.197] 76561198843937901 "AetherKiller" container -1 8142,11677,0 [Base.Toolbox].
+[27-05-23 21:15:51.206] 76561198843937901 "AetherKiller" container -1 8141,11675,0 [Base.Toolbox].
+[27-05-23 21:16:12.388] 76561198084012853 "zehio" container +0 8136,11745,1 [Base.Matches].
+[27-05-23 21:16:51.194] 76561198843937901 "AetherKiller" container -1 8136,11678,0 [Base.OvenMitt].
+[27-05-23 21:16:56.409] 76561198843937901 "AetherKiller" container -1 8136,11677,0 [Base.TinOpener].
+[27-05-23 21:18:48.195] 76561198843937901 "AetherKiller" container +0 8128,11749,1 [Base.TinOpener, Base.OvenMitt].
+[27-05-23 21:19:15.191] 76561198843937901 "AetherKiller" container +0 8128,11749,1 [Base.Bowl].
+[27-05-23 21:19:27.403] 76561198084012853 "zehio" container -1 8145,11746,0 [Base.Battery].
+[27-05-23 21:19:30.192] 76561198843937901 "AetherKiller" container +0 8131,11745,1 [Base.Screwdriver].
+[27-05-23 21:19:33.187] 76561198843937901 "AetherKiller" container +0 8131,11745,1 [Base.Thread, Base.RubberBand].
+[27-05-23 21:19:36.192] 76561198843937901 "AetherKiller" container +0 8131,11745,1 [Base.Glue].
+[27-05-23 21:19:39.195] 76561198843937901 "AetherKiller" container +0 8131,11745,1 [Base.Matches].
+[27-05-23 21:19:42.194] 76561198843937901 "AetherKiller" container +0 8131,11745,1 [Base.LightBulb, Radio.ElectricWire].
+[27-05-23 21:20:03.187] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Base.BookMechanic1].
+[27-05-23 21:20:03.393] 76561198084012853 "zehio" container -1 8128,11750,1 [farming.Salad].
+[27-05-23 21:20:12.193] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Base.BookCooking2].
+[27-05-23 21:20:15.399] 76561198084012853 "zehio" container +0 8128,11749,1 [Base.Bowl].
+[27-05-23 21:20:21.187] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Base.ElectronicsMag2].
+[27-05-23 21:20:21.391] 76561198084012853 "zehio" container -1 8128,11749,1 [Base.BakingPan].
+[27-05-23 21:20:24.400] 76561198084012853 "zehio" container +0 8128,11749,1 [Base.BakingPan].
+[27-05-23 21:20:27.196] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Base.CookingMag1].
+[27-05-23 21:20:30.400] 76561198084012853 "zehio" container -1 8128,11749,1 [Base.Kettle].
+[27-05-23 21:20:51.395] 76561198084012853 "zehio" container +0 8128,11749,1 [Base.Kettle].
+[27-05-23 21:21:03.401] 76561198084012853 "zehio" container +0 8128,11749,1 [Base.CannedTomato2].
+[27-05-23 21:24:28.874] 76561198084012853 "zehio" floor -1 8139,11747,1 [Base.Revolver_Short].
+[27-05-23 21:24:30.695] 76561198084012853 "zehio" floor -1 8139,11747,1 [Base.Revolver].
+[27-05-23 21:24:54.402] 76561198084012853 "zehio" container +0 8136,11745,1 [Base.Revolver, Base.Revolver_Short].
+[27-05-23 21:25:18.398] 76561198084012853 "zehio" container -2 8136,11745,1 [Base.Revolver, Base.Revolver_Short].
+[27-05-23 21:26:00.400] 76561198084012853 "zehio" container +0 8145,11731,0 [Base.Revolver_Short].
+[27-05-23 21:26:03.401] 76561198084012853 "zehio" container +0 8145,11731,0 [Base.Revolver].
+[27-05-23 21:26:21.448] 76561198362912133 "Danowookie" container -1 8128,11750,1 [Base.Eggplant].
+[27-05-23 21:26:33.392] 76561198084012853 "zehio" container +0 8130,11745,1 [Base.TinOpener].
+[27-05-23 21:26:36.405] 76561198084012853 "zehio" container +0 8130,11745,1 [Base.Salt].
+[27-05-23 21:26:45.396] 76561198084012853 "zehio" container +0 8136,11745,1 [Base.Book].
+[27-05-23 21:26:48.397] 76561198084012853 "zehio" container +0 8136,11745,1 [Base.BookFirstAid1].
+[27-05-23 21:27:06.407] 76561198084012853 "zehio" container -1 8128,11749,1 [Base.Bowl].
+[27-05-23 21:27:12.394] 76561198084012853 "zehio" container -1 8128,11750,1 [farming.Tomato].
+[27-05-23 21:27:15.397] 76561198084012853 "zehio" container +0 8128,11750,1 [farming.Tomato].
+[27-05-23 21:27:21.909] 76561198362912133 "Danowookie" corpse +1 8168,11749,0.
+[27-05-23 21:27:33.400] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.Apple].
+[27-05-23 21:27:42.398] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.Pear].
+[27-05-23 21:27:56.515] 76561198084012853 "zehio" container +0 8128,11750,1 [farming.Salad].
+[27-05-23 21:28:44.477] 76561198084012853 "zehio" corpse +1 8160,11738,0.
+[27-05-23 21:29:38.615] 76561198084012853 "zehio" floor +1 8170,11741,0 [Base.Glasses_Normal].
+[27-05-23 21:29:52.238] 76561198084012853 "zehio" floor +1 8170,11740,0 [Base.Glasses_Normal].
+[27-05-23 21:30:54.309] 76561198084012853 "zehio" floor +1 8160,11754,0 [Base.Hat_BaseballCapKY].
+[27-05-23 21:31:07.914] 76561198084012853 "zehio" floor +1 8144,11753,0 [Base.Glasses_Normal].
+[27-05-23 21:31:08.981] 76561198362912133 "Danowookie" floor +1 8202,11675,0 [Base.UnusableWood].
+[27-05-23 21:31:08.982] 76561198362912133 "Danowookie" floor +1 8202,11675,0 [Base.Doorknob].
+[27-05-23 21:31:08.983] 76561198362912133 "Danowookie" floor +1 8202,11675,0 [Base.Hinge].
+[27-05-23 21:31:44.666] 76561198362912133 "Danowookie" floor +1 8243,11722,0 [Base.UnusableWood].
+[27-05-23 21:31:44.667] 76561198362912133 "Danowookie" floor +1 8243,11722,0 [Base.Doorknob].
+[27-05-23 21:31:44.667] 76561198362912133 "Danowookie" floor +1 8243,11722,0 [Base.Hinge].
+[27-05-23 21:31:44.668] 76561198362912133 "Danowookie" floor +1 8243,11722,0 [Base.Hinge].
+[27-05-23 21:31:45.405] 76561198084012853 "zehio" container -20 8147,11754,0 [Base.Cigarettes].
+[27-05-23 21:33:33.168] 76561198843937901 "AetherKiller" container +0 8131,11745,1 [Base.Toolbox].
+[27-05-23 21:33:45.176] 76561198843937901 "AetherKiller" container +0 8131,11745,1 [Base.MetalPipe].
+[27-05-23 21:33:45.468] 76561198362912133 "Danowookie" container -1 8289,11726,0 [Base.Chicken].
+[27-05-23 21:33:48.458] 76561198362912133 "Danowookie" container -1 8289,11726,0 [Base.Lime].
+[27-05-23 21:33:54.459] 76561198362912133 "Danowookie" container -1 8289,11729,0 [Base.Saucepan].
+[27-05-23 21:34:00.174] 76561198843937901 "AetherKiller" container -1 8128,11750,1 [Base.Pineapple].
+[27-05-23 21:34:00.763] 76561198362912133 "Danowookie" floor +1 8288,11728,0 [Base.Saucepan].
+[27-05-23 21:34:15.177] 76561198843937901 "AetherKiller" container -2 8136,11745,1 [Base.BookMechanic2, Base.BookMechanic1].
+[27-05-23 21:34:18.174] 76561198843937901 "AetherKiller" container -1 8136,11745,1 [Base.BookFishing1].
+[27-05-23 21:34:21.175] 76561198843937901 "AetherKiller" container -1 8136,11745,1 [Base.BookFirstAid1].
+[27-05-23 21:34:57.417] 76561198084012853 "zehio" container -1 8145,11734,0 [Base.Garbagebag].
+[27-05-23 21:35:06.308] 76561198084012853 "zehio" floor +1 8146,11734,0 [Base.Garbagebag].
+[27-05-23 21:36:02.021] 76561198362912133 "Danowookie" floor +1 8187,11765,0 [Base.Glasses_Normal].
+[27-05-23 21:36:18.971] 76561198084012853 "zehio" floor +1 8129,11750,1 [Base.Key3].
+[27-05-23 21:36:33.398] 76561198084012853 "zehio" container +0 8136,11745,1 [Base.MagazineCrossword3].
+[27-05-23 21:36:49.003] 76561198084012853 "zehio" floor +1 8137,11745,1 [Base.Trousers_Denim].
+[27-05-23 21:37:09.659] 76561198084012853 "zehio" floor +1 8129,11740,1 [Base.Shirt_Denim].
+[27-05-23 21:37:16.438] 76561198084012853 "zehio" floor +1 8129,11740,1 [Base.Jacket_WhiteTINT].
+[27-05-23 21:37:21.861] 76561198084012853 "zehio" floor +1 8129,11740,1 [Base.Shirt_FormalWhite_ShortSleeveTINT].
+[27-05-23 21:37:27.445] 76561198362912133 "Danowookie" container -1 8152,11728,0 [Base.Bandage].
+[27-05-23 21:37:57.609] 76561198362912133 "Danowookie" corpse +1 8165,11746,0.
+[27-05-23 21:38:36.234] 76561198362912133 "Danowookie" corpse +1 8164,11746,0.
+[27-05-23 21:40:27.462] 76561198362912133 "Danowookie" container +0 8128,11750,1 [Base.Chicken].
+[27-05-23 21:40:30.396] 76561198084012853 "zehio" container -1 8128,11750,1 [farming.Salad].
+[27-05-23 21:41:21.908] 76561198084012853 "zehio" floor -1 8142,11729,1 [Base.Glasses_Normal].
+[27-05-23 21:44:03.468] 76561198362912133 "Danowookie" container -1 8151,11730,0 [Base.Disinfectant].
+[27-05-23 21:44:18.153] 76561198843937901 "AetherKiller" container -2 8128,11750,1 [farming.Tomato, Base.BellPepper].
+[27-05-23 21:44:45.166] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Base.BookMechanic1].
+[27-05-23 21:44:48.185] 76561198843937901 "AetherKiller" container -1 8136,11745,1 [Base.CookingMag1].
+[27-05-23 21:44:48.393] 76561198084012853 "zehio" container -1 8165,11774,0 [Base.Matches].
+[27-05-23 21:45:07.464] 76561198362912133 "Danowookie" corpse +1 8167,11754,0.
+[27-05-23 21:45:12.173] 76561198843937901 "AetherKiller" container -1 8136,11745,1 [Base.BookCooking2].
+[27-05-23 21:45:42.509] 76561198362912133 "Danowookie" corpse +1 8164,11747,0.
+[27-05-23 21:46:14.646] 76561198362912133 "Danowookie" corpse +1 8165,11744,0.
+[27-05-23 21:47:45.396] 76561198084012853 "zehio" container -5 8164,11681,0 [Base.Grapefruit, Base.Peach, Base.Baloney, Base.Grapes, farming.MayonnaiseFull].
+[27-05-23 21:48:06.448] 76561198362912133 "Danowookie" container -1 8128,11750,1 [Base.BellPepper].
+[27-05-23 21:48:18.451] 76561198362912133 "Danowookie" container -1 8128,11750,1 [Base.Yoghurt].
+[27-05-23 21:48:54.163] 76561198084012853 "zehio" floor +1 8161,11682,0 [Base.UnusableWood].
+[27-05-23 21:48:54.164] 76561198084012853 "zehio" floor +1 8161,11682,0 [Base.Doorknob].
+[27-05-23 21:48:54.164] 76561198084012853 "zehio" floor +1 8161,11682,0 [Base.Hinge].
+[27-05-23 21:48:54.165] 76561198084012853 "zehio" floor +1 8161,11682,0 [Base.Hinge].
+[27-05-23 21:48:58.168] 76561198362912133 "Danowookie" floor +1 8162,11672,0 [Base.UnusableWood].
+[27-05-23 21:48:58.169] 76561198362912133 "Danowookie" floor +1 8162,11672,0 [Base.Doorknob].
+[27-05-23 21:48:58.170] 76561198362912133 "Danowookie" floor +1 8162,11672,0 [Base.Hinge].
+[27-05-23 21:48:58.689] 76561198084012853 "zehio" floor -1 8136,11679,0 [Base.PastaPot].
+[27-05-23 21:49:11.740] 76561198362912133 "Danowookie" corpse +1 8163,11747,0.
+[27-05-23 21:49:39.400] 76561198084012853 "zehio" container -1 8136,11678,1 [Base.Sheet].
+[27-05-23 21:49:49.078] 76561198362912133 "Danowookie" corpse +1 8164,11745,0.
+[27-05-23 21:50:27.535] 76561198362912133 "Danowookie" corpse +1 8162,11745,0.
+[27-05-23 21:51:09.847] 76561198362912133 "Danowookie" corpse +1 8162,11746,0.
+[27-05-23 21:51:48.152] 76561198362912133 "Danowookie" corpse +1 8162,11746,0.
+[27-05-23 21:52:46.676] 76561198362912133 "Danowookie" corpse +1 8161,11746,0.
+[27-05-23 21:53:09.309] 76561198084012853 "zehio" floor +1 8159,11676,0 [Base.Glasses_Reading].
+[27-05-23 21:54:24.397] 76561198084012853 "zehio" container -2 8164,11681,0 [Base.Icecream, Base.MincedMeat].
+[27-05-23 21:54:33.405] 76561198084012853 "zehio" container -1 8164,11680,0 [Base.CannedCornedBeef].
+[27-05-23 21:54:36.417] 76561198084012853 "zehio" container -4 8164,11680,0 [Base.TomatoPaste, Base.CannedMilk, Base.CannedPineapple, Base.CannedFruitCocktail].
+[27-05-23 21:55:51.143] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Base.BookCooking2].
+[27-05-23 21:55:54.176] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Base.BookMechanic2].
+[27-05-23 21:55:57.141] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Base.BookFirstAid1].
+[27-05-23 21:56:03.145] 76561198843937901 "AetherKiller" container +0 8136,11745,1 [Base.CookingMag1].
+[27-05-23 21:57:15.413] 76561198084012853 "zehio" container +0 8128,11750,1 [Base.Peach, Base.Baloney].
+[27-05-23 21:57:18.403] 76561198084012853 "zehio" container +0 8128,11750,1 [Base.Grapefruit, Base.Grapes, Base.MincedMeat].
+[27-05-23 21:57:21.400] 76561198084012853 "zehio" container +0 8128,11750,1 [farming.MayonnaiseFull].
+[27-05-23 21:57:27.407] 76561198084012853 "zehio" container +0 8128,11750,1 [Base.PastaPot].
+[27-05-23 21:57:39.405] 76561198084012853 "zehio" container +0 8128,11750,1 [Base.Icecream].
+[27-05-23 21:57:48.398] 76561198084012853 "zehio" container +0 8128,11748,1 [Base.CannedCornedBeef].
+[27-05-23 21:57:51.400] 76561198084012853 "zehio" container +0 8128,11748,1 [Base.CannedFruitCocktail].
+[27-05-23 21:57:54.407] 76561198084012853 "zehio" container +0 8128,11748,1 [Base.CannedMilk].
+[27-05-23 21:57:57.398] 76561198084012853 "zehio" container +0 8128,11748,1 [Base.TomatoPaste].
+[27-05-23 21:58:00.399] 76561198084012853 "zehio" container +0 8128,11748,1 [Base.CannedPineapple].
+[27-05-23 21:58:03.410] 76561198084012853 "zehio" container +0 8128,11748,1 [Base.CannedSardines].
+[27-05-23 21:59:03.398] 76561198084012853 "zehio" container +0 8128,11749,1 [Base.Bowl].
+[27-05-23 21:59:15.404] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.PastaPot].
+[27-05-23 21:59:24.397] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.Chicken].
+[27-05-23 21:59:27.149] 76561198843937901 "AetherKiller" container -1 8145,11728,0 [Base.Trousers_Fireman].
+[27-05-23 21:59:27.393] 76561198084012853 "zehio" container +0 8128,11750,1 [Base.Chicken].
+[27-05-23 21:59:36.141] 76561198843937901 "AetherKiller" container -1 8145,11730,0 [Base.Hat_Fireman].
+[27-05-23 21:59:45.396] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.Chicken].
+[27-05-23 21:59:54.406] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.BellPepper].
+[27-05-23 21:59:57.395] 76561198084012853 "zehio" container -1 8128,11750,1 [Base.Pickles].
+[27-05-23 22:00:03.447] 76561198362912133 "Danowookie" container -1 8129,11745,1 [Base.Crisps3].
+[27-05-23 22:00:27.396] 76561198084012853 "zehio" container +0 8128,11747,1 [Base.PastaPot].
+[27-05-23 22:01:06.453] 76561198362912133 "Danowookie" container -1 8128,11750,1 [Base.Baloney].
+[27-05-23 22:01:08.468] 76561198362912133 "Danowookie" container -1 8128,11750,1 [farming.Tomato].
+[27-05-23 22:01:09.398] 76561198084012853 "zehio" container -1 8128,11747,1 [Base.PastaPot].
+[27-05-23 22:01:30.446] 76561198362912133 "Danowookie" container +0 8128,11750,1 [farming.Tomato, Base.Baloney].
+[27-05-23 22:01:33.398] 76561198084012853 "zehio" container +0 8128,11750,1 [Base.PastaPot].
+[27-05-23 22:01:48.448] 76561198362912133 "Danowookie" container -1 8128,11750,1 [Base.PastaPot].
+[27-05-23 22:03:27.146] 76561198843937901 "AetherKiller" container -1 8128,11750,1 [Base.Peach].

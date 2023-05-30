@@ -1,0 +1,2 @@
+Guardia forestal:parkranger;Overweight;Insomniac;Dextrous;FastReader;Inconspicuous;
+Desempleado:unemployed;Overweight;Asthmatic;SundayDriver;FastReader;Inconspicuous;Resilient;Graceful;EagleEyed;

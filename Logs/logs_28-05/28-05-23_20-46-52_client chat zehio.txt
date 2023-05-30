@@ -1,0 +1,3 @@
+[28-05-23 20:46:52.975][info] Init chat system....
+[28-05-23 20:46:52.975][info] Mode: multiplayer.
+[28-05-23 20:46:52.976][info] Chat owner: zehio.

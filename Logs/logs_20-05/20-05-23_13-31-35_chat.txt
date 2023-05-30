@@ -1,0 +1,90 @@
+[20-05-23 13:31:35.758][info] Start chat server initialization....
+[20-05-23 13:31:35.801][info] General chat has id = 0.
+[20-05-23 13:31:35.802][info] Say chat has id = 1.
+[20-05-23 13:31:35.802][info] Shout chat has id = 2.
+[20-05-23 13:31:35.802][info] Radio chat has id = 3.
+[20-05-23 13:31:35.802][info] Admin chat has id = 4.
+[20-05-23 13:31:35.802][info] Server chat has id = 5.
+[20-05-23 13:31:35.802][info] Chat server successfully initialized.
+[20-05-23 13:36:10.333][info] Player with id = '0' tries to connect.
+[20-05-23 13:36:10.333][info] Adding player '0' to chat server.
+[20-05-23 13:36:10.334][info] Player joined to default chats.
+[20-05-23 13:36:10.335][info] Player zehio(0) joined to chat server successfully.
+[20-05-23 13:39:52.280][info] Player with id = '4' tries to connect.
+[20-05-23 13:39:52.280][info] Adding player '4' to chat server.
+[20-05-23 13:39:52.281][info] Player joined to default chats.
+[20-05-23 13:39:52.281][info] Player Danowookie(4) joined to chat server successfully.
+[20-05-23 13:41:34.850][info] Player 0 disconnecting....
+[20-05-23 13:41:34.850][info] Disconnecting player 0 finished.
+[20-05-23 13:42:36.953][info] Player 0 disconnecting....
+[20-05-23 13:42:36.953][info] Disconnecting player 0 finished.
+[20-05-23 13:42:36.953][info] Player with id = '0' tries to connect.
+[20-05-23 13:42:36.954][info] Adding player '0' to chat server.
+[20-05-23 13:42:36.954][error] Player or connection is not found on server!.
+[20-05-23 13:42:36.954][error] player = null.
+[20-05-23 13:42:39.132][info] Player with id = '0' tries to connect.
+[20-05-23 13:42:39.132][info] Adding player '0' to chat server.
+[20-05-23 13:42:39.132][info] Player joined to default chats.
+[20-05-23 13:42:39.132][info] Player zehio(0) joined to chat server successfully.
+[20-05-23 13:46:49.928][info] Player 0 disconnecting....
+[20-05-23 13:46:49.928][info] Disconnecting player 0 finished.
+[20-05-23 13:48:33.480][info] Player 0 disconnecting....
+[20-05-23 13:48:33.480][info] Disconnecting player 0 finished.
+[20-05-23 13:48:33.480][info] Player with id = '0' tries to connect.
+[20-05-23 13:48:33.480][info] Adding player '0' to chat server.
+[20-05-23 13:48:33.481][error] Player or connection is not found on server!.
+[20-05-23 13:48:33.481][error] player = null.
+[20-05-23 13:48:35.547][info] Player with id = '0' tries to connect.
+[20-05-23 13:48:35.547][info] Adding player '0' to chat server.
+[20-05-23 13:48:35.547][info] Player joined to default chats.
+[20-05-23 13:48:35.547][info] Player zehio(0) joined to chat server successfully.
+[20-05-23 14:11:29.199][info] Player 0 disconnecting....
+[20-05-23 14:11:29.199][info] Disconnecting player 0 finished.
+[20-05-23 14:12:10.669][info] Player 0 disconnecting....
+[20-05-23 14:12:10.669][info] Disconnecting player 0 finished.
+[20-05-23 14:12:10.669][info] Player with id = '0' tries to connect.
+[20-05-23 14:12:10.669][info] Adding player '0' to chat server.
+[20-05-23 14:12:10.669][error] Player or connection is not found on server!.
+[20-05-23 14:12:10.669][error] player = null.
+[20-05-23 14:12:12.966][info] Player with id = '0' tries to connect.
+[20-05-23 14:12:12.966][info] Adding player '0' to chat server.
+[20-05-23 14:12:12.966][info] Player joined to default chats.
+[20-05-23 14:12:12.966][info] Player zehio(0) joined to chat server successfully.
+[20-05-23 14:15:39.764][info] Player 4 disconnecting....
+[20-05-23 14:15:39.764][info] Disconnecting player 4 finished.
+[20-05-23 14:16:13.926][info] Player 4 disconnecting....
+[20-05-23 14:16:13.926][info] Disconnecting player 4 finished.
+[20-05-23 14:16:13.926][info] Player 4 disconnecting....
+[20-05-23 14:16:13.926][info] Disconnecting player 4 finished.
+[20-05-23 14:16:16.328][info] Player 0 disconnecting....
+[20-05-23 14:16:16.328][info] Disconnecting player 0 finished.
+[20-05-23 14:18:11.731][info] Player 0 disconnecting....
+[20-05-23 14:18:11.731][info] Disconnecting player 0 finished.
+[20-05-23 14:18:11.731][info] Player with id = '0' tries to connect.
+[20-05-23 14:18:11.731][info] Adding player '0' to chat server.
+[20-05-23 14:18:11.731][error] Player or connection is not found on server!.
+[20-05-23 14:18:11.731][error] player = null.
+[20-05-23 14:18:13.984][info] Player with id = '0' tries to connect.
+[20-05-23 14:18:13.984][info] Adding player '0' to chat server.
+[20-05-23 14:18:13.984][info] Player joined to default chats.
+[20-05-23 14:18:13.984][info] Player zehio(0) joined to chat server successfully.
+[20-05-23 14:24:23.228][info] Player 0 disconnecting....
+[20-05-23 14:24:23.228][info] Disconnecting player 0 finished.
+[20-05-23 14:26:42.635][info] Player 0 disconnecting....
+[20-05-23 14:26:42.635][info] Disconnecting player 0 finished.
+[20-05-23 14:26:42.635][info] Player with id = '0' tries to connect.
+[20-05-23 14:26:42.635][info] Adding player '0' to chat server.
+[20-05-23 14:26:42.635][error] Player or connection is not found on server!.
+[20-05-23 14:26:42.635][error] player = null.
+[20-05-23 14:26:44.657][info] Player with id = '0' tries to connect.
+[20-05-23 14:26:44.657][info] Adding player '0' to chat server.
+[20-05-23 14:26:44.657][info] Player joined to default chats.
+[20-05-23 14:26:44.657][info] Player zehio(0) joined to chat server successfully.
+[20-05-23 14:27:31.439][info] Player with id = '4' tries to connect.
+[20-05-23 14:27:31.439][info] Adding player '4' to chat server.
+[20-05-23 14:27:31.439][info] Player joined to default chats.
+[20-05-23 14:27:31.439][info] Player Danowookie(4) joined to chat server successfully.
+[20-05-23 14:51:45.585][info] Player 0 disconnecting....
+[20-05-23 14:51:45.585][info] Disconnecting player 0 finished.
+[20-05-23 14:51:45.585][info] Player 0 disconnecting....
+[20-05-23 14:51:45.585][info] Disconnecting player 0 finished.

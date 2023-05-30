@@ -1,0 +1,2 @@
+[25-05-23 00:57:05.348] reason = roomSpotted x,y,z = 8233,11816,0 room = livingroom
+reason = roomSpotted x,y,z = 8238,11817,0 room = kitchen.
